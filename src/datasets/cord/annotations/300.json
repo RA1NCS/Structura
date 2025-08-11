@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "PAKET SUPER MANTAP 2A RAACHA",
+      "unitprice": "59.091",
+      "cnt": "1",
+      "price": "59.091"
+    },
+    {
+      "nm": "RICE",
+      "unitprice": "6.364",
+      "cnt": "1",
+      "price": "6.364"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "65.455",
+    "tax_price": "6.546"
+  },
+  "total": {
+    "total_price": "72.001",
+    "creditcardprice": "72.001"
+  }
+}

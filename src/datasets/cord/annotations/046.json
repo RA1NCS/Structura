@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "BASO TAHU BIHUN",
+    "unitprice": "43.636",
+    "cnt": "1",
+    "price": "43.636"
+  },
+  "sub_total": {
+    "subtotal_price": "43.636",
+    "tax_price": "4.364"
+  },
+  "total": {
+    "total_price": "48.000",
+    "cashprice": "100.000",
+    "changeprice": "52.000"
+  }
+}

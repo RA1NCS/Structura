@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "nm": "CHUM CHURUM",
+      "cnt": "1",
+      "price": "150,000"
+    },
+    {
+      "nm": "CHAMISUL",
+      "cnt": "3",
+      "price": "450,000"
+    },
+    {
+      "nm": "GONG GIBAB",
+      "cnt": "3",
+      "price": "60,000"
+    },
+    {
+      "nm": "CHULPAN CHEESE DAK GALBI",
+      "cnt": "1",
+      "price": "250,000"
+    },
+    {
+      "nm": "* MINERAL WATER",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "CREAM TEOK PO KI",
+      "cnt": "1",
+      "price": "110,000"
+    },
+    {
+      "nm": "CHUM CHURUM PEACH",
+      "cnt": "8",
+      "price": "1,200,000"
+    },
+    {
+      "nm": "PREMIUM YANGNYEOM GALBISAL",
+      "cnt": "1",
+      "price": "250,000"
+    },
+    {
+      "nm": "CHAM KKOT SAL",
+      "cnt": "2",
+      "price": "660,000"
+    },
+    {
+      "nm": "U SAM GYEOP",
+      "cnt": "1",
+      "price": "160,000"
+    },
+    {
+      "nm": "CHEESE GAMJAJEON",
+      "cnt": "1",
+      "price": "100,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "3,403,000",
+    "discount_price": "300,000",
+    "service_price": "238,210",
+    "tax_price": "362,581"
+  },
+  "total": {
+    "total_price": "3,703,791",
+    "changeprice": "0",
+    "creditcardprice": "3,703,791"
+  }
+}

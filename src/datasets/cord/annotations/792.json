@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "KOPI CAM",
+    "cnt": "1",
+    "price": "20,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "20,000",
+    "cashprice": "20,000"
+  }
+}

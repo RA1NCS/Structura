@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST STRAWBERRY DONUT",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "TLJ CROQUETTE",
+      "cnt": "1",
+      "price": "17,000"
+    },
+    {
+      "nm": "POTATO PEPPER BAGEL",
+      "cnt": "1",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "43,000",
+    "cashprice": "50,000",
+    "changeprice": "7,000"
+  }
+}

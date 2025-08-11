@@ -1,0 +1,86 @@
+{
+  "menu": [
+    {
+      "nm": "SUSHI SALMON",
+      "unitprice": "65,000.00",
+      "cnt": "1.00",
+      "price": "65,000.00"
+    },
+    {
+      "nm": "SALAD DRESSING THOUSAND ISLAND",
+      "unitprice": "3,500.00",
+      "cnt": "1.00",
+      "price": "3,500.00"
+    },
+    {
+      "nm": "LEMONADE",
+      "unitprice": "8,000.00",
+      "cnt": "2.00",
+      "price": "16,000.00"
+    },
+    {
+      "nm": "SHRIMP SATSUMA",
+      "unitprice": "8,000.00",
+      "cnt": "1.00",
+      "price": "8,000.00"
+    },
+    {
+      "nm": "SHITAKE SKEWER",
+      "unitprice": "9,000.00",
+      "cnt": "1.00",
+      "price": "9,000.00"
+    },
+    {
+      "nm": "SPICY TEMPURA",
+      "unitprice": "9,000.00",
+      "cnt": "1.00",
+      "price": "9,000.00"
+    },
+    {
+      "nm": "SAUCE SHOYU SUSHI YAMASA HALAL",
+      "unitprice": "1,000.00",
+      "cnt": "10.00",
+      "price": "10,000.00"
+    },
+    {
+      "nm": "SUSHI SALMON FRESH PAKET",
+      "unitprice": "36,000.00",
+      "cnt": "1.00",
+      "price": "36,000.00"
+    },
+    {
+      "nm": "SENDOK DAN GARPU PLASTIK",
+      "unitprice": "1,000.00",
+      "cnt": "1.00",
+      "price": "1,000.00"
+    },
+    {
+      "nm": "TOBIKKO ORANGE",
+      "unitprice": "5,000.00",
+      "cnt": "3.00",
+      "price": "15,000.00"
+    },
+    {
+      "nm": "TAMAGO",
+      "unitprice": "3,000.00",
+      "cnt": "1.00",
+      "price": "3,000.00"
+    },
+    {
+      "nm": "SATSUMA AGE NIGIRI",
+      "unitprice": "3,000.00",
+      "cnt": "1.00",
+      "price": "3,000.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "178,500.00",
+    "tax_price": "17,850.00"
+  },
+  "total": {
+    "total_price": "196,350.00",
+    "total_etc": "-350.00",
+    "changeprice": "0.00",
+    "creditcardprice": "196,000.00"
+  }
+}

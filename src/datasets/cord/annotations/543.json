@@ -1,0 +1,26 @@
+{
+  "menu": {
+    "nm": "HZ CHOCO M1 (L) TOPPING",
+    "cnt": "1 x",
+    "price": "27,000",
+    "sub": [
+      {
+        "nm": "CRYSTAL COFFEE JELLY (L)",
+        "price": "4,000"
+      },
+      {
+        "nm": "ICE LESS",
+        "price": "0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "31,000"
+  },
+  "total": {
+    "total_price": "31,000",
+    "cashprice": "51,000",
+    "changeprice": "20,000",
+    "menuqty_cnt": "1"
+  }
+}

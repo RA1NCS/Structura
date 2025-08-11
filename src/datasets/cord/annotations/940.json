@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "Gojek Chicken Chilli Sauce H",
+      "cnt": "1",
+      "price": "95,000"
+    },
+    {
+      "nm": "Gojek Chicken Soy Sauce F",
+      "cnt": "1",
+      "price": "180,000"
+    },
+    {
+      "nm": "Gojek French Fries",
+      "cnt": "1",
+      "price": "70,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "345,000",
+    "discount_price": "0",
+    "service_price": "0",
+    "tax_price": "34,500"
+  },
+  "total": {
+    "total_price": "379,500"
+  }
+}

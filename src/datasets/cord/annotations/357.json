@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "nm": "Nats Bitter Choco cake",
+      "cnt": "1",
+      "price": "40.000"
+    },
+    {
+      "nm": "Es Kopi Susu Pandan",
+      "cnt": "1",
+      "price": "35.000"
+    },
+    {
+      "nm": "Extra Whipping Cream",
+      "cnt": "1",
+      "price": "10.000"
+    },
+    {
+      "nm": "Iced Coffee Latte",
+      "cnt": "1",
+      "price": "40.000"
+    },
+    {
+      "nm": "Iced Sugar Cane",
+      "cnt": "1",
+      "price": "28.000"
+    },
+    {
+      "nm": "Sparkling Mango Mojito",
+      "cnt": "1",
+      "price": "65.000"
+    },
+    {
+      "nm": "Iced Coffee",
+      "cnt": "1",
+      "price": "28.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "246.000",
+    "discount_price": "-36.900",
+    "service_price": "10.455",
+    "tax_price": "25.646"
+  },
+  "total": {
+    "total_price": "245.201"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "SAUSAGE AND SALAMI",
+      "cnt": "1",
+      "price": "62,000"
+    },
+    {
+      "nm": "GREEN MONSIEUR",
+      "cnt": "1",
+      "price": "57,000",
+      "sub": {
+        "nm": "ADD 1 W. ORIGINAL",
+        "cnt": "1",
+        "price": "12,000"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "131,000",
+    "service_price": "7,860",
+    "tax_price": "13,886"
+  },
+  "total": {
+    "total_price": "152,746"
+  }
+}

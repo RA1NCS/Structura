@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "CUSTARD SOBORO",
+    "cnt": "1",
+    "price": "12,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "12,000",
+    "cashprice": "12,000",
+    "changeprice": "0"
+  }
+}

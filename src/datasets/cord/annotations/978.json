@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "Mineral Water",
+      "cnt": "2",
+      "price": "18 000"
+    },
+    {
+      "nm": "Teh Tawar Dingin",
+      "cnt": "1",
+      "price": "11.000"
+    },
+    {
+      "nm": "Soto Betawi",
+      "cnt": "2",
+      "price": "116.000"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "cnt": "1",
+      "price": "9.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "154 000",
+    "service_price": "7 700",
+    "tax_price": "16 170"
+  },
+  "total": {
+    "total_price": "177.870",
+    "menuqty_cnt": "6"
+  }
+}

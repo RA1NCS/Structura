@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "Mineral Water (S)",
+      "cnt": "1",
+      "price": "15.000"
+    },
+    {
+      "nm": "Pocky Chocolate",
+      "cnt": "1",
+      "price": "20.000"
+    },
+    {
+      "nm": "Nerds Strw Grape",
+      "cnt": "1",
+      "price": "42.000"
+    },
+    {
+      "nm": "Nerds Trop Punch",
+      "cnt": "1",
+      "price": "42.000"
+    },
+    {
+      "nm": "Nerds Watermelon",
+      "cnt": "1",
+      "price": "42.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "161.000",
+    "cashprice": "161.000",
+    "changeprice": "0"
+  }
+}

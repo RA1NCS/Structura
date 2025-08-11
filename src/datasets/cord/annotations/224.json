@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "BASO TAHU KWETIAU",
+    "unitprice": "43,181",
+    "cnt": "1",
+    "price": "43,181"
+  },
+  "sub_total": {
+    "subtotal_price": "43,181",
+    "tax_price": "4,318"
+  },
+  "total": {
+    "total_price": "TOTAL 47,499",
+    "cashprice": "48.000",
+    "changeprice": "501"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "nm": "NS MINI STICK",
+      "unitprice": "1,200",
+      "cnt": "2X",
+      "discountprice": "240-",
+      "price": "2,400"
+    },
+    {
+      "nm": "GERRY SM CHEESE110",
+      "unitprice": "8,000",
+      "cnt": "1X",
+      "discountprice": "800 -",
+      "price": "8,000"
+    },
+    {
+      "nm": "DECOLGEN TABLET 4S",
+      "unitprice": "2,100",
+      "cnt": "3X",
+      "discountprice": "630-",
+      "price": "6,300"
+    },
+    {
+      "nm": "FIXALL HK 26521",
+      "unitprice": "19,900",
+      "cnt": "2X",
+      "discountprice": [
+        "8,600 -",
+        "3,120-"
+      ],
+      "price": "39,800"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "43,110"
+  },
+  "total": {
+    "total_price": "43,110",
+    "creditcardprice": "43,110"
+  }
+}

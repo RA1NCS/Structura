@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "ZUPPA SOUP",
+      "num": "05130000",
+      "price": "28,600"
+    },
+    {
+      "nm": "CHILLY N'CHEESE",
+      "num": "04010000",
+      "price": "33,000"
+    },
+    {
+      "nm": "BEEF CHEDDAR PO",
+      "num": "04080000",
+      "price": "36,300"
+    },
+    {
+      "nm": "MINERAL WATER",
+      "num": "13100000",
+      "price": "6.600"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "104.500",
+    "cashprice": "105,000",
+    "changeprice": "500"
+  }
+}

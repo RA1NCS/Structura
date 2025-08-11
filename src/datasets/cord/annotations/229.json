@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "SBL GR UDANG SPC",
+    "price": "30,000"
+  },
+  "sub_total": {
+    "subtotal_price": "30,000",
+    "tax_price": "3,000"
+  },
+  "total": {
+    "total_price": "33,000",
+    "cashprice": "33,000",
+    "menuqty_cnt": "1.00"
+  }
+}

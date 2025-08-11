@@ -1,0 +1,66 @@
+{
+  "menu": [
+    {
+      "nm": "#PKTPOLSBTSPON2S",
+      "unitprice": "8,000",
+      "cnt": "1X",
+      "discountprice": "800-",
+      "price": "8,000"
+    },
+    {
+      "nm": "BENECOL LYCHEE 2S",
+      "unitprice": "14,000",
+      "cnt": "1X",
+      "discountprice": [
+        "1,400 -",
+        "1,260-"
+      ],
+      "price": "14,000"
+    },
+    {
+      "nm": "REGAL MARIE 125 GR",
+      "unitprice": "12,200",
+      "cnt": "1X",
+      "discountprice": "1,220-",
+      "price": "12,200"
+    },
+    {
+      "nm": "7 UP CAN 330 ML",
+      "unitprice": "6,000",
+      "cnt": "1X",
+      "discountprice": "600-",
+      "price": "6,000"
+    },
+    {
+      "nm": "SAKATONIK LVR 10S",
+      "unitprice": "6,400",
+      "cnt": "1X",
+      "discountprice": "640-",
+      "price": "6,400"
+    },
+    {
+      "nm": "DUA BELIBIS SBL135",
+      "unitprice": "9,300",
+      "cnt": "1X",
+      "discountprice": [
+        "1,400 -",
+        "790-"
+      ],
+      "price": "9,300"
+    },
+    {
+      "nm": "DAUN SEREH",
+      "unitprice": "19,900",
+      "cnt": "0,292X",
+      "discountprice": "581-",
+      "price": "5,811"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "53,020"
+  },
+  "total": {
+    "total_price": "53,020",
+    "creditcardprice": "53,020"
+  }
+}

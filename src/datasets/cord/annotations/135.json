@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "IKAN GABUS FRESH",
+      "unitprice": "98,500",
+      "cnt": "0.264X",
+      "price": "26,004"
+    },
+    {
+      "nm": "IKAN BUMBU KUNING",
+      "unitprice": "72,500",
+      "cnt": "0.308X",
+      "price": "22,330"
+    },
+    {
+      "nm": "OCTOPUS SATAY",
+      "unitprice": "7,500",
+      "cnt": "1X",
+      "price": "7,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "55,834"
+  },
+  "total": {
+    "total_price": [
+      "55,834",
+      "55,800"
+    ],
+    "total_etc": "34 -",
+    "cashprice": "60,000",
+    "changeprice": "4,200",
+    "menuqty_cnt": "1.572"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "STIX CINNAMON",
+    "unitprice": "19,000",
+    "cnt": "1 X",
+    "price": "19,000"
+  },
+  "sub_total": {
+    "subtotal_price": "19,000"
+  },
+  "total": {
+    "total_price": "19,000",
+    "cashprice": "50,000",
+    "changeprice": "31,000"
+  }
+}

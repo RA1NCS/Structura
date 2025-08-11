@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Avocado with Rock Salt and Cocoa",
+    "cnt": "1",
+    "price": "30,000",
+    "sub": {
+      "nm": "Cream [L]"
+    }
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "30,000",
+    "total_etc": "50,000",
+    "changeprice": "20,000"
+  }
+}

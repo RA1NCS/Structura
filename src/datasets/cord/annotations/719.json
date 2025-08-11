@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "golden",
+    "unitprice": "49,000.0",
+    "cnt": "1",
+    "price": "49,000.0"
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 45.545.45",
+    "tax_price": "Rp 4,454.55"
+  },
+  "total": {
+    "total_price": "Rp 49,000.00",
+    "cashprice": "Rp 50,000.00",
+    "changeprice": "Rp 1,000.00"
+  }
+}

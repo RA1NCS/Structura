@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "NASI + AYAM KATSU TER...",
+      "cnt": "1",
+      "price": "31,819"
+    },
+    {
+      "nm": "TEH PANAS",
+      "cnt": "1",
+      "price": "5,455"
+    },
+    {
+      "nm": "ES TEH MANIS",
+      "cnt": "1",
+      "price": "7,273"
+    },
+    {
+      "nm": "CH CORDON BLEU NASI",
+      "cnt": "1",
+      "price": "42,728"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "87,275",
+    "tax_price": "8,728",
+    "etc": "-3"
+  },
+  "total": {
+    "total_price": "96,000",
+    "creditcardprice": "96,000",
+    "menuqty_cnt": "ITEMS :4"
+  }
+}

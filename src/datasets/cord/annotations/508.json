@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "1013-ROTI NANAS",
+      "unitprice": "8.500,00",
+      "cnt": "x1",
+      "price": "8.500,00"
+    },
+    {
+      "nm": "3025-BOLU GULUNG MOCCA PTG",
+      "unitprice": "6.000.00",
+      "cnt": "x1",
+      "price": "6.000,00"
+    },
+    {
+      "nm": "5014-LEMPER IKAN",
+      "unitprice": "6.500,00",
+      "cnt": "x1",
+      "price": "6.500,00"
+    },
+    {
+      "nm": "1245-PLASTIK TENTENGAN KECIL",
+      "unitprice": "0,00",
+      "cnt": "x1",
+      "price": "0,00"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "21.000,00",
+    "cashprice": "50.000,00",
+    "changeprice": "29.000,00",
+    "menuqty_cnt": "4"
+  }
+}

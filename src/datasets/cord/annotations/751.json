@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "nm": "MIE + AYAM KATSU TERI...",
+      "cnt": "1",
+      "price": "31,819"
+    },
+    {
+      "nm": "MIE SIRAM AYAM",
+      "cnt": "1",
+      "price": "30,910"
+    },
+    {
+      "nm": "NASI GORENG SPC",
+      "cnt": "1",
+      "price": "30,001"
+    },
+    {
+      "nm": "ES JERUK",
+      "cnt": "2",
+      "price": "34,546"
+    },
+    {
+      "nm": "FRENCH FRIES",
+      "cnt": "1",
+      "price": "18,182"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "145,458",
+    "tax_price": "14,546",
+    "etc": "-4"
+  },
+  "total": {
+    "total_price": "160,000",
+    "cashprice": "160,000",
+    "changeprice": "0",
+    "menuqty_cnt": "ITEMS :6"
+  }
+}

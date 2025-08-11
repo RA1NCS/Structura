@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "TALAM UNGU",
+      "unitprice": "@6500",
+      "cnt": "3X",
+      "discountprice": "-7,800",
+      "price": "19,500"
+    },
+    {
+      "nm": "MIKA KECIL",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "11,700"
+  },
+  "total": {
+    "total_price": "11,700",
+    "cashprice": "20,000",
+    "changeprice": "8,300",
+    "menuqty_cnt": "4.00xITEMs"
+  }
+}

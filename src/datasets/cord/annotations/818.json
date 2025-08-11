@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "Propolis Cair",
+    "unitprice": "156000",
+    "cnt": "1",
+    "price": "156000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "156000",
+    "cashprice": "156000",
+    "changeprice": "Rp. 0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "PILLOW DURIA",
+      "price": "36,364"
+    },
+    {
+      "nm": "PLASTIK 25",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "36,364",
+    "tax_price": "3,636"
+  },
+  "total": {
+    "total_price": "40,000",
+    "cashprice": "50,000",
+    "changeprice": "10,000"
+  }
+}

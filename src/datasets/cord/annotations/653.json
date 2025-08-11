@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "nm": "Pandan Cream brulee",
+      "cnt": "1",
+      "price": "59,000"
+    },
+    {
+      "nm": "Tanqueray NO 10 gls",
+      "cnt": "2",
+      "price": "240,000"
+    },
+    {
+      "nm": "Lurisia Bolle 330ml",
+      "cnt": "1",
+      "price": "55,000"
+    },
+    {
+      "nm": "Lurisia stille 330ml",
+      "cnt": "1",
+      "price": "45,000",
+      "sub": {
+        "nm": "++Tonic Water",
+        "cnt": "2"
+      }
+    },
+    {
+      "nm": "Tonic Water",
+      "cnt": "1",
+      "price": "36,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "435,000",
+    "service_price": "34,800",
+    "tax_price": "46,980",
+    "etc": [
+      "376,000",
+      "59,000"
+    ]
+  },
+  "total": {
+    "total_price": "516,780",
+    "menutype_cnt": "5",
+    "menuqty_cnt": "6"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "menu": [
+    {
+      "nm": "CHINESE TE",
+      "unitprice": "14.000",
+      "cnt": "3",
+      "price": "42,000"
+    },
+    {
+      "nm": "CRYSANTNUM",
+      "cnt": "3"
+    },
+    {
+      "nm": "CHINESE TE",
+      "unitprice": "14,000",
+      "cnt": "3",
+      "price": "42,000"
+    },
+    {
+      "nm": "CRYSANTNUM",
+      "cnt": "3",
+      "etc": "TMBHN CUP"
+    },
+    {
+      "nm": "KRPU MCN TIM 700",
+      "cnt": "1",
+      "price": "364,000",
+      "etc": "TIM KECAP"
+    },
+    {
+      "nm": "AYM RBS 1 EKOR",
+      "cnt": "1",
+      "price": "190.000",
+      "etc": "JADI 2 TMPAT"
+    },
+    {
+      "nm": "AGSIO TH PC JMR",
+      "cnt": "1",
+      "price": "98,000",
+      "etc": "JD 2 TMPAT"
+    },
+    {
+      "nm": "POCAI BWG PUTIH",
+      "cnt": "1",
+      "price": "84,000",
+      "etc": "JD 2 TMPAT",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "10.000",
+      "cnt": "5",
+      "price": "50,000"
+    },
+    {
+      "nm": "IKAN MALAS 650GR",
+      "cnt": "1",
+      "price": "364,000",
+      "etc": "TIM KECAP"
+    },
+    {
+      "nm": "AGSIO TH PC JMR",
+      "cnt": "1",
+      "price": "98.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "1,082,000",
+    "discount_price": "250,000 -",
+    "service_price": "79,920",
+    "tax_price": "141,192",
+    "etc": [
+      "1.198.000",
+      "84,000",
+      "30.000"
+    ]
+  },
+  "total": {
+    "total_price": "1,303,112"
+  }
+}

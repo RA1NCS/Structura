@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "TAHU GORENG",
+      "cnt": "1",
+      "price": "28,000"
+    },
+    {
+      "nm": "CAKWE",
+      "cnt": "1",
+      "price": "17,000"
+    },
+    {
+      "nm": "PHO TAI CHIN(R)",
+      "cnt": "1",
+      "price": "63,000"
+    },
+    {
+      "nm": "TEA",
+      "cnt": "1",
+      "price": "11,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "119,000",
+    "service_price": "8,330",
+    "tax_price": "12,733"
+  },
+  "total": {
+    "total_price": "140,063",
+    "creditcardprice": "140,063"
+  }
+}

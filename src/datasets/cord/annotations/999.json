@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "nm": "Giant Squid",
+    "cnt": "x1",
+    "price": "Rp. 39.000",
+    "sub": [
+      {
+        "nm": "C.Finishing - Cut",
+        "price": "Rp. 0"
+      },
+      {
+        "nm": "B.Spicy Level - Extreme Hot",
+        "price": "Rp. 0"
+      },
+      {
+        "nm": "A.Flavour- Salt & Pepper",
+        "price": "Rp. 0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "Rp. 39.000"
+  },
+  "total": {
+    "total_price": "Rp. 39.000",
+    "cashprice": "Rp. 50.000",
+    "changeprice": "Rp. 11.000"
+  }
+}

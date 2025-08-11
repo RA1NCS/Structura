@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "nm": "SPECIALTY COMBO",
+      "unitprice": "25,000",
+      "cnt": "1 x",
+      "price": "25,000",
+      "sub": [
+        {
+          "nm": "*SOURCREAMONION*",
+          "unitprice": "0",
+          "cnt": "1 x",
+          "price": "0"
+        },
+        {
+          "nm": "*LEMONADER*",
+          "unitprice": "5,000",
+          "cnt": "1 x",
+          "price": "5,000"
+        }
+      ]
+    },
+    {
+      "nm": "BOTTLED WATER",
+      "unitprice": "0",
+      "cnt": "1 x",
+      "price": "0",
+      "sub": {
+        "nm": "*ADES300ML*",
+        "unitprice": "5,000",
+        "cnt": "1 x",
+        "price": "5,000"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "35,000"
+  },
+  "total": {
+    "total_price": "35,000",
+    "cashprice": "50,000",
+    "changeprice": "15,000"
+  }
+}

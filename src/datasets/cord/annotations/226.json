@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "nm": "PKT TELOR/PERKEDEL",
+      "price": "26,000"
+    },
+    {
+      "nm": "DENDENG",
+      "price": "23,000"
+    },
+    {
+      "nm": "SBL GR TERI",
+      "price": "17,000"
+    },
+    {
+      "nm": "NESTLE 330 ML",
+      "unitprice": "8,000",
+      "cnt": "2X",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "82,000",
+    "tax_price": "8,200"
+  },
+  "total": {
+    "total_price": "90,200",
+    "cashprice": "100,000",
+    "changeprice": "9,800",
+    "menuqty_cnt": "5.00"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": [
+      "1",
+      "MIE UP BSR C"
+    ],
+    "cnt": "1",
+    "price": "36,000"
+  },
+  "sub_total": {
+    "tax_price": "3,600"
+  },
+  "total": {
+    "total_price": "39,600",
+    "total_etc": "39,600",
+    "cashprice": "0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "FA-Cookies Mix 200 gr",
+      "unitprice": "80,000.00",
+      "cnt": "1",
+      "price": "80,000.00"
+    },
+    {
+      "nm": "FA-Polycello Bag 200 gr",
+      "unitprice": "0.00",
+      "cnt": "1",
+      "price": "0.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "80,000.00",
+    "discount_price": "0.00",
+    "tax_price": "8,000.00"
+  },
+  "total": {
+    "total_price": "88,000.00",
+    "changeprice": "0.00",
+    "creditcardprice": "88,000.00"
+  }
+}

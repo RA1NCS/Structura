@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "RISOL ROGUT",
+      "unitprice": "@9,000",
+      "cnt": "2X",
+      "discountprice": "-5,400",
+      "price": "18,000"
+    },
+    {
+      "nm": "MIKA KCL",
+      "price": "0"
+    },
+    {
+      "nm": "PLASTIK 25",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "12,600"
+  },
+  "total": {
+    "total_price": "12,600",
+    "cashprice": "100,700",
+    "changeprice": "88,100"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "Arem Arem",
+      "unitprice": "@ 12.000",
+      "cnt": "2 x",
+      "price": "24.000"
+    },
+    {
+      "nm": "Kroket",
+      "unitprice": "@ 12.000",
+      "cnt": "1 x",
+      "price": "12.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp 36.000",
+    "tax_price": "Rp 3.600"
+  },
+  "total": {
+    "total_price": "Rp 39.600",
+    "emoneyprice": "Rp 39.600"
+  }
+}

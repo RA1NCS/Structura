@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "Bihun Ayam Jamur",
+      "cnt": "1",
+      "price": "25.909"
+    },
+    {
+      "nm": "Es Teh",
+      "cnt": "1",
+      "price": "5.455"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "31.364",
+    "tax_price": "3.136"
+  },
+  "total": {
+    "total_price": "34.500",
+    "emoneyprice": "34.500"
+  }
+}

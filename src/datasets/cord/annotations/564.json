@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "JPR SUS U",
+      "price": "12,727"
+    },
+    {
+      "nm": "L C MESES",
+      "price": "20,000"
+    },
+    {
+      "nm": "PLASTIK 33",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "32,727",
+    "tax_price": "3,273"
+  },
+  "total": {
+    "total_price": "36,000",
+    "cashprice": "50,000",
+    "changeprice": "14,000",
+    "menuqty_cnt": "3.00xITEMS"
+  }
+}

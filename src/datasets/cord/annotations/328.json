@@ -1,0 +1,45 @@
+{
+  "menu": [
+    {
+      "nm": "Coke (L)",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Fanta Strwbry (L)",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "XXI Java Tea Spc",
+      "cnt": "1",
+      "price": "25.000",
+      "sub": {
+        "nm": "Extra Jelly Lychee",
+        "cnt": "1",
+        "price": "5.000"
+      }
+    },
+    {
+      "nm": "Caramel Medium",
+      "cnt": "1",
+      "price": "50.000"
+    },
+    {
+      "nm": "Butter Milk Popcorn",
+      "cnt": "1",
+      "price": "38.000"
+    },
+    {
+      "nm": "Tahu Ikan Oma Giok",
+      "cnt": "3",
+      "price": "60.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "228.000",
+    "cashprice": "228.000",
+    "changeprice": "0"
+  }
+}

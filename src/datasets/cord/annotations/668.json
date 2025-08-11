@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "BEEF CURRYRICE",
+      "cnt": "1",
+      "price": "49,091"
+    },
+    {
+      "nm": "EBI TEMPURA",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "SKEWERED TOFU ROLL",
+      "cnt": "1",
+      "price": "12,727"
+    },
+    {
+      "nm": "HOT OCHA",
+      "cnt": "1",
+      "price": "10,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "86,363",
+    "tax_price": "8,636"
+  },
+  "total": {
+    "total_price": "94,999",
+    "cashprice": "[94,999]",
+    "changeprice": "5,001"
+  }
+}

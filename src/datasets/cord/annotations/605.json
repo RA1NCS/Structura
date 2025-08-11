@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "ES KOPI SUSU",
+      "cnt": "6",
+      "price": "108.000"
+    },
+    {
+      "nm": "ES KOPI SOKLAT",
+      "cnt": "1",
+      "price": "20.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "128.000",
+    "changeprice": "0",
+    "emoneyprice": "128.000"
+  }
+}

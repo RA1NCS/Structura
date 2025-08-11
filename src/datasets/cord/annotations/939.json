@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "PKT TELOR/PERKEDEL",
+      "price": "26,000"
+    },
+    {
+      "nm": "TERONG",
+      "price": "12,000"
+    },
+    {
+      "nm": "PARU",
+      "price": "23,000"
+    },
+    {
+      "nm": "SBL GR ATI/AMPLA",
+      "price": "20,000"
+    },
+    {
+      "nm": "NESTLE 330 ML",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "89,000",
+    "tax_price": "8,900"
+  },
+  "total": {
+    "total_price": "97,900",
+    "cashprice": "100,000",
+    "changeprice": "2,100",
+    "menuqty_cnt": "5.00"
+  }
+}

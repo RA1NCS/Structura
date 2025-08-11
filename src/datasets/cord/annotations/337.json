@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Iced Sleepy Coffee",
+      "cnt": "1",
+      "price": "38.000"
+    },
+    {
+      "nm": "Pisang Goreng",
+      "cnt": "1",
+      "price": "28.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "66.000",
+    "tax_price": "6.600"
+  },
+  "total": {
+    "total_price": "72.600",
+    "changeprice": "0",
+    "creditcardprice": "72.600"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "nm": "DAGING SAPI",
+    "cnt": "1",
+    "price": "75.000",
+    "sub": {
+      "nm": "+B. TELOR BESAR"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "75.000",
+    "etc": "0"
+  },
+  "total": {
+    "total_price": "75.000",
+    "changeprice": "0",
+    "emoneyprice": "75.000"
+  }
+}

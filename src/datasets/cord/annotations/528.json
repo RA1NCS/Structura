@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "CHOCOLATE ECLAIR",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "DOUBLE CHEESE PAN BREAD(L",
+      "cnt": "1",
+      "price": "37,000"
+    },
+    {
+      "nm": "WHOLE WHEAT PAN BREAD",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "70,000",
+    "cashprice": "100,000",
+    "changeprice": "30,000"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "nm": "SPGTHY BOLOGNASE",
+      "cnt": "1",
+      "price": "58,000"
+    },
+    {
+      "nm": "PEPPER AUS",
+      "cnt": "1",
+      "price": "165,000",
+      "sub": {
+        "nm": "WELL DONE"
+      }
+    },
+    {
+      "nm": "WAGYU RIBEYE",
+      "cnt": "1",
+      "price": "195,000",
+      "sub": {
+        "nm": "MEDIUM WELL"
+      }
+    },
+    {
+      "nm": "ICED LEMON TEA",
+      "cnt": "1",
+      "price": "22,000"
+    },
+    {
+      "nm": "FUSION TEA LYCHE",
+      "cnt": "1",
+      "price": "28,000"
+    },
+    {
+      "nm": "NUTTELA BROWNIES",
+      "cnt": "1",
+      "price": "35,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "503,000",
+    "service_price": "25,150",
+    "tax_price": "52,815"
+  },
+  "total": {
+    "total_price": "580,965"
+  }
+}

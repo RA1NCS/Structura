@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "PECEL MADIUN",
+      "cnt": "1",
+      "price": "39.500"
+    },
+    {
+      "nm": "AIR MINERAL",
+      "cnt": "1",
+      "price": "10.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "49.500",
+    "service_price": "2.475",
+    "tax_price": "5.198"
+  },
+  "total": {
+    "total_price": "57.173",
+    "menuqty_cnt": "2"
+  }
+}

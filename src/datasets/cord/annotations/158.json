@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "KFC DAY",
+      "cnt": "1",
+      "price": "34,545"
+    },
+    {
+      "nm": "CHARGE TA",
+      "cnt": "1",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "35,454",
+    "tax_price": "3,546"
+  },
+  "total": {
+    "total_price": "39,000",
+    "cashprice": "100,000",
+    "changeprice": "61,000",
+    "menuqty_cnt": "2"
+  }
+}

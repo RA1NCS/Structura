@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "AIR MINERAL",
+    "price": "8,181"
+  },
+  "sub_total": {
+    "subtotal_price": "8,181",
+    "tax_price": "818"
+  },
+  "total": {
+    "total_price": "8,999",
+    "cashprice": "10,000",
+    "changeprice": "1,001"
+  }
+}

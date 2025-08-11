@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "Mineral water (s)",
+      "cnt": "1",
+      "price": "15.000"
+    },
+    {
+      "nm": "Blend GT (M)",
+      "cnt": "1",
+      "price": "55.000"
+    },
+    {
+      "nm": "Extra Jelly Lychee",
+      "cnt": "1",
+      "price": "5.000"
+    },
+    {
+      "nm": "Extra Ice Cream",
+      "cnt": "1",
+      "price": "15.000"
+    },
+    {
+      "nm": "French Fries + FF",
+      "cnt": "1",
+      "price": "50.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "140.000",
+    "cashprice": "150.000",
+    "changeprice": "10.000"
+  }
+}

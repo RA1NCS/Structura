@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "YELLOW",
+    "cnt": "2",
+    "price": "20,000"
+  },
+  "sub_total": {
+    "subtotal_price": "20,000",
+    "tax_price": "2,000"
+  },
+  "total": {
+    "total_price": "22,000",
+    "cashprice": "102,000",
+    "changeprice": "80,000",
+    "menuqty_cnt": "2"
+  }
+}

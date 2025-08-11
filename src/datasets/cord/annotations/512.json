@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "Gado Gado",
+      "cnt": "1",
+      "price": "36,000"
+    },
+    {
+      "nm": "Nasi Putih GG",
+      "cnt": "1",
+      "price": "7,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "43,000"
+  },
+  "total": {
+    "total_price": "43,000",
+    "cashprice": "43,000"
+  }
+}

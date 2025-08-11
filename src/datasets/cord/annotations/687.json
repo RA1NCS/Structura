@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "AMBUSH DBL CHS BURG",
+      "cnt": "8",
+      "price": "132,000.00"
+    },
+    {
+      "nm": "AMBUSH CHS BURGER",
+      "cnt": "2",
+      "price": "22.000.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "154,000,00",
+    "tax_price": "14,000.00"
+  },
+  "total": {
+    "total_price": "154,000.00",
+    "changeprice": "0.00",
+    "creditcardprice": "154,000.00"
+  }
+}

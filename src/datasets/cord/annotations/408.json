@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "GoFood Beragam - ICE LAT TE",
+      "cnt": "1",
+      "price": "13.500"
+    },
+    {
+      "nm": "ES KOPI SUSU",
+      "cnt": "1",
+      "price": "18.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "31.500",
+    "changeprice": "0",
+    "emoneyprice": "31.500"
+  }
+}

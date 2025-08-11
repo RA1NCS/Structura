@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "BLUS WANITA",
+      "num": "0571-1854",
+      "unitprice": "@120,000",
+      "cnt": "1",
+      "discountprice": "0%",
+      "itemsubtotal": "120,000"
+    },
+    {
+      "nm": "SHOPPING BAG",
+      "num": "1002-0060",
+      "unitprice": "@880",
+      "cnt": "1",
+      "discountprice": "100%",
+      "itemsubtotal": "0"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "120,000",
+    "changeprice": "0",
+    "creditcardprice": "120,000",
+    "menuqty_cnt": "(2"
+  }
+}

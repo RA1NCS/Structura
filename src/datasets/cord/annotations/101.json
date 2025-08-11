@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "ES CHOCO GREEN TEA",
+    "cnt": "1",
+    "price": "13.000"
+  },
+  "sub_total": {
+    "subtotal_price": "13.000",
+    "tax_price": "1.300"
+  },
+  "total": {
+    "total_price": "14.300",
+    "cashprice": "100.000",
+    "changeprice": "85.700"
+  }
+}

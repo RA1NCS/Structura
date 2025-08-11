@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "nm": "PAKET BER4",
+      "cnt": "1",
+      "price": "138,182",
+      "sub": [
+        {
+          "nm": "BREAD N CHEESE DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "BREAD N CHEESE DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "CRABSTICK FUSILLI DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "LIME SQUASH DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "LIME SQUASH DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "P/P SPICY TUNA DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "P/P THUOSAND ISL DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "P/P BEEF CORN",
+          "cnt": "1"
+        },
+        {
+          "nm": "SUNRISE ITALIAN SODA",
+          "cnt": "1"
+        },
+        {
+          "nm": "LIPTON ICE TEA DEL",
+          "cnt": "1"
+        }
+      ]
+    },
+    {
+      "nm": "50% CHICKEN ROYAL",
+      "cnt": "1",
+      "price": "18,182"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "156,364",
+    "tax_price": "15,636"
+  },
+  "total": {
+    "total_price": "172,000"
+  }
+}

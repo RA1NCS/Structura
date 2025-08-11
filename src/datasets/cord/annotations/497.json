@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "SOUR CREAM N ONION",
+    "unitprice": "17,000",
+    "cnt": "1",
+    "price": "17,000"
+  },
+  "sub_total": {
+    "subtotal_price": "17,000"
+  },
+  "total": {
+    "total_price": "17,000",
+    "cashprice": "52,000",
+    "changeprice": "35,000"
+  }
+}

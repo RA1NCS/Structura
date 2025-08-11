@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Ketoprak SPC",
+    "cnt": "1",
+    "price": "29,090"
+  },
+  "sub_total": {
+    "subtotal_price": "29,090",
+    "tax_price": "2,909"
+  },
+  "total": {
+    "total_price": "32,000",
+    "cashprice": "50,000",
+    "changeprice": "18,000"
+  }
+}

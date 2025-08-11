@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "DEPT02",
+    "price": "24,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "24,000",
+    "cashprice": "50,000",
+    "changeprice": "26,000"
+  }
+}

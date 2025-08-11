@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Hot Dog W Cheese",
+    "cnt": "1",
+    "price": "44.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "44.000",
+    "cashprice": "44.000",
+    "changeprice": "0"
+  }
+}

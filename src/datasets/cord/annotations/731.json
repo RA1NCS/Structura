@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "TEH PUCUK",
+      "cnt": "1",
+      "price": "9,091"
+    },
+    {
+      "nm": "SPICY C CHEESE",
+      "cnt": "1",
+      "price": "40,000"
+    },
+    {
+      "nm": "WOOSAM RICE R",
+      "cnt": "1",
+      "price": "33,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "82,727",
+    "tax_price": "8,273"
+  },
+  "total": {
+    "total_price": "91,000",
+    "cashprice": "91,000"
+  }
+}

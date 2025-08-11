@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "CHCKN CHEESE",
+    "price": "26,000"
+  },
+  "sub_total": {
+    "subtotal_price": "26,000"
+  },
+  "total": {
+    "total_price": "26,000",
+    "cashprice": "50,000",
+    "changeprice": "24,000",
+    "menuqty_cnt": "1.00xITEMS"
+  }
+}

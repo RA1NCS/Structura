@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "Peach Iced Tea",
+      "cnt": "1",
+      "price": "35.000"
+    },
+    {
+      "nm": "Mango Mint Iced Tea",
+      "cnt": "1",
+      "price": "35.000"
+    },
+    {
+      "nm": "Nannys Customer Fries",
+      "cnt": "1",
+      "price": "45.000"
+    },
+    {
+      "nm": "Robert Olio Mushroom Spaghetti",
+      "cnt": "1",
+      "price": "59.000"
+    },
+    {
+      "nm": "Emily's Shrimp Scampi Fettucine",
+      "cnt": "1",
+      "price": "69.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "243.000",
+    "discount_price": "(0)",
+    "service_price": "13.365",
+    "etc": "25.637"
+  },
+  "total": {
+    "total_price": "282.000",
+    "total_etc": "-02"
+  }
+}

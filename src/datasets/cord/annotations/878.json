@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "Lemon Tea (L)",
+    "cnt": "1",
+    "price": "25.000",
+    "sub": {
+      "nm": "Extra Jelly Lychee",
+      "cnt": "1",
+      "price": "5.000"
+    }
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "30.000",
+    "cashprice": "30.000",
+    "changeprice": "0"
+  }
+}

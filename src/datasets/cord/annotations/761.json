@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "Lemon Tea (L)",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Popcorn Salt (M)",
+      "cnt": "1",
+      "price": "40.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "65.000",
+    "cashprice": "65.000",
+    "changeprice": "0"
+  }
+}

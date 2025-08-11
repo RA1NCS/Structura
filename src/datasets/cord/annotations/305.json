@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "CARAMELALMOND",
+      "unitprice": "23,000",
+      "cnt": "1",
+      "price": "23,000"
+    },
+    {
+      "nm": "STIX ECLAIRS",
+      "unitprice": "19,000",
+      "cnt": "1",
+      "price": "19,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "42,000"
+  },
+  "total": {
+    "total_price": "42,000",
+    "cashprice": "100,000",
+    "changeprice": "58,000"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "ALMOND CREAM CHEESE",
+    "unitprice": "28,000",
+    "cnt": "2",
+    "price": "56,000"
+  },
+  "sub_total": {
+    "subtotal_price": "56,000"
+  },
+  "total": {
+    "total_price": "56,000",
+    "cashprice": "100,000",
+    "changeprice": "44,000"
+  }
+}

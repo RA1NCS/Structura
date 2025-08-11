@@ -1,0 +1,117 @@
+{
+  "menu": [
+    {
+      "nm": "OPEN KITCHEN",
+      "cnt": "1",
+      "price": "102,000",
+      "sub": [
+        {
+          "nm": "AYAM GR SALT&PAPER"
+        },
+        {
+          "nm": "MEDIUM"
+        },
+        {
+          "nm": "**PESAN**"
+        },
+        {
+          "nm": "AYAMNYA DI FILLET"
+        },
+        {
+          "nm": "**PESAN**"
+        }
+      ]
+    },
+    {
+      "nm": "TAHU LAMPION",
+      "cnt": "1",
+      "price": "165,000",
+      "sub": [
+        {
+          "nm": "=*MEDIUM*="
+        },
+        {
+          "nm": "FREE BAKMI ULTAH"
+        }
+      ]
+    },
+    {
+      "nm": "OPEN KITCHEN",
+      "cnt": "1",
+      "price": "0",
+      "sub": [
+        {
+          "nm": "MEDIUM"
+        },
+        {
+          "nm": "**PESAN**"
+        }
+      ]
+    },
+    {
+      "nm": "SUP JGG KPT",
+      "cnt": "1",
+      "price": "132,000",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "AYAM PANGGANG",
+      "cnt": "1",
+      "price": "168,000"
+    },
+    {
+      "nm": "CHINESE TE",
+      "unitprice": "@14,000",
+      "cnt": "2",
+      "price": "28,000",
+      "sub": [
+        {
+          "cnt": "2"
+        },
+        {
+          "nm": "KWAN'IM"
+        }
+      ]
+    },
+    {
+      "nm": "LUMPIA UDANG",
+      "cnt": "1",
+      "price": "71,000",
+      "sub": [
+        {
+          "nm": "=*MEDIUM*="
+        },
+        {
+          "nm": "BUNCIS BWG PTH /M"
+        }
+      ]
+    },
+    {
+      "nm": "OPEN KITCHEN",
+      "cnt": "1",
+      "price": "78,000"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "@10,000",
+      "cnt": "5",
+      "price": "50,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "650,800",
+    "discount_price": "143,200 -",
+    "service_price": "47,640",
+    "tax_price": "79,400",
+    "etc": [
+      "716,000",
+      "28,000",
+      "50,000"
+    ]
+  },
+  "total": {
+    "total_price": "777,840"
+  }
+}

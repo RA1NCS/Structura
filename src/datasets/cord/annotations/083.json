@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "ICED White",
+      "cnt": "1",
+      "price": "43.000"
+    },
+    {
+      "nm": "Mexican Baked Rice",
+      "cnt": "1",
+      "price": "58.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "101.000"
+  },
+  "total": {
+    "total_price": "101.000",
+    "changeprice": "0",
+    "creditcardprice": "101.000"
+  }
+}

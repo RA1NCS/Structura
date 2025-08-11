@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "ZAI.Milk Choco Egg Avenger60gr",
+      "unitprice": "53,636.00",
+      "cnt": "1",
+      "price": "53,636.00"
+    },
+    {
+      "nm": "ZAI.Milk Choco Egg Frozen 60gr",
+      "unitprice": "53,636.00",
+      "cnt": "1",
+      "price": "53,636.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "107,272.00",
+    "discount_price": "0.00",
+    "tax_price": "10,727.00"
+  },
+  "total": {
+    "total_price": "117,999.00",
+    "changeprice": "0.00",
+    "creditcardprice": "117,999.00"
+  }
+}

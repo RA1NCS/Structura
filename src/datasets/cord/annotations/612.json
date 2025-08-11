@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Mineral Water",
+      "cnt": "1",
+      "price": "6,364"
+    },
+    {
+      "nm": "Mocca Float",
+      "cnt": "1",
+      "price": "8,636"
+    },
+    {
+      "nm": "1 PC CHOCHICKS",
+      "cnt": "1",
+      "price": "18,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "33,636",
+    "tax_price": "3,364"
+  },
+  "total": {
+    "total_price": "37,000",
+    "cashprice": "50,000",
+    "changeprice": "13,000",
+    "menuqty_cnt": "3"
+  }
+}

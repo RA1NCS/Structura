@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "medium tub",
+    "unitprice": "49,000.0",
+    "cnt": "1",
+    "price": "49,000.0"
+  },
+  "sub_total": {
+    "subtotal_price": "45,545.45",
+    "tax_price": "4,454.55"
+  },
+  "total": {
+    "total_price": "49,000.00",
+    "cashprice": "50,000.00",
+    "changeprice": "1,000.00"
+  }
+}

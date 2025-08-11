@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "Kuey Teow Goreng Singapore",
+      "unitprice": "43,000",
+      "cnt": "1x",
+      "price": "43,000"
+    },
+    {
+      "nm": "Tea (Ice)",
+      "unitprice": "12,000",
+      "cnt": "1x",
+      "price": "12,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "55,000",
+    "service_price": "2,750",
+    "tax_price": "5,775",
+    "etc": "-25"
+  },
+  "total": {
+    "total_price": "63,500",
+    "cashprice": "70,000",
+    "changeprice": "6,500"
+  }
+}

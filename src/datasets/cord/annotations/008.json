@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "Kimchi P",
+      "unitprice": "36.000",
+      "cnt": "1x",
+      "price": "36.000"
+    },
+    {
+      "nm": "Fre ice grentea",
+      "unitprice": "0.000",
+      "cnt": "1x",
+      "price": "Rp 0.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "36.000",
+    "cashprice": "Rp 51.000",
+    "changeprice": "15.000"
+  }
+}

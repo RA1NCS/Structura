@@ -1,0 +1,56 @@
+{
+  "menu": {
+    "nm": "FL-Xmas 30 Off",
+    "cnt": "1",
+    "price": "68,180",
+    "sub": [
+      {
+        "nm": "PAKET SLICES",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "FL Cake - French Vanilla SLC",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "PAKET SLICES",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "FL Cake - Oreo SLC",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "PAKET SLICES",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "FL Cake - Strawberry SLC",
+        "cnt": "1",
+        "price": "0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "68,180",
+    "discount_price": "0",
+    "tax_price": "6,818",
+    "etc": [
+      "0",
+      "0",
+      "2"
+    ]
+  },
+  "total": {
+    "total_price": "75,000",
+    "cashprice": "100,000",
+    "changeprice": "25,000",
+    "creditcardprice": "0",
+    "menutype_cnt": "1"
+  }
+}

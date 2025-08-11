@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "BASO KUAH",
+      "unitprice": "43.636",
+      "cnt": "1",
+      "price": "43.636"
+    },
+    {
+      "nm": "A.MINERAL GELAS",
+      "unitprice": "3,000",
+      "cnt": "1",
+      "price": "3,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": [
+      "46.636",
+      "46.636"
+    ],
+    "tax_price": "4.664"
+  },
+  "total": {
+    "total_price": "51.300",
+    "cashprice": "52.000",
+    "changeprice": "700"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "RM0025 -RM. Tawar Polo",
+    "unitprice": "19,000",
+    "cnt": "1",
+    "price": "19,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "19,000",
+    "cashprice": "19,000",
+    "menuqty_cnt": "1"
+  }
+}

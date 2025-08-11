@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "JAMUR",
+      "cnt": "2",
+      "price": "10,000"
+    },
+    {
+      "nm": "TAHU",
+      "cnt": "1",
+      "price": "5,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "15,000",
+    "tax_price": "1,500"
+  },
+  "total": {
+    "total_price": "16,500",
+    "cashprice": "20,000",
+    "changeprice": "3,500"
+  }
+}

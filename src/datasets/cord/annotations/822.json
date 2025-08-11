@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "[MD] SOFT STEAMED CHEESEC",
+      "cnt": "2",
+      "price": "20,000"
+    },
+    {
+      "nm": "[MD] SOFT STEAMED CHOCOCA",
+      "cnt": "2",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "40,000",
+    "cashprice": "100,000",
+    "changeprice": "60,000"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Bio Solar",
+    "unitprice": "Rp. 5.150",
+    "cnt": "48,540",
+    "price": "Rp. 250.000"
+  },
+  "sub_total": {},
+  "total": {
+    "changeprice": [
+      "Rp. 250.000",
+      "Rp. 0000"
+    ]
+  }
+}

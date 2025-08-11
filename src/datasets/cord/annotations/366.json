@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "CHICKEN KATSU CURRY UDON",
+      "cnt": "1",
+      "price": "46,364"
+    },
+    {
+      "nm": "KAKIAGE TEMPURA",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "COLD OCHA",
+      "cnt": "1",
+      "price": "10,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "67,273",
+    "tax_price": "6,727"
+  },
+  "total": {
+    "total_price": "74,000",
+    "changeprice": "0",
+    "creditcardprice": "[74,000]"
+  }
+}

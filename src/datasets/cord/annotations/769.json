@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Avocado with Rock Salt and Cocoa Cream [L]",
+    "cnt": "1",
+    "price": "27,273"
+  },
+  "sub_total": {
+    "subtotal_price": "27,273",
+    "tax_price": "2,727"
+  },
+  "total": {
+    "total_price": "30,000",
+    "cashprice": "50,000",
+    "changeprice": "20,000"
+  }
+}

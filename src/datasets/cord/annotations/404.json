@@ -1,0 +1,51 @@
+{
+  "menu": [
+    {
+      "nm": "ORIGINAL COMBO",
+      "unitprice": "20,000",
+      "cnt": "1",
+      "price": "20,000",
+      "sub": [
+        {
+          "nm": "*ORIGINAL NO SALT*",
+          "unitprice": "0",
+          "cnt": "1",
+          "price": "0"
+        },
+        {
+          "nm": "*MILOR*",
+          "unitprice": "4,000",
+          "cnt": "1",
+          "price": "4,000"
+        }
+      ]
+    },
+    {
+      "nm": "ORIGINAL COMBO",
+      "unitprice": "20,000",
+      "cnt": "1",
+      "price": "20,000",
+      "sub": [
+        {
+          "nm": "*ORIGINAL NO SALT*",
+          "unitprice": "0",
+          "cnt": "1",
+          "price": "0"
+        },
+        {
+          "nm": "*LEMONADER*",
+          "unitprice": "5,000",
+          "cnt": "1",
+          "price": "5,000"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "49,000"
+  },
+  "total": {
+    "total_price": "49,000",
+    "creditcardprice": "49,000"
+  }
+}

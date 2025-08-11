@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "THAI GREEN TEA ICE",
+    "cnt": "1",
+    "price": "24.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "24.000",
+    "cashprice": "54.000",
+    "changeprice": "30.000"
+  }
+}

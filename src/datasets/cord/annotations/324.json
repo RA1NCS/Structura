@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "medium tub",
+    "unitprice": "39,200.0",
+    "cnt": "1",
+    "price": "39,200.0"
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 35,636.36",
+    "tax_price": "Rp 3,563.64"
+  },
+  "total": {
+    "total_price": "39,200,00",
+    "cashprice": "Rp 39,200.00"
+  }
+}

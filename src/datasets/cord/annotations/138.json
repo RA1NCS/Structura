@@ -1,0 +1,55 @@
+{
+  "menu": [
+    {
+      "nm": "BACON SHIMEJI SPAGHE",
+      "unitprice": "48000",
+      "cnt": "1.00",
+      "price": "48000"
+    },
+    {
+      "nm": "CHICKEN KATSUDON",
+      "unitprice": "48000",
+      "cnt": "1.00",
+      "price": "48000"
+    },
+    {
+      "nm": "WELL TORI KARAAGE MU",
+      "unitprice": "58000",
+      "cnt": "1.00.",
+      "price": "58000"
+    },
+    {
+      "nm": "WELL CHICKEN KATSU C",
+      "unitprice": "58000",
+      "cnt": "1.00",
+      "price": "58000"
+    },
+    {
+      "nm": "CLASSIC TOMATO",
+      "unitprice": "48000",
+      "cnt": "1.00",
+      "price": ".48000"
+    },
+    {
+      "nm": "RENDANG OMURICE",
+      "unitprice": "48000",
+      "cnt": "1.00",
+      "price": "48000"
+    },
+    {
+      "nm": "#F11 CREAM HAMBURG 0",
+      "unitprice": "58000",
+      "cnt": "1.00",
+      "price": "58000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "366.000",
+    "service_price": "18.300",
+    "tax_price": "38.430"
+  },
+  "total": {
+    "total_price": "422,730",
+    "menuqty_cnt": "7"
+  }
+}

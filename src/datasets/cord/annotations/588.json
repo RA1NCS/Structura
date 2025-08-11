@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "CHICKEN KATSU CURRY RICE",
+      "cnt": "1",
+      "price": "46,364"
+    },
+    {
+      "nm": "NIKU UDON",
+      "cnt": "1",
+      "price": "49,091"
+    },
+    {
+      "nm": "HOT OCHA",
+      "cnt": "1",
+      "price": "10,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "106,364",
+    "tax_price": "10,636"
+  },
+  "total": {
+    "total_price": "117,000",
+    "changeprice": "0",
+    "creditcardprice": "117,000"
+  }
+}

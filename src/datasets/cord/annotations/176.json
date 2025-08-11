@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "Spaghetti Bini Muda (Bol ognese) - DINE IN",
+      "cnt": "1",
+      "price": "19.000"
+    },
+    {
+      "nm": "French Fries - DINE IN",
+      "cnt": "1",
+      "price": "12.000"
+    },
+    {
+      "nm": "Mineral Water - DINE IN",
+      "cnt": "1",
+      "price": "7.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "38.000",
+    "cashprice": "50.000",
+    "changeprice": "12.000"
+  }
+}

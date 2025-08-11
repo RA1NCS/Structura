@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "cnt": "6",
+      "price": "54,000"
+    },
+    {
+      "nm": "PIZZA TOAST",
+      "cnt": "2",
+      "price": "32,000"
+    },
+    {
+      "nm": "CROQUE MONSIEUR",
+      "cnt": "1",
+      "price": "17,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "103,000",
+    "cashprice": [
+      "100,000",
+      "100,000"
+    ],
+    "changeprice": "97,000"
+  }
+}

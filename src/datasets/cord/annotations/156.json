@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "BOLU KUKUS PX",
+      "unitprice": "@13000",
+      "cnt": "3X",
+      "discountprice": "-11,700",
+      "price": "39,000"
+    },
+    {
+      "nm": "PLASTIK SEDANG",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "27,300"
+  },
+  "total": {
+    "total_price": "27,300",
+    "cashprice": "50,000",
+    "changeprice": "22,700",
+    "menuqty_cnt": "4.00xITEMs"
+  }
+}

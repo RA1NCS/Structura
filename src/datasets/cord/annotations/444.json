@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "Arem Arem",
+    "unitprice": "12.000",
+    "cnt": "4x",
+    "price": "48.000"
+  },
+  "sub_total": {
+    "subtotal_price": "48.000",
+    "tax_price": "4.800"
+  },
+  "total": {
+    "total_price": "52.800",
+    "cashprice": "54.000",
+    "changeprice": "1.200"
+  }
+}

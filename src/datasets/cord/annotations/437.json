@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "TALKING ACTIVITY BK",
+      "num": "4808539",
+      "unitprice": "254,500",
+      "cnt": "1",
+      "price": "254,500"
+    },
+    {
+      "nm": "KERTAS KADO 1500",
+      "num": "1500",
+      "unitprice": "1,500",
+      "cnt": "1",
+      "price": "1,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "256,000"
+  },
+  "total": {
+    "total_price": "256,000",
+    "cashprice": "256,000",
+    "changeprice": "0",
+    "menutype_cnt": "2",
+    "menuqty_cnt": "2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "NB AYAM",
+      "price": "41.818"
+    },
+    {
+      "nm": "TEH/ES TEH MANIS",
+      "price": "7.727"
+    }
+  ],
+  "sub_total": {
+    "discount_price": "4,955"
+  },
+  "total": {
+    "total_price": "54,500",
+    "cashprice": "100.000",
+    "changeprice": "45.500",
+    "menuqty_cnt": "2.00xITEMS"
+  }
+}

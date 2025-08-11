@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "nm": "Fruit Compliment",
+      "cnt": "1"
+    },
+    {
+      "nm": "Udang Mentega Sdg (M",
+      "cnt": "1",
+      "price": "162,000"
+    },
+    {
+      "nm": "Chinese Tea-Jasmine",
+      "cnt": "2",
+      "price": "20,000"
+    },
+    {
+      "nm": "Buruno Gr IN",
+      "cnt": "5",
+      "price": "230,000"
+    },
+    {
+      "nm": "Nasi Putih",
+      "cnt": "5",
+      "price": "45,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "457,000",
+    "discount_price": "78,400)",
+    "service_price": "27,420",
+    "tax_price": "48,442",
+    "etc": [
+      "378,600",
+      "20,000",
+      "45,000",
+      "313,600"
+    ]
+  },
+  "total": {
+    "total_price": "454,462",
+    "creditcardprice": "454,462"
+  }
+}

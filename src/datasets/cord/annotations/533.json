@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "TROPICAL PUNCH",
+      "cnt": "1",
+      "price": "30,000"
+    },
+    {
+      "nm": "SOUP 50%",
+      "cnt": "1",
+      "price": "7,273"
+    },
+    {
+      "nm": "SALAD BAR 50%",
+      "cnt": "1",
+      "price": "17,273"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "54,546",
+    "tax_price": "5,454"
+  },
+  "total": {
+    "total_price": "60,000"
+  }
+}

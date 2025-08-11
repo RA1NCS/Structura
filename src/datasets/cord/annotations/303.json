@@ -1,0 +1,116 @@
+{
+  "menu": [
+    {
+      "nm": "AQUA 600ML",
+      "cnt": "5",
+      "price": "35,000"
+    },
+    {
+      "nm": "BIHUN GORENG SPECIAL",
+      "cnt": "1",
+      "price": "41,000"
+    },
+    {
+      "nm": "BIHUN MASAK KUAH",
+      "cnt": "1",
+      "price": "38,000"
+    },
+    {
+      "nm": "ES ALPUKAT",
+      "cnt": "1",
+      "price": "18,000"
+    },
+    {
+      "nm": "ES TEH MANIS",
+      "cnt": "5",
+      "price": "30,000"
+    },
+    {
+      "nm": "ES THE TAWAR",
+      "cnt": "1",
+      "price": "4,000"
+    },
+    {
+      "nm": "IFUMIE",
+      "cnt": "1",
+      "price": "43,000"
+    },
+    {
+      "nm": "JUICE ALPUKAT",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "JUICE STRAWBERRY",
+      "cnt": "1",
+      "price": "21,000"
+    },
+    {
+      "nm": "KWETIAW SIRAM SAPI",
+      "cnt": "1",
+      "price": "43,000"
+    },
+    {
+      "nm": "KWETIAW SIRAM SEA",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "KWETIAW GORENG SAPI",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "KWETIAW GORENG SEA",
+      "cnt": "2",
+      "price": "90,000"
+    },
+    {
+      "nm": "MIE GORENG SPECIAL",
+      "cnt": "2",
+      "price": "82,000"
+    },
+    {
+      "nm": "MPEKMPEK K SELAM",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "MPEKMPEK LENJER",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "NASI GORENG SPECIAL",
+      "cnt": "2",
+      "price": "82,000"
+    },
+    {
+      "nm": "TEH MANIS PANAS",
+      "cnt": "3",
+      "price": "18,000"
+    },
+    {
+      "nm": "TEH TAWAR",
+      "cnt": "2",
+      "price": "4,000"
+    },
+    {
+      "nm": "YAMIN BASO SAPI",
+      "cnt": "1",
+      "price": "30,000"
+    },
+    {
+      "nm": "YAMIN PANGSIT REBUS",
+      "cnt": "1",
+      "price": "31,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "760,000",
+    "tax_price": "76,000"
+  },
+  "total": {
+    "total_price": "836,000"
+  }
+}

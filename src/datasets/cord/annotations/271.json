@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "nm": "1GA+2CK+RW+RB12",
+    "unitprice": "30.500",
+    "cnt": "1",
+    "price": "30.500",
+    "sub": [
+      {
+        "nm": "Extra RB 16",
+        "unitprice": "4.000",
+        "cnt": "1",
+        "price": "4.000"
+      },
+      {
+        "nm": "UP Orange 16",
+        "unitprice": "1.500",
+        "cnt": "1",
+        "price": "1.500"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "36.000"
+  },
+  "total": {
+    "total_price": "36.000",
+    "cashprice": "50.000",
+    "changeprice": "14.000",
+    "menuqty_cnt": "3"
+  }
+}

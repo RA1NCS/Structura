@@ -1,0 +1,92 @@
+{
+  "menu": [
+    {
+      "nm": "AYAM",
+      "unitprice": "@10000",
+      "cnt": "2X",
+      "price": "20,000"
+    },
+    {
+      "nm": "DONAT AYAM",
+      "unitprice": "@10000",
+      "cnt": "2X",
+      "price": "20,000"
+    },
+    {
+      "nm": "ROTI SISIR",
+      "unitprice": "@17727",
+      "cnt": "1X",
+      "price": "17,727"
+    },
+    {
+      "nm": "BANANA SPLIT",
+      "unitprice": "@9545",
+      "cnt": "3X",
+      "price": "28,635"
+    },
+    {
+      "nm": "DONATCOKLAT",
+      "unitprice": "@10000",
+      "cnt": "4X",
+      "price": "40,000"
+    },
+    {
+      "nm": "TIGER ROLL PTG",
+      "unitprice": "@8636",
+      "cnt": "1X",
+      "price": "8,636"
+    },
+    {
+      "nm": "MARMER CAKE PTG",
+      "unitprice": "@6818",
+      "cnt": "1X",
+      "price": "6,818"
+    },
+    {
+      "nm": "BOLU HAWAI PTNG",
+      "unitprice": "@ 5909",
+      "cnt": "1X",
+      "price": "5,909"
+    },
+    {
+      "nm": "BANANA CAKE PTG",
+      "unitprice": "@6818",
+      "cnt": "1X",
+      "price": "6,818"
+    },
+    {
+      "nm": "MANDARIN CAKE PTG",
+      "unitprice": "@8182",
+      "cnt": "2X",
+      "price": "16,364"
+    },
+    {
+      "nm": "LAPIS SURABAYA PTG",
+      "unitprice": "@16818",
+      "cnt": "2X",
+      "price": "33,636"
+    },
+    {
+      "nm": "CAKE PITA",
+      "unitprice": "@11818",
+      "cnt": "1X",
+      "price": "11,818"
+    },
+    {
+      "nm": "PLASTIK TENTENG KECIL",
+      "unitprice": "@0",
+      "cnt": "2X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "216,361",
+    "tax_price": "21,636"
+  },
+  "total": {
+    "total_price": "237,997",
+    "cashprice": "300,000",
+    "changeprice": "62,003",
+    "menuqty_cnt": "23.00xITEMs"
+  }
+}

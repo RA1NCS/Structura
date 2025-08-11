@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Choco Devil",
+    "cnt": "1",
+    "price": "15,909"
+  },
+  "sub_total": {
+    "subtotal_price": "15,909",
+    "tax_price": "1,591"
+  },
+  "total": {
+    "total_price": "17,500",
+    "cashprice": "20,000",
+    "changeprice": "2,500"
+  }
+}

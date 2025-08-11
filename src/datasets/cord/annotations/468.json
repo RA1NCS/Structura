@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi CampurBali",
+      "unitprice": "52.000",
+      "cnt": "2",
+      "price": "104.000"
+    },
+    {
+      "nm": "Sambal Besar",
+      "unitprice": "32.000",
+      "cnt": "1",
+      "price": "32.000"
+    },
+    {
+      "nm": "Sambal Kecil",
+      "unitprice": "7.000",
+      "cnt": "1",
+      "price": "7.000"
+    },
+    {
+      "nm": "Es Teh Manis",
+      "unitprice": "7.000",
+      "cnt": "2",
+      "price": "14.000"
+    },
+    {
+      "nm": "KrpBangka/Bawang",
+      "unitprice": "10.000",
+      "cnt": "1",
+      "price": "10.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "cashprice": "167.000"
+  }
+}

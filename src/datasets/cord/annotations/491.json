@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "CUSTARD SOB RO",
+      "cnt": "1",
+      "price": "12,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "21,000",
+    "cashprice": "21,000",
+    "changeprice": "0"
+  }
+}

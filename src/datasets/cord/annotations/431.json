@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "SATE T1",
+    "price": "40,000"
+  },
+  "sub_total": {
+    "subtotal_price": "40,000",
+    "tax_price": "4,000"
+  },
+  "total": {
+    "total_price": "44,000",
+    "cashprice": "50,000",
+    "changeprice": "6,000"
+  }
+}

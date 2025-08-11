@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "nm": "PAKET BER2",
+    "cnt": "1",
+    "price": "69,091",
+    "sub": [
+      {
+        "nm": "BREAD N CHEESE DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "MAC N CHEESE DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "PEPSI DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "P/P THUOSAND ISL DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "LIPTON ICE TEA DEL",
+        "cnt": "1"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "69,091",
+    "tax_price": "6,909"
+  },
+  "total": {
+    "total_price": "76,000"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Pillow Choco",
+      "cnt": "1",
+      "price": "18,000"
+    },
+    {
+      "nm": "Pillow Cheese",
+      "cnt": "1",
+      "price": "18,000"
+    },
+    {
+      "nm": "Pillow Kombi",
+      "cnt": "1",
+      "price": "19,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "55,500",
+    "etc": "0"
+  },
+  "total": {
+    "total_price": "55,500",
+    "creditcardprice": "55,500",
+    "menutype_cnt": "3",
+    "menuqty_cnt": "3"
+  }
+}

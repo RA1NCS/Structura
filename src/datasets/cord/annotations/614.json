@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "nm": "Lemon iced tea",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Banana Milkshake",
+      "cnt": "1",
+      "price": "35.000"
+    },
+    {
+      "nm": "Heavy alvin potato",
+      "cnt": "1",
+      "price": "49.000"
+    },
+    {
+      "nm": "fettucine Hubert chicken capers",
+      "cnt": "1",
+      "price": "65.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "174.000",
+    "discount_price": "(0)",
+    "service_price": "9.570",
+    "etc": [
+      "18.357",
+      "- 27"
+    ]
+  },
+  "total": {
+    "total_price": "201.900"
+  }
+}

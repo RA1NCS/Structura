@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi Liwet",
+      "cnt": "1",
+      "price": "49.000"
+    },
+    {
+      "nm": "Nasi Uduk Ayam",
+      "cnt": "1",
+      "price": "47.000"
+    },
+    {
+      "nm": "Ayam Garang Asem",
+      "cnt": "1",
+      "price": "46.000"
+    },
+    {
+      "nm": "Ayam. Kremes",
+      "cnt": "1",
+      "price": "47.000"
+    },
+    {
+      "nm": "Nila Penyet + Nasi",
+      "cnt": "1",
+      "price": "45.000"
+    },
+    {
+      "nm": "Nasi Goreng Gila",
+      "cnt": "1",
+      "price": "52.000"
+    },
+    {
+      "nm": "Nasi Goreng Rawon",
+      "cnt": "1",
+      "price": "43.000"
+    },
+    {
+      "nm": "Mendoan",
+      "cnt": "1",
+      "price": "31.000"
+    },
+    {
+      "nm": "Teh Tawar Dingin",
+      "cnt": "3",
+      "price": "33.000"
+    },
+    {
+      "nm": "Teh Tawar Panas",
+      "cnt": "1",
+      "price": "11.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "404.000",
+    "service_price": "20.200",
+    "tax_price": "42.420"
+  },
+  "total": {
+    "total_price": "466.620",
+    "menuqty_cnt": "12"
+  }
+}

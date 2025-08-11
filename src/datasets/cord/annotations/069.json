@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "SAUSAGE DONUT",
+      "cnt": "1",
+      "price": "14,000"
+    },
+    {
+      "nm": "CHOCO DONUT PRETZEL",
+      "cnt": "1",
+      "price": "9,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "23,000",
+    "cashprice": "23,000",
+    "changeprice": "0"
+  }
+}

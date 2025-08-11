@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "LONTONG CAP GO MEH",
+      "unitprice": "57,000",
+      "cnt": "1 X",
+      "price": "57,000"
+    },
+    {
+      "nm": "NASI LIWET (SATE BUNTEL AYAM)",
+      "unitprice": "45,000",
+      "cnt": "1 X",
+      "price": "45,000"
+    },
+    {
+      "nm": "TEH JAWA",
+      "unitprice": "13,000",
+      "cnt": "2 X",
+      "price": "26,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "128,000",
+    "tax_price": "12,800"
+  },
+  "total": {
+    "total_price": "140,800",
+    "menuqty_cnt": "4"
+  }
+}

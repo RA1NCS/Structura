@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "ORIGINAL NO SALT",
+    "unitprice": "12,000",
+    "cnt": "1",
+    "price": "12,000"
+  },
+  "sub_total": {
+    "subtotal_price": "12,000"
+  },
+  "total": {
+    "total_price": "12,000",
+    "cashprice": "52,000",
+    "changeprice": "40,000"
+  }
+}

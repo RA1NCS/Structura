@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "REAL GANACHE",
+      "cnt": "1",
+      "price": "16,500"
+    },
+    {
+      "nm": "EGG TART",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "PIZZA TOAST",
+      "cnt": "1",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "45,500",
+    "cashprice": "50,000",
+    "changeprice": "4,500"
+  }
+}

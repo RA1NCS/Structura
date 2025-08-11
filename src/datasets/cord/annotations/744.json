@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "nm": "FL Cake-French",
+      "cnt": "2",
+      "price": "61,818",
+      "sub": {
+        "nm": "Vanilla SLC"
+      }
+    },
+    {
+      "nm": "Red Velvet S",
+      "cnt": "1",
+      "price": "36,360"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "98,178",
+    "discount_price": "0",
+    "tax_price": [
+      "9,817.8",
+      "0"
+    ],
+    "etc": [
+      "0",
+      "0",
+      "4.2"
+    ]
+  },
+  "total": {
+    "total_price": "108,000",
+    "cashprice": "110,000",
+    "changeprice": "2,000",
+    "creditcardprice": "0",
+    "menuqty_cnt": "3"
+  }
+}

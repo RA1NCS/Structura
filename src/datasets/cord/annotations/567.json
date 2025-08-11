@@ -1,0 +1,68 @@
+{
+  "menu": [
+    {
+      "nm": "PILOW DUR PX",
+      "discountprice": "-12,000",
+      "price": "40,000"
+    },
+    {
+      "nm": "NASI BAKAR",
+      "discountprice": "-9,450",
+      "price": "31,500"
+    },
+    {
+      "nm": "MIKA BESAR",
+      "price": "0"
+    },
+    {
+      "nm": "SENDOK MAKAN",
+      "price": "0"
+    },
+    {
+      "nm": "SIOMAY",
+      "unitprice": "@9500",
+      "cnt": "4X",
+      "discountprice": "-11,400",
+      "price": "38,000"
+    },
+    {
+      "nm": "MIKA SEDANG",
+      "price": "0"
+    },
+    {
+      "nm": "GARPU MAKAN",
+      "price": "0"
+    },
+    {
+      "nm": "MACARONI GR",
+      "discountprice": "-2,700",
+      "price": "9,000"
+    },
+    {
+      "nm": "PASTELGORENG",
+      "discountprice": "-2,700",
+      "price": "9,000"
+    },
+    {
+      "nm": "SEMAR MENDEM",
+      "discountprice": "-2,700",
+      "price": "9,000"
+    },
+    {
+      "nm": "BAKWAN JAGUNG",
+      "discountprice": "-1,950",
+      "price": "6,500"
+    },
+    {
+      "nm": "PLASTIK TENTENG",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "100,100"
+  },
+  "total": {
+    "total_price": "100,100",
+    "creditcardprice": "100,100"
+  }
+}

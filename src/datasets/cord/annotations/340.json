@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "PKT LELEH AYM GEPRK",
+      "cnt": "1",
+      "price": "24,999"
+    },
+    {
+      "nm": "PKT MIE LELEH",
+      "cnt": "1",
+      "price": "27,273"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "52,272",
+    "tax_price": "5,227"
+  },
+  "total": {
+    "total_price": "57,500",
+    "cashprice": "110,000",
+    "changeprice": "52,500"
+  }
+}

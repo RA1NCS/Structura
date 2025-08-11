@@ -1,0 +1,53 @@
+{
+  "menu": [
+    {
+      "nm": "BUBBLE GUM",
+      "cnt": "1",
+      "price": "18,182"
+    },
+    {
+      "nm": "CAPPUCINO BLEND",
+      "cnt": "1",
+      "price": "20.909"
+    },
+    {
+      "nm": "STRAWBERRY",
+      "cnt": "1",
+      "price": "18,182"
+    },
+    {
+      "nm": "COOKIES AND CREAM",
+      "cnt": "1",
+      "price": "20.909",
+      "sub": {
+        "nm": "*4X Gula Murni 100%"
+      }
+    },
+    {
+      "nm": "CHOCO ALMOND",
+      "cnt": "1",
+      "price": "18.182",
+      "sub": {
+        "nm": "*Gula Murni 100%"
+      }
+    },
+    {
+      "nm": "CAPPUCINO BLEND",
+      "cnt": "1",
+      "price": "20.909",
+      "sub": {
+        "nm": "*Gula Murni 100%"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "117.273",
+    "tax_price": "11,727"
+  },
+  "total": {
+    "total_price": "129,000",
+    "cashprice": "150.000",
+    "changeprice": "21.000",
+    "menuqty_cnt": "6"
+  }
+}

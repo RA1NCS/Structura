@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "num": "PLU01062",
+      "unitprice": "5000",
+      "cnt": "2x",
+      "price": "10000"
+    },
+    {
+      "num": "PLU00102",
+      "unitprice": "20000",
+      "cnt": "1x",
+      "price": "20000"
+    },
+    {
+      "num": "PLU00121",
+      "unitprice": "55000",
+      "cnt": "1x",
+      "price": "55000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "cashprice": "85000"
+  }
+}

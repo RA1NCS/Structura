@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "Mango Lemon Tea",
+      "cnt": "1",
+      "price": "Rp 29,090"
+    },
+    {
+      "nm": "Sliders Set",
+      "cnt": "1",
+      "price": "Rp 113,636"
+    },
+    {
+      "nm": "Chicken Vege Rice Bowl",
+      "cnt": "1",
+      "price": "Rp 86,363"
+    },
+    {
+      "nm": "Discount BCA 15%",
+      "cnt": "1",
+      "price": "-Rp 34,363"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp 194,726",
+    "service_price": "Rp 9,736",
+    "tax_price": "Rp 20,446"
+  },
+  "total": {
+    "total_price": "Rp 224,908",
+    "creditcardprice": "Rp 224,908"
+  }
+}

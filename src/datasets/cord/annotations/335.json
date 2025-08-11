@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "cnt": "3",
+      "price": "27,000"
+    },
+    {
+      "nm": "CRANBERRY WALNUT (S)",
+      "cnt": "2",
+      "price": "17,000"
+    },
+    {
+      "nm": "POTATO SAUSAGE BREAD",
+      "cnt": "1",
+      "price": "19,000"
+    },
+    {
+      "nm": "BLACK CHEESE HOTDOG",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "83,000",
+    "creditcardprice": "83,000"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "nm": "ES TEH TAWAR",
+      "cnt": "2",
+      "price": "10,910"
+    },
+    {
+      "nm": "Lychee Tea",
+      "cnt": "1",
+      "price": "9,091"
+    },
+    {
+      "nm": "FROZEN CAPUCINO",
+      "cnt": "1",
+      "price": "15,455"
+    },
+    {
+      "nm": "NS BISTIK AYM TP",
+      "cnt": "1",
+      "price": "35,455"
+    },
+    {
+      "nm": "NS+AYAM GR RICA",
+      "cnt": "1",
+      "price": "35,455"
+    },
+    {
+      "nm": "KWETIAUW AYM SRM",
+      "cnt": "1",
+      "price": "31,819"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "138,185",
+    "tax_price": "13,819",
+    "etc": "-4"
+  },
+  "total": {
+    "total_price": "152,000",
+    "creditcardprice": "152,000",
+    "menuqty_cnt": "7"
+  }
+}

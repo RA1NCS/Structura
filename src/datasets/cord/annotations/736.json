@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "SmokeBeef + NuTea",
+    "cnt": "1",
+    "price": "21,818 -"
+  },
+  "sub_total": {
+    "subtotal_price": "21,818",
+    "tax_price": "2,182"
+  },
+  "total": {
+    "total_price": "24,000",
+    "cashprice": "50,000",
+    "changeprice": "26,000"
+  }
+}

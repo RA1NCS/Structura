@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "HAI CMP SPC",
+    "cnt": "1",
+    "price": "49,090"
+  },
+  "sub_total": {
+    "tax_price": "4,909"
+  },
+  "total": {
+    "total_price": "53,999",
+    "cashprice": "54,000"
+  }
+}

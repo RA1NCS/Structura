@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "RISOL ROGUT",
+      "unitprice": "@8182",
+      "cnt": "1X",
+      "price": "8,182"
+    },
+    {
+      "nm": "MINERALWATER",
+      "unitprice": "@5454",
+      "cnt": "1X",
+      "price": "5,454"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "13,636",
+    "tax_price": "1,363"
+  },
+  "total": {
+    "total_price": "14,999",
+    "cashprice": "20,000",
+    "changeprice": "5,001",
+    "menuqty_cnt": "2.00xITEMs"
+  }
+}

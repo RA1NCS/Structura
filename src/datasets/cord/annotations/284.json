@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "DOUBLE CHICK BREAST",
+      "cnt": "1",
+      "price": "89,000"
+    },
+    {
+      "nm": "IPED MANDARIN",
+      "cnt": "1",
+      "price": "38,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "127,000",
+    "discount_price": "12,700)",
+    "service_price": "9,525",
+    "tax_price": "13,653",
+    "etc": "114,300"
+  },
+  "total": {
+    "total_price": "137,478",
+    "creditcardprice": "137,478",
+    "menutype_cnt": ":2",
+    "menuqty_cnt": ":2"
+  }
+}

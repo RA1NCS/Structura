@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "LEMONADE22OZ",
+    "cnt": "1",
+    "price": "26,000",
+    "sub": {
+      "price": "26,000"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "26,000"
+  },
+  "total": {
+    "total_price": "26,000",
+    "changeprice": "0",
+    "emoneyprice": "26,000"
+  }
+}

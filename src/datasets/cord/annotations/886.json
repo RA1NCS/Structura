@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "Cheezemania",
+      "cnt": "1",
+      "price": "9,500"
+    },
+    {
+      "nm": "Mamamia",
+      "cnt": "1",
+      "price": "12,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "22,000"
+  },
+  "total": {
+    "total_price": "22,000",
+    "cashprice": "52,000",
+    "changeprice": "30,000",
+    "menutype_cnt": "2",
+    "menuqty_cnt": "2"
+  }
+}

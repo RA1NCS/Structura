@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "S-Ovaltine 50%",
+    "unitprice": "20,000",
+    "cnt": "1",
+    "price": "20,000",
+    "vatyn": "10% Tax Included"
+  },
+  "sub_total": {
+    "subtotal_price": "18,181",
+    "tax_price": "1,818"
+  },
+  "total": {
+    "total_price": "20,000",
+    "cashprice": "100,000",
+    "changeprice": "80,000"
+  }
+}

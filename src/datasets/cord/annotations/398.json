@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "KCS 1",
+      "price": "25,000"
+    },
+    {
+      "nm": "WHOP JR 15K",
+      "price": "15,000"
+    },
+    {
+      "nm": "CHANGE TO CHICKEN BOX",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "40,909",
+    "tax_price": "4,091"
+  },
+  "total": {
+    "total_price": "45,000"
+  }
+}

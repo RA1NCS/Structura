@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "Blend GT (M)",
+      "cnt": "1",
+      "price": "60.000"
+    },
+    {
+      "nm": "Es Kopi Susu Pandan",
+      "cnt": "1",
+      "price": "35.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "95.000",
+    "service_price": "0",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "95.000"
+  }
+}

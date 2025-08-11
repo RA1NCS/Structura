@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "CIRENG PANDAWA",
+    "cnt": "1",
+    "price": "26,818"
+  },
+  "sub_total": {
+    "subtotal_price": "26,818",
+    "tax_price": "2,681"
+  },
+  "total": {
+    "total_price": "29,500",
+    "cashprice": "29,500",
+    "menutype_cnt": "1",
+    "menuqty_cnt": "1"
+  }
+}

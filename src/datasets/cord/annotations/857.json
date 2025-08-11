@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "nm": "ICED TT",
+      "price": "20,000"
+    },
+    {
+      "nm": "ICED GT",
+      "price": "22,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "cashprice": "42,000"
+  }
+}

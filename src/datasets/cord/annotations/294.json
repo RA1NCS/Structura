@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "Dumpling",
+      "cnt": "1",
+      "price": "9.000"
+    },
+    {
+      "nm": "Jamur Kuping",
+      "cnt": "1",
+      "price": "8.000"
+    },
+    {
+      "nm": "Caisim Kecil",
+      "cnt": "1",
+      "price": "7.000"
+    },
+    {
+      "nm": "Lapchiong",
+      "unitprice": "12000",
+      "cnt": "2",
+      "price": "24.000"
+    },
+    {
+      "nm": "Otak-otak Singapore",
+      "unitprice": "11000",
+      "cnt": "2",
+      "price": "22.000"
+    },
+    {
+      "nm": "Bihun (MLY)",
+      "cnt": "1",
+      "price": "8.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "78.000"
+  },
+  "total": {
+    "total_price": "78.000",
+    "emoneyprice": "78.000"
+  }
+}

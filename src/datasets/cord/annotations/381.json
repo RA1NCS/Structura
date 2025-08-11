@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "RB. AI-AI CHOCO",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "RB. COKLAT COFFEE",
+      "cnt": "1",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "16,000"
+  },
+  "total": {
+    "total_price": "16,000",
+    "cashprice": "16,000",
+    "menutype_cnt": "2",
+    "menuqty_cnt": "2"
+  }
+}

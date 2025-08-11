@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "E Money Justice Leag",
+    "cnt": "2",
+    "price": "150.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "150.000",
+    "cashprice": "200.000",
+    "changeprice": "50.000"
+  }
+}

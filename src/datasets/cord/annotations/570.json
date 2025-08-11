@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "KAYA BUN",
+      "cnt": "1",
+      "price": "9,500"
+    },
+    {
+      "nm": "REAL MILK CHOCO BREAD",
+      "cnt": "2",
+      "price": "25,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "43,500",
+    "cashprice": "50,500",
+    "changeprice": "7,000"
+  }
+}

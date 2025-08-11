@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "YANG YUM GUI",
+      "cnt": "1",
+      "price": "97,000"
+    },
+    {
+      "nm": "SOONDUBU CHIGE",
+      "cnt": "1",
+      "price": "75,000"
+    },
+    {
+      "nm": "JAP CHAE",
+      "cnt": "1",
+      "price": "105,000"
+    },
+    {
+      "nm": "MAKOLI",
+      "cnt": "1",
+      "price": "120,000"
+    },
+    {
+      "nm": "GOCHUJANG",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "BIBIMBAB"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "482,000",
+    "discount_price": "0",
+    "service_price": "33,740",
+    "tax_price": "48,685"
+  },
+  "total": {
+    "total_price": "564,425",
+    "changeprice": "0",
+    "creditcardprice": "564,425"
+  }
+}

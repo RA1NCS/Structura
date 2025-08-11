@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "KOREAN CURRY M",
+    "cnt": "1",
+    "price": "40,909"
+  },
+  "sub_total": {
+    "subtotal_price": "40,909",
+    "tax_price": "4,090"
+  },
+  "total": {
+    "total_price": "44,999",
+    "cashprice": "45,000",
+    "changeprice": "0"
+  }
+}

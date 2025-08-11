@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "BASO TAHU BIHUN",
+      "unitprice": "50,000",
+      "cnt": "1",
+      "price": "50,000"
+    },
+    {
+      "nm": "LIMAU KASTURI",
+      "unitprice": "13,636",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "LOYALTY PROGRAM",
+      "unitprice": "0",
+      "cnt": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": [
+      "63,636",
+      "63,636"
+    ],
+    "tax_price": "6,364"
+  },
+  "total": {
+    "total_etc": "70,000",
+    "cashprice": "70,000",
+    "changeprice": "0"
+  }
+}

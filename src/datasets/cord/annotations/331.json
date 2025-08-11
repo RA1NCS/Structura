@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "KWT GR MGMSP",
+      "price": "43,182"
+    },
+    {
+      "nm": "TEH HANGAT",
+      "price": "5,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "49,091",
+    "tax_price": "4,909"
+  },
+  "total": {
+    "total_price": "54,000",
+    "cashprice": "-54,000",
+    "menuqty_cnt": "2"
+  }
+}

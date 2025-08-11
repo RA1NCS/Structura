@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "nm": "R.PISANG COKLAT",
+      "cnt": "2",
+      "price": "22,000"
+    },
+    {
+      "nm": "D.RING COKLAT",
+      "cnt": "2",
+      "price": "18,000"
+    },
+    {
+      "nm": "R.BANA CHIP",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "R.TAWAR ISI 2",
+      "cnt": "1",
+      "price": "4,500"
+    },
+    {
+      "nm": "NU GREENTEA ORGE",
+      "cnt": "1",
+      "price": "4,500"
+    },
+    {
+      "nm": "YAKULT ISI 5 PCS",
+      "cnt": "2",
+      "price": "18,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "76,000",
+    "cashprice": "80,000",
+    "changeprice": "4,000",
+    "menuqty_cnt": "9"
+  }
+}

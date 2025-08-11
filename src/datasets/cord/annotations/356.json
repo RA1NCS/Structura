@@ -1,0 +1,28 @@
+{
+  "menu": {
+    "nm": "VALUE MEAL 2",
+    "cnt": "1",
+    "price": "33,636",
+    "sub": [
+      {
+        "nm": "EGG RAMEN",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "COLD OCHA",
+        "cnt": "1",
+        "price": "0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "33,636",
+    "tax_price": "3,364"
+  },
+  "total": {
+    "total_price": "37,000",
+    "emoneyprice": "37,000",
+    "menuqty_cnt": "3"
+  }
+}

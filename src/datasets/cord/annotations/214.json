@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "RAMES AYAM",
+      "price": "26,000"
+    },
+    {
+      "nm": "Dendeng PDS",
+      "price": "27,000"
+    }
+  ],
+  "sub_total": {
+    "discount_price": "-300",
+    "tax_price": "5,300"
+  },
+  "total": {
+    "total_price": "58,000",
+    "cashprice": "100,000",
+    "changeprice": "42,000",
+    "menuqty_cnt": "2.00 ITEMS"
+  }
+}

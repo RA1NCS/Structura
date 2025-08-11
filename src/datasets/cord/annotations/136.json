@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "SATE PADANG",
+    "price": "60,000"
+  },
+  "sub_total": {
+    "subtotal_price": "60,000",
+    "tax_price": "6,000"
+  },
+  "total": {
+    "total_price": "66,000",
+    "cashprice": "100,000",
+    "changeprice": "34,000",
+    "menuqty_cnt": "1.00xITEMS"
+  }
+}

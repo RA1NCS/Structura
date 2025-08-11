@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "Butter croissant",
+      "unitprice": "14.000",
+      "cnt": "1x",
+      "discountprice": "(4.200)",
+      "price": "14.000"
+    },
+    {
+      "nm": "Almond Croissant",
+      "unitprice": "28.000",
+      "cnt": "1x",
+      "discountprice": "(8.400)",
+      "price": "28.000"
+    },
+    {
+      "nm": "Mini Chocolate Donut",
+      "unitprice": "12.000",
+      "cnt": "1x",
+      "discountprice": "(3.600)",
+      "price": "12.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp 37.800",
+    "tax_price": "Rp 3.780"
+  },
+  "total": {
+    "total_price": "Rp 41.580",
+    "emoneyprice": "Rp 41.580"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "Astor Stick Cokelat 40gr",
+      "unitprice": "8,000",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "green tea",
+      "unitprice": "8,500",
+      "cnt": "1",
+      "price": "8,500"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "16,500",
+    "cashprice": "50,000",
+    "changeprice": "33,500"
+  }
+}

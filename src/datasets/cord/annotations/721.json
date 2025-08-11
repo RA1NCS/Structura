@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "TERITAMA 4 PCS",
+    "cnt": "1",
+    "price": "36,000",
+    "vatyn": "Sales included PB1"
+  },
+  "sub_total": {
+    "subtotal_price": "36,000"
+  },
+  "total": {
+    "total_price": "36,000",
+    "emoneyprice": "36,000"
+  }
+}

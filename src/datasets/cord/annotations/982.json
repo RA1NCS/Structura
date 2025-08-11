@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "PEARL CHOCO TEA",
+      "cnt": "1",
+      "price": "17.000"
+    },
+    {
+      "nm": "GREEN TEA LYCHEE",
+      "cnt": "1",
+      "price": "18.000"
+    },
+    {
+      "nm": "TUTUP SEAL",
+      "cnt": "2",
+      "price": "0"
+    },
+    {
+      "nm": "CUP 14 OZ",
+      "cnt": "2",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "35.000"
+  },
+  "total": {
+    "total_price": "35.000",
+    "cashprice": "100.000",
+    "changeprice": "65.000",
+    "menuqty_cnt": "6"
+  }
+}

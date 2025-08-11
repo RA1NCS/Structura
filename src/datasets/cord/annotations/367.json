@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "cnt": "2",
+      "price": "18,000"
+    },
+    {
+      "nm": "BROWNIE",
+      "cnt": "1",
+      "price": "21,000"
+    },
+    {
+      "nm": "REAL GANACHE",
+      "cnt": "1",
+      "price": "16,500"
+    },
+    {
+      "nm": "REAL CHOCOLATE ROLL",
+      "cnt": "1",
+      "price": "16,000"
+    },
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "1",
+      "price": "9,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "80,500",
+    "creditcardprice": "80,500"
+  }
+}

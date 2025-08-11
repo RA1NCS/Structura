@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "nm": "SOP AYM BNG",
+      "price": "7,000"
+    },
+    {
+      "nm": "TEH TARIK P",
+      "price": "15,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "15,000",
+    "cashprice": "55,000",
+    "changeprice": "40,000"
+  }
+}

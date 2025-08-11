@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "nm": "PAIN AU CHOCOLATE",
+      "cnt": "1",
+      "price": "11,000"
+    },
+    {
+      "nm": "CHOCO CUSTARD PASTRY",
+      "cnt": "1",
+      "price": "12,000"
+    },
+    {
+      "nm": "MILK PASTRY ROLL",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "REAL CHEESE INSIDE BREAD",
+      "cnt": "1",
+      "price": "13,500"
+    },
+    {
+      "nm": "SAUSAGE BREAD",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "HAM CHEESE FLAT BREAD",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "80,500",
+    "cashprice": "100,000",
+    "changeprice": "19,500"
+  }
+}

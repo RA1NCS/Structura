@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "ALMOND SUGAR MILK BREAD",
+      "cnt": "1",
+      "price": "22,500"
+    },
+    {
+      "nm": "POTATO SAUSAGE BREAD",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {
+    "tax_price": "3,864"
+  },
+  "total": {
+    "total_price": "42,500",
+    "cashprice": "100,000",
+    "changeprice": "57,500"
+  }
+}

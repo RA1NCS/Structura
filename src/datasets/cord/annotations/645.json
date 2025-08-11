@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "S-Ovaltine Macchiat",
+      "unitprice": "@22,000",
+      "cnt": "2X",
+      "price": "44,000",
+      "sub": {
+        "nm": "25%"
+      }
+    },
+    {
+      "nm": "S-KOI Cafe Macchiat",
+      "unitprice": "@25,000",
+      "cnt": "1X",
+      "price": "25,000",
+      "sub": {
+        "nm": "25%"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "62,727",
+    "tax_price": "6,272"
+  },
+  "total": {
+    "total_price": "69,000",
+    "cashprice": "100,000",
+    "changeprice": "31,000"
+  }
+}

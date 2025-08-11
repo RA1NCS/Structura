@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "KING DEAL CHEESE BURGER R",
+      "price": "25,000"
+    },
+    {
+      "nm": "KINGBBOBPG ML REG",
+      "price": "25.000"
+    },
+    {
+      "nm": "MED ICED LEMON TEA",
+      "price": "10,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "60.000",
+    "tax_price": "6,000"
+  },
+  "total": {
+    "total_price": "66,000",
+    "cashprice": "Rp. 100.000",
+    "changeprice": "Rp.34.000"
+  }
+}

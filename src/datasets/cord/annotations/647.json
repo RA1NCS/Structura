@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "-Plastic Big Small",
+      "num": "6001",
+      "unitprice": "0,00",
+      "cnt": "x1",
+      "price": "0,00"
+    },
+    {
+      "nm": "-Chokoreto Cookies",
+      "num": "5003",
+      "unitprice": "62.000,00",
+      "cnt": "x1",
+      "price": "62.000,00"
+    },
+    {
+      "nm": "-Corn Flakes Cookies",
+      "num": "5001",
+      "unitprice": "56.000,00",
+      "cnt": "x1",
+      "price": "56.000,00"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "118.000,00",
+    "creditcardprice": "118.000,00",
+    "menuqty_cnt": "3"
+  }
+}

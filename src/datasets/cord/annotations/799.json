@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Es Kopi Rupa",
+    "cnt": "1",
+    "price": "18.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "18.000",
+    "cashprice": "19.000",
+    "changeprice": "1.000"
+  }
+}

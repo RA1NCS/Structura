@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "KEJU SUSU",
+      "discountprice": "-2,200",
+      "price": "11,000"
+    },
+    {
+      "nm": "PISANG KEJU",
+      "discountprice": "-2,300",
+      "price": "11,500"
+    },
+    {
+      "nm": "PLASTIK KECIL",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "18,000"
+  },
+  "total": {
+    "total_price": "18,000",
+    "cashprice": "20,000",
+    "changeprice": "2,000"
+  }
+}

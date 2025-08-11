@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "NIKU UDON",
+    "cnt": "1",
+    "price": "49,091"
+  },
+  "sub_total": {
+    "subtotal_price": "49,091",
+    "tax_price": "4,909"
+  },
+  "total": {
+    "total_price": "54,000",
+    "cashprice": "[54,000]",
+    "changeprice": "46,000"
+  }
+}

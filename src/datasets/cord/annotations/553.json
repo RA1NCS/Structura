@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Tepung Jagung",
+    "unitprice": "15000",
+    "cnt": "1",
+    "price": "15000"
+  },
+  "sub_total": {
+    "discount_price": "Discount (0%)"
+  },
+  "total": {
+    "total_price": "15000",
+    "cashprice": "15000",
+    "changeprice": "Rp. 0"
+  }
+}

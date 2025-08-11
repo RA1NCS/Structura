@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "1.5 JAM",
+    "price": "225,000"
+  },
+  "sub_total": {
+    "subtotal_price": "225,000",
+    "tax_price": "22,500"
+  },
+  "total": {
+    "total_price": "247,500",
+    "cashprice": "247,500",
+    "menuqty_cnt": "1"
+  }
+}

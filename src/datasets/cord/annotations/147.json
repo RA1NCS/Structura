@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "nm": "CHOCO ALMOND",
+    "cnt": "1",
+    "price": "18,182",
+    "sub": {
+      "nm": "*Gula Murni 100%"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "18,182",
+    "discount_price": "-2,727",
+    "tax_price": "1,546",
+    "etc": "15,455"
+  },
+  "total": {
+    "total_price": "17,001",
+    "total_etc": "-1",
+    "emoneyprice": "17,000",
+    "menuqty_cnt": "1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "109.NG NANAS",
+      "cnt": "1",
+      "price": "49,800"
+    },
+    {
+      "nm": "DE13.PSANG IJO MDM",
+      "cnt": "1",
+      "price": "29,800"
+    },
+    {
+      "nm": "CT12.BLK JELY KPI IC",
+      "cnt": "1",
+      "price": "29,800"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "109,400",
+    "service_price": "7,658",
+    "tax_price": "11,706"
+  },
+  "total": {
+    "total_price": "128,764",
+    "menutype_cnt": "4",
+    "menuqty_cnt": ":4"
+  }
+}

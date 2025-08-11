@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "KFC Winger HC",
+      "cnt": "2",
+      "price": "40,000"
+    },
+    {
+      "nm": "Soaghetti Deluxe",
+      "cnt": "1",
+      "price": "8,182"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "48,182",
+    "tax_price": "4,818"
+  },
+  "total": {
+    "total_price": "53,000",
+    "cashprice": "60,000",
+    "changeprice": "7,000",
+    "menuqty_cnt": "3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "nm": "STBERRY MT (L) TOPPING",
+    "cnt": "1 x",
+    "price": "27,000",
+    "sub": [
+      {
+        "nm": "PUDDING (L)",
+        "price": "4,000"
+      },
+      {
+        "nm": "ICE LESS",
+        "price": "0"
+      },
+      {
+        "nm": "SUGAR LESS",
+        "price": "0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "31,000"
+  },
+  "total": {
+    "total_price": "31,000",
+    "total_etc": "20,000",
+    "cashprice": "15,000",
+    "changeprice": "4,000",
+    "menuqty_cnt": "1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "nm": "S-Ovaltine Macchiat",
+      "unitprice": "@22,000",
+      "cnt": "1X",
+      "price": "22,000",
+      "sub": {
+        "nm": "25%"
+      }
+    },
+    {
+      "nm": "S-Hazelnut Milk Tea",
+      "unitprice": "@20,000",
+      "cnt": "1X",
+      "price": "20,000",
+      "sub": [
+        {
+          "nm": "70%"
+        },
+        {
+          "nm": "Less Ice"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "42,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "42,000",
+    "cashprice": "50,000",
+    "changeprice": "8,000"
+  }
+}

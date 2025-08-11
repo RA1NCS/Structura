@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "Mie Jumbo Pst/bakso",
+      "unitprice": "34.000",
+      "cnt": "2",
+      "price": "68.000"
+    },
+    {
+      "nm": "Bakmie Pst/ Bakso",
+      "unitprice": "26.000",
+      "cnt": "1",
+      "price": "26.000"
+    },
+    {
+      "nm": "Liang Teh",
+      "unitprice": "5.000",
+      "cnt": "2",
+      "price": "10.000"
+    },
+    {
+      "nm": "Es /hagat Jeruk",
+      "unitprice": "10.000",
+      "cnt": "1",
+      "price": "10.000"
+    },
+    {
+      "nm": "Krupuk Babi Bungkus",
+      "unitprice": "20.000",
+      "cnt": "1",
+      "price": "20.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "134.000",
+    "tax_price": "-"
+  },
+  "total": {
+    "total_price": "134.000",
+    "cashprice": "150.000",
+    "changeprice": "16.000"
+  }
+}

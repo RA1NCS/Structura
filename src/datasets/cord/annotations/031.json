@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "Chicken HCC, 1Pcs",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "Colonel Burger",
+      "cnt": "1",
+      "price": "13,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "28,636",
+    "tax_price": "2,864"
+  },
+  "total": {
+    "total_price": "31,500",
+    "cashprice": "40,000",
+    "changeprice": "8,500",
+    "menuqty_cnt": "2"
+  }
+}

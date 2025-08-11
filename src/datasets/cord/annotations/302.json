@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "Dom Cha Vire Sls",
+      "unitprice": "155.000",
+      "cnt": "1x",
+      "price": "155.000"
+    },
+    {
+      "nm": "P J Cotes du",
+      "unitprice": "105,000",
+      "cnt": "2x",
+      "price": "210.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "365,000",
+    "discount_price": "73.000",
+    "service_price": "28,200",
+    "tax_price": "32.120"
+  },
+  "total": {
+    "total_price": "353,320"
+  }
+}

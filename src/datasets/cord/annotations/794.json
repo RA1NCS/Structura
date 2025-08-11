@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "nm": "PAKET WEEKEND 1",
+      "unitprice": "55.000",
+      "cnt": "13",
+      "price": "715.000"
+    },
+    {
+      "nm": "PAKET WEEKEND 2",
+      "unitprice": "80.000",
+      "cnt": "6",
+      "price": "480.000"
+    },
+    {
+      "nm": "ES JERUK",
+      "cnt": "1",
+      "price": "13.000"
+    },
+    {
+      "nm": "ES TEH TAWAR",
+      "cnt": "1",
+      "price": "3.000"
+    },
+    {
+      "nm": "KOPI HITAM",
+      "cnt": "1",
+      "price": "8.500"
+    },
+    {
+      "nm": "ES BATU",
+      "cnt": "1",
+      "price": "1.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "1.220.500",
+    "cashprice": "1.250.000",
+    "changeprice": "29.500",
+    "menutype_cnt": "6",
+    "menuqty_cnt": "23"
+  }
+}

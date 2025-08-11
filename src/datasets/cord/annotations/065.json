@@ -1,0 +1,113 @@
+{
+  "menu": [
+    {
+      "nm": "NASI PUTIH",
+      "cnt": "6",
+      "price": "54,000"
+    },
+    {
+      "nm": "SATE PADANG",
+      "cnt": "1",
+      "price": "35,000"
+    },
+    {
+      "nm": "GULAI CUMI",
+      "cnt": "1",
+      "price": "25,000"
+    },
+    {
+      "nm": "DENDENG BALADO",
+      "cnt": "4",
+      "price": "80,000"
+    },
+    {
+      "nm": "KERUPUK KULIT",
+      "cnt": "3",
+      "price": "18,000"
+    },
+    {
+      "nm": "RENDANG DAGING",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "GULAI HATI",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "MUJAIR BAKAR",
+      "cnt": "1",
+      "price": "23,000"
+    },
+    {
+      "nm": "GULAI OTAK",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "AYAM BAKAR",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "SAMBAL TRI BELAH",
+      "cnt": "1",
+      "price": "18,000"
+    },
+    {
+      "nm": "LALAP SEGAR",
+      "cnt": "3",
+      "price": "24,000"
+    },
+    {
+      "nm": "AYAM PENYET",
+      "cnt": "1",
+      "price": "21,000"
+    },
+    {
+      "nm": "AYAM GORENG",
+      "cnt": "2",
+      "price": "40,000"
+    },
+    {
+      "nm": "AYAM POP",
+      "cnt": "2",
+      "price": "42,000"
+    },
+    {
+      "nm": "GULAI TUNJANG",
+      "cnt": "2",
+      "price": "40,000"
+    },
+    {
+      "nm": "TEH",
+      "cnt": "6",
+      "price": "30,000"
+    },
+    {
+      "nm": "TERONG BELANDA",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "TEH TELUR",
+      "cnt": "1",
+      "price": "25,000"
+    },
+    {
+      "nm": "PUDING",
+      "cnt": "2",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "591,000",
+    "tax_price": "59,100"
+  },
+  "total": {
+    "total_price": "650,100",
+    "cashprice": "650,100",
+    "menuqty_cnt": "41"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "Jamur Crispy",
+      "unitprice": "13.500",
+      "cnt": "2",
+      "price": "27.000"
+    },
+    {
+      "nm": "Nasi Putih",
+      "unitprice": "7.000",
+      "cnt": "2",
+      "price": "14.000"
+    },
+    {
+      "nm": "Sambel Kecap",
+      "unitprice": "4.500",
+      "cnt": "2",
+      "price": "9.000"
+    },
+    {
+      "nm": "Es Teh",
+      "unitprice": "7.500",
+      "cnt": "2",
+      "price": "15.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp 65.000",
+    "service_price": "Rp 1.950",
+    "tax_price": "Rp 6.500"
+  },
+  "total": {
+    "total_price": "Rp 73.450",
+    "cashprice": "Rp 100.000",
+    "changeprice": "Rp 26.550"
+  }
+}

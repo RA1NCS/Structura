@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi Cap Cay Porsi B esar",
+      "unitprice": "65.000",
+      "cnt": "1",
+      "price": "65.000",
+      "etc": "Cap Cay"
+    },
+    {
+      "nm": "Teh Tawar",
+      "unitprice": "4.000",
+      "cnt": "2",
+      "etc": "Minuman"
+    },
+    {
+      "nm": "Fu Yung Hai",
+      "unitprice": "65.000",
+      "cnt": "1",
+      "price": "65.000",
+      "etc": "Lain-lain"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp 138.000"
+  },
+  "total": {
+    "total_price": "Rp 138.000",
+    "cashprice": "Rp 138.000",
+    "changeprice": "Rp 0"
+  }
+}

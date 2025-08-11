@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "BULGOGI JEONGSIK",
+      "cnt": "1",
+      "price": "150,000"
+    },
+    {
+      "nm": "EL KEUN HWANGTAE",
+      "cnt": "1",
+      "price": "130,000"
+    },
+    {
+      "nm": "SUNDUBU(TUKBEGI) GYERAN CIM",
+      "cnt": "1",
+      "price": "45,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "325,000",
+    "discount_price": "0",
+    "service_price": "22,750",
+    "tax_price": "34,600"
+  },
+  "total": {
+    "total_price": "382,350",
+    "changeprice": "0",
+    "creditcardprice": "382,350"
+  }
+}

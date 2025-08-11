@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "- TICKET CP",
+    "num": "901016",
+    "price": "30,000"
+  },
+  "sub_total": {
+    "subtotal_price": "30,000"
+  },
+  "total": {
+    "total_price": "30,000",
+    "creditcardprice": "30,000",
+    "menuqty_cnt": "1.00"
+  }
+}

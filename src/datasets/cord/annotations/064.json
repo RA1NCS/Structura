@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "BOTOL(MOMOGI BOTOL KACA ASI)",
+      "num": "804700027",
+      "price": "44,000"
+    },
+    {
+      "nm": "SPECTRA BREAST DISPOSABLE PADS (IRIS) / BP-0001 (BREASTPADS)",
+      "num": "SP200031",
+      "price": "58,000"
+    },
+    {
+      "nm": "MUSTELA BABY OIL 100ML",
+      "num": "MU240036",
+      "price": "160,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "262,000",
+    "menuqty_cnt": "3"
+  }
+}

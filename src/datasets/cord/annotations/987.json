@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "nm": "M-Passion Fruit Mac",
+    "unitprice": "@29,000",
+    "cnt": "1X",
+    "price": "29,000",
+    "sub": [
+      {
+        "nm": "25%"
+      },
+      {
+        "nm": "Less Ice"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "29,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "29,000",
+    "cashprice": "30,000",
+    "changeprice": "1,000"
+  }
+}

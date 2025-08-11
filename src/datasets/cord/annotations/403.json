@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "CHOCO CORONET",
+    "cnt": "1",
+    "price": "15,500"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "15,500",
+    "cashprice": "50,000",
+    "changeprice": "34,500"
+  }
+}

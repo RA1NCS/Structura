@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "Goban Puas C",
+    "cnt": "1",
+    "price": "50,000"
+  },
+  "sub_total": {
+    "subtotal_price": "50,000",
+    "service_price": "3,750",
+    "tax_price": "5,375"
+  },
+  "total": {
+    "total_price": "59,125",
+    "total_etc": "50,000",
+    "cashprice": "9,125",
+    "menuqty_cnt": "1"
+  }
+}

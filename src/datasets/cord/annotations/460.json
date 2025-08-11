@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Masker Bengkuang",
+    "unitprice": "11000",
+    "cnt": "1",
+    "price": "11000"
+  },
+  "sub_total": {
+    "subtotal_price": "11000"
+  },
+  "total": {
+    "cashprice": "11000",
+    "changeprice": "0"
+  }
+}

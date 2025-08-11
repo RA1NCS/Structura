@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "BUBUR UNGU",
+      "discountprice": "-7,800",
+      "price": "26,000"
+    },
+    {
+      "nm": "SENDOK BEBEK",
+      "price": "0"
+    },
+    {
+      "nm": "WAJIK",
+      "discountprice": "-2,100",
+      "price": "7,000"
+    },
+    {
+      "nm": "CENTIK MANIS",
+      "discountprice": "-1,650",
+      "price": "5,500"
+    },
+    {
+      "nm": "PLASTIK SEDANG",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "26,950"
+  },
+  "total": {
+    "total_price": "26,950",
+    "cashprice": "26,950"
+  }
+}

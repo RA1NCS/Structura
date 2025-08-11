@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Elevenia Taro Smoothies",
+    "cnt": "1",
+    "price": "9,090"
+  },
+  "sub_total": {
+    "subtotal_price": "9,090",
+    "tax_price": "909"
+  },
+  "total": {
+    "total_price": "10,000",
+    "total_etc": "10,000",
+    "changeprice": "0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "PKT AYAM",
+    "price": "33,000"
+  },
+  "sub_total": {
+    "subtotal_price": "33,000",
+    "tax_price": "3,300"
+  },
+  "total": {
+    "total_price": "36,300",
+    "cashprice": "37,000",
+    "changeprice": "700",
+    "menuqty_cnt": "1.00xITEMS"
+  }
+}

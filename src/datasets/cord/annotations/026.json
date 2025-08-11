@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "Pepenero Pastel",
+    "unitprice": "15.000",
+    "cnt": "1x",
+    "price": "15.000"
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 15.000",
+    "tax_price": "Rp 1.500"
+  },
+  "total": {
+    "total_price": "Rp 16.500",
+    "cashprice": "Rp 50.500",
+    "changeprice": "Rp 34.000"
+  }
+}

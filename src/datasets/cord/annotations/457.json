@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "Es Kopi Susu",
+    "unitprice": "@15.000",
+    "cnt": "1x",
+    "price": "15.000"
+  },
+  "sub_total": {
+    "subtotal_price": "15.000"
+  },
+  "total": {
+    "total_price": "15.000"
+  }
+}

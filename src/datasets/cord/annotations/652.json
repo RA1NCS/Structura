@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "WHDP JR 15K",
+      "price": "15,000"
+    },
+    {
+      "nm": "TakeQuay Charge",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "15,909",
+    "tax_price": "1,591"
+  },
+  "total": {
+    "total_price": "17,500",
+    "cashprice": "20,000",
+    "changeprice": "2,500"
+  }
+}

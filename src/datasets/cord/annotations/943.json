@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "ROTI UNYIL",
+      "cnt": "170",
+      "price": "272.000"
+    },
+    {
+      "nm": "PAPER BAG BESAR",
+      "cnt": "1",
+      "price": "6.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "278.000",
+    "cashprice": "300.000",
+    "changeprice": "22.000",
+    "menuqty_cnt": "171"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "menu": [
+    {
+      "nm": "LM Dmplg Chli Sc",
+      "cnt": "1",
+      "price": "68,000"
+    },
+    {
+      "nm": "LM Poach Marble Beef",
+      "cnt": "2",
+      "price": "176,000"
+    },
+    {
+      "nm": "DIMSUM",
+      "unitprice": "23800",
+      "cnt": "2",
+      "price": "47,600"
+    },
+    {
+      "nm": "XLB Org Pork 6x",
+      "cnt": "1",
+      "price": "52,000"
+    },
+    {
+      "nm": "Oolong Jasmine Cup",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "Tea",
+      "cnt": "2",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "373,600",
+    "service_price": "28,020",
+    "tax_price": "40,162"
+  },
+  "total": {
+    "total_price": "441,782",
+    "creditcardprice": "441,782",
+    "menuqty_cnt": "ITEMS 9"
+  }
+}

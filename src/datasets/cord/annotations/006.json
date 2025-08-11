@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "BASO TAHU",
+      "unitprice": "43,181",
+      "cnt": "1",
+      "price": "43,181"
+    },
+    {
+      "nm": "ES JERUK",
+      "unitprice": "13.000",
+      "cnt": "1",
+      "price": "13,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "56,181",
+    "tax_price": "5,618"
+  },
+  "total": {
+    "total_price": "61,799",
+    "cashprice": "62,000",
+    "changeprice": "201"
+  }
+}

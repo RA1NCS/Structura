@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "CHOCO TIME",
+    "cnt": "1",
+    "price": "50,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "50,000",
+    "creditcardprice": "50,000"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Tebu Lemon",
+    "cnt": "1",
+    "price": "22.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "22.000",
+    "cashprice": "22.000",
+    "menuqty_cnt": "1"
+  }
+}

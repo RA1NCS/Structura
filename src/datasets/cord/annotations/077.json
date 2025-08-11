@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "nm": "KP BRANDING L",
+      "unitprice": "1",
+      "cnt": "1",
+      "discountprice": "-1",
+      "price": "1"
+    },
+    {
+      "nm": "M/POKO STD XXL5",
+      "unitprice": "17,100",
+      "cnt": "1",
+      "price": "17,100"
+    },
+    {
+      "nm": "FOOT 6",
+      "unitprice": "11,200",
+      "cnt": "2",
+      "price": "22,400"
+    },
+    {
+      "nm": "CIPAIN PATCH 4S",
+      "unitprice": "26,200",
+      "cnt": "3",
+      "price": "78,600"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "118,101",
+    "discount_price": "1",
+    "tax_price": "10,736"
+  },
+  "total": {
+    "total_price": "118,100",
+    "cashprice": "120,000",
+    "changeprice": "1,900",
+    "menutype_cnt": "4"
+  }
+}

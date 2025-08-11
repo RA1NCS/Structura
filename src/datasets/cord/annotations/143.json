@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Iced Mochaccino",
+    "cnt": "1",
+    "price": "38.000"
+  },
+  "sub_total": {
+    "subtotal_price": "38.000",
+    "tax_price": "3.800"
+  },
+  "total": {
+    "total_price": "41.800",
+    "cashprice": "102.000",
+    "changeprice": "60.200"
+  }
+}

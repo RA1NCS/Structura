@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "PREMIUM MILK PAN BREAD",
+    "cnt": "1",
+    "price": "17,500"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "17,500",
+    "cashprice": "17,500",
+    "changeprice": "0"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "menu": [
+    {
+      "nm": "EDAMAME",
+      "unitprice": "22,500",
+      "cnt": "0.512X",
+      "price": "11,520"
+    },
+    {
+      "nm": "df shllt by not250",
+      "unitprice": "15,900",
+      "cnt": "1X",
+      "price": "15,900"
+    },
+    {
+      "nm": "CF BUNCIS ORG",
+      "unitprice": "20,600",
+      "cnt": "1X",
+      "price": "20,600"
+    },
+    {
+      "nm": "CABE KERITING CURA",
+      "unitprice": "44,900",
+      "cnt": "0.074X",
+      "price": "3,323"
+    },
+    {
+      "nm": "TOMAT CURAH",
+      "unitprice": "16,500",
+      "cnt": "0.198X",
+      "price": "3,267"
+    },
+    {
+      "nm": "JERUK NIPIS",
+      "unitprice": "64,900",
+      "cnt": "0.09X",
+      "price": "5,841"
+    },
+    {
+      "nm": "CUMI BANGKA",
+      "unitprice": "101,900",
+      "cnt": "0.282X",
+      "discountprice": "5,471-",
+      "price": "28,736"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "83,716"
+  },
+  "total": {
+    "total_price": "83,716"
+  }
+}

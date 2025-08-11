@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "LAPIS SINGAPUR",
+      "unitprice": "@ 15000",
+      "cnt": "2X",
+      "discountprice": "-9,000",
+      "price": "30,000"
+    },
+    {
+      "nm": "LEMPER",
+      "unitprice": "@9000",
+      "cnt": "2X",
+      "discountprice": "-5,400",
+      "price": "18,000"
+    },
+    {
+      "nm": "AREM AREM",
+      "discountprice": "-2,400",
+      "price": "8,000"
+    },
+    {
+      "nm": "MIKA BESAR",
+      "price": "0"
+    },
+    {
+      "nm": "PLASTIK SEDANG",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "39,200"
+  },
+  "total": {
+    "total_price": "39,200",
+    "cashprice": "100,000",
+    "changeprice": "60,800"
+  }
+}

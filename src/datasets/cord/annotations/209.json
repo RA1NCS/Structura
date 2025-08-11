@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST ORANGE CHOCO DONUT",
+      "cnt": "2",
+      "price": "20,000"
+    },
+    {
+      "nm": "CHOCOLATE TWIST",
+      "cnt": "2",
+      "price": "32,000"
+    },
+    {
+      "nm": "REAL CHOCOLATE ROLL",
+      "cnt": "1",
+      "price": "16,000"
+    },
+    {
+      "nm": "CHOCOLATE SOBORO",
+      "cnt": "2",
+      "price": "28,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "96,000",
+    "cashprice": "100,000",
+    "changeprice": "4,000"
+  }
+}

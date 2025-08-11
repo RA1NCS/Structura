@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "Ptgs Eggtart",
+      "cnt": "1",
+      "price": "12,000"
+    },
+    {
+      "nm": "Choco Melt",
+      "cnt": "1",
+      "price": "11,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "23,000"
+  },
+  "total": {
+    "total_price": "23,000",
+    "cashprice": "50,000",
+    "changeprice": "27,000",
+    "menutype_cnt": "2",
+    "menuqty_cnt": "2"
+  }
+}

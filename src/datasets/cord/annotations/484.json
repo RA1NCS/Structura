@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Aqua MinWtr 330ml",
+    "cnt": "2",
+    "price": "11,818"
+  },
+  "sub_total": {
+    "subtotal_price": "11,818",
+    "tax_price": "1,182"
+  },
+  "total": {
+    "total_price": "13,000",
+    "cashprice": "50,000",
+    "changeprice": "37,000"
+  }
+}

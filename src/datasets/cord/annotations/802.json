@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "JASMINE MT ( L )",
+    "cnt": "1",
+    "price": "24,000",
+    "sub": {
+      "nm": "COCONUT JELLY ( L )",
+      "price": "4,000"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "28,000"
+  },
+  "total": {
+    "total_price": "28,000",
+    "cashprice": "100,000",
+    "changeprice": "72,000",
+    "menuqty_cnt": "1"
+  }
+}

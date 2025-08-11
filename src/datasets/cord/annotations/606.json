@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "WARISAN 2 FREE DRINK",
+      "cnt": "1",
+      "price": "63,000"
+    },
+    {
+      "nm": "WARISAN 2 FREE DRINK",
+      "cnt": "1",
+      "price": "63,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "126,000",
+    "tax_price": "12,600"
+  },
+  "total": {
+    "total_price": "138,600",
+    "cashprice": "150,000",
+    "changeprice": "11,400"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "DN. LONG JOHN",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "RB. AI-AI CHOCO",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "RB. SAPSAY CHICKEN",
+      "cnt": "1",
+      "price": "9,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "25,500"
+  },
+  "total": {
+    "total_price": "25,500",
+    "cashprice": "30,000",
+    "changeprice": "4,500",
+    "menutype_cnt": "3",
+    "menuqty_cnt": "3"
+  }
+}

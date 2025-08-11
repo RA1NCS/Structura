@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "ZUPPA SOUP",
+      "num": "05130000",
+      "unitprice": "28600",
+      "cnt": "3.000x",
+      "price": "85,800"
+    },
+    {
+      "nm": "MINERAL WATER",
+      "num": "13100000",
+      "unitprice": "6600",
+      "cnt": "3.000x",
+      "price": "19,800"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "105,600",
+    "cashprice": "150,000",
+    "changeprice": "44,400"
+  }
+}

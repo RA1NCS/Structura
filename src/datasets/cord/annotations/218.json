@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Grilled Dorry Fish",
+      "cnt": "1",
+      "price": "42,000"
+    },
+    {
+      "nm": "Set Menu Family",
+      "cnt": "1",
+      "price": "318,000"
+    },
+    {
+      "nm": "Teppan Seafood Udon",
+      "cnt": "1",
+      "price": "38,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "398,000",
+    "discount_price": "39,800)",
+    "service_price": "21,492",
+    "tax_price": "41,949"
+  },
+  "total": {
+    "total_price": "421,641",
+    "creditcardprice": "421,641"
+  }
+}

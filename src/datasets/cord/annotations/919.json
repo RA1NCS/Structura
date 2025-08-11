@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "FUTAMI 17 GREEN TEA (CLAS",
+      "cnt": "1",
+      "price": "12,500"
+    },
+    {
+      "nm": "EGG TART",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "GRAIN CROQUE MONSIEUR",
+      "cnt": "1",
+      "price": "17,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "42,500",
+    "cashprice": "50,000",
+    "changeprice": "7,500"
+  }
+}

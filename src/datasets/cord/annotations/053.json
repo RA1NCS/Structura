@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "unitprice": "12.000",
+      "cnt": "3",
+      "price": "36.000"
+    },
+    {
+      "nm": "SHOPPING BAG ROTI'O' 370/M",
+      "unitprice": "0",
+      "cnt": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "36.000",
+    "discount_price": "0",
+    "etc": "0"
+  },
+  "total": {
+    "total_price": "36.000",
+    "changeprice": "0",
+    "creditcardprice": "36.000",
+    "menuqty_cnt": "4 PCS"
+  }
+}

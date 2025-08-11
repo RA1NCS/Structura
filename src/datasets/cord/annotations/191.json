@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "nm": "LAY'S NORI SEAWD 55G",
+      "unitprice": "8800",
+      "cnt": "1",
+      "price": "8.800"
+    },
+    {
+      "nm": "QTELA KRP/TMPE ORI55",
+      "unitprice": "6900",
+      "cnt": "1",
+      "price": "6.900"
+    },
+    {
+      "nm": "SOSRO TEH BOTOL 350",
+      "unitprice": "3500",
+      "cnt": "2",
+      "price": "7.000"
+    },
+    {
+      "nm": "PUCUK/H TEH L/SGR350",
+      "unitprice": "3600",
+      "cnt": "1",
+      "price": "3.600"
+    },
+    {
+      "nm": "AQUA AIR MINERAL 600",
+      "unitprice": "3500",
+      "cnt": "2",
+      "price": "7.000"
+    },
+    {
+      "nm": "PEDULI DISABILITAS",
+      "unitprice": "200",
+      "cnt": "1",
+      "price": "200"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "33.500",
+    "tax_price": [
+      "30.273 200",
+      "3.027"
+    ]
+  },
+  "total": {
+    "total_price": "33.500",
+    "cashprice": "50.000",
+    "changeprice": "16.500"
+  }
+}

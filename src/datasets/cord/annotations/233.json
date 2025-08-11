@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "Pepenero Pastel",
+      "unitprice": "15.000",
+      "cnt": "1x",
+      "price": "15.000"
+    },
+    {
+      "nm": "Arem Arem",
+      "unitprice": "12.000",
+      "cnt": "1x",
+      "price": "12.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp 27.000",
+    "tax_price": "Rp 2.700"
+  },
+  "total": {
+    "total_price": "Rp 29.700",
+    "emoneyprice": "Rp 29.700"
+  }
+}

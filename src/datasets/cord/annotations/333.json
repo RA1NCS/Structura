@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "unitprice": "18,000",
+    "cnt": "3"
+  },
+  "sub_total": {
+    "subtotal_price": "54,000"
+  },
+  "total": {
+    "total_price": "54,000",
+    "cashprice": "100,000",
+    "changeprice": "46,000"
+  }
+}

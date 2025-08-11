@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "CHEESE KC BOKUMBAP",
+      "unitprice": "39,000",
+      "cnt": "1",
+      "price": "39,000"
+    },
+    {
+      "nm": "PAKET CHICKEN 3",
+      "unitprice": "35,000",
+      "cnt": "1",
+      "price": "35,000"
+    },
+    {
+      "nm": "JAJANGMYEON",
+      "unitprice": "35,000",
+      "cnt": "1",
+      "price": "35,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "109,000",
+    "service_price": "5,450",
+    "tax_price": "11,445",
+    "etc": "114,450"
+  },
+  "total": {
+    "total_price": "125,895",
+    "cashprice": "150,000",
+    "changeprice": "24,105"
+  }
+}

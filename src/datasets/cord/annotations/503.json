@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Ayam Grg Kalasan",
+      "unitprice": "22727",
+      "cnt": "1x",
+      "price": "Rp 22727"
+    },
+    {
+      "nm": "Tempe",
+      "unitprice": "4545",
+      "cnt": "3x",
+      "price": "Rp 13635"
+    },
+    {
+      "nm": "MDSE ST",
+      "price": "RP36362"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "36362",
+    "tax_price": "Rp 3636",
+    "etc": "Rp2"
+  },
+  "total": {
+    "cashprice": "40000",
+    "menuqty_cnt": "4Q"
+  }
+}

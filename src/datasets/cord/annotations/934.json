@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "nm": "GRILLED BABY POTATO (R",
+      "cnt": "1",
+      "price": "50,500"
+    },
+    {
+      "nm": "TRUFFLE CREAM",
+      "cnt": "1",
+      "price": "76,000"
+    },
+    {
+      "nm": "CARBONARA",
+      "cnt": "1",
+      "price": "70,500"
+    },
+    {
+      "nm": "ORIGINAL BREWED TEA",
+      "cnt": "2",
+      "price": "46,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "243,000",
+    "service_price": "14,580",
+    "tax_price": "25,758"
+  },
+  "total": {
+    "total_price": "283,338",
+    "creditcardprice": [
+      "283,338",
+      "5962"
+    ]
+  }
+}

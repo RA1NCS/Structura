@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "BUDS CALMING TUMMY RUB CREAM 30ML(TOILETRIES)",
+      "num": "BU350003",
+      "price": "200,000"
+    },
+    {
+      "nm": "BUDS PRECIOUS NEWBORN CREAM 75ML(TOILETRIES)",
+      "num": "BU350012",
+      "price": "235,000"
+    },
+    {
+      "nm": "BUDS PRECIOUS NEWBORN HEAD TO TOE CLEANSER 250ML(TOILETRIES)",
+      "num": "BU350009",
+      "price": "270,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "705,000",
+    "menuqty_cnt": "3"
+  }
+}

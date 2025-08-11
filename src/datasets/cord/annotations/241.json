@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "Salad Deluxe",
+      "cnt": "2",
+      "price": "17,272"
+    },
+    {
+      "nm": "Perkedel",
+      "cnt": "2",
+      "price": "11,818"
+    },
+    {
+      "nm": "Chicken HCC, 1PCS",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "CHARGE TA",
+      "cnt": "1",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "44,999",
+    "tax_price": "4,500",
+    "etc": "1"
+  },
+  "total": {
+    "total_price": "49,500",
+    "total_etc": "50,000",
+    "changeprice": "500",
+    "menuqty_cnt": "6"
+  }
+}

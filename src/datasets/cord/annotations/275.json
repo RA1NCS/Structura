@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "Benedict Burrito",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "Lychee Ice Tea",
+      "cnt": "1",
+      "price": "40,000"
+    },
+    {
+      "nm": "Soup Of The Day",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "Strawberry jc",
+      "cnt": "1",
+      "price": "45,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "215,000",
+    "service_price": "21,500",
+    "tax_price": "23,650"
+  },
+  "total": {
+    "total_price": "260,150",
+    "menutype_cnt": "4",
+    "menuqty_cnt": "4"
+  }
+}

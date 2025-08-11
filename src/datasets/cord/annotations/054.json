@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "KFC Winger HC",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "Rice",
+      "cnt": "1",
+      "price": "6,364"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "26,364",
+    "tax_price": "2,636"
+  },
+  "total": {
+    "total_price": "29,000",
+    "cashprice": "30,000",
+    "changeprice": "1,000",
+    "menuqty_cnt": "2"
+  }
+}

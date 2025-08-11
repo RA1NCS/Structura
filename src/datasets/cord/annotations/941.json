@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "nm": "SOGOGI JAPCHAE",
+      "cnt": "1",
+      "price": "150,000"
+    },
+    {
+      "nm": "GONG GIBAB",
+      "cnt": "7",
+      "price": "105,000"
+    },
+    {
+      "nm": "CHULPAN CHEESE DAK GALBI",
+      "cnt": "1",
+      "price": "230,000"
+    },
+    {
+      "nm": "CREAM TEOK PO KI",
+      "cnt": "1",
+      "price": "95,000"
+    },
+    {
+      "nm": "EL KEUN HWANGTAE",
+      "cnt": "1",
+      "price": "120,000"
+    },
+    {
+      "nm": "SUNDUBU(TUKBEGI) CHAM KKOT SAL",
+      "cnt": "2",
+      "price": "620,000"
+    },
+    {
+      "nm": "U SAM GYEOP",
+      "cnt": "2",
+      "price": "290,000"
+    },
+    {
+      "nm": "U SEOL",
+      "cnt": "2",
+      "price": "390,000"
+    },
+    {
+      "nm": "U SAM GYEOP",
+      "cnt": "1",
+      "price": "0"
+    },
+    {
+      "nm": "ICE COFFE MIX",
+      "cnt": "3",
+      "price": "0"
+    },
+    {
+      "nm": "ICE BLACK COFFE",
+      "cnt": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "2,000,000",
+    "discount_price": "0",
+    "service_price": "140,000",
+    "tax_price": "212,460"
+  },
+  "total": {
+    "total_price": "2,352,460",
+    "changeprice": "0",
+    "creditcardprice": "2,352,460"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "CHICKEN KATSU CURRY UDON",
+    "cnt": "1",
+    "price": "46,364"
+  },
+  "sub_total": {
+    "subtotal_price": "46,364",
+    "tax_price": "4,636"
+  },
+  "total": {
+    "total_price": "51,000",
+    "changeprice": "0",
+    "creditcardprice": "[51,000]"
+  }
+}

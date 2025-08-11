@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "OCHA COLD",
+      "cnt": "1",
+      "price": "7,273"
+    },
+    {
+      "nm": "ABURA SOBA CHK",
+      "cnt": "1",
+      "price": "40,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "48,182",
+    "tax_price": "10% 4,818"
+  },
+  "total": {
+    "total_price": "53,000",
+    "creditcardprice": "53,000"
+  }
+}

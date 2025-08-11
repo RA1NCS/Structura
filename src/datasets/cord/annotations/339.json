@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "STIX ECLAIRS",
+    "unitprice": "19,000",
+    "cnt": "2",
+    "price": "38,000"
+  },
+  "sub_total": {
+    "subtotal_price": "38,000"
+  },
+  "total": {
+    "total_price": "38,000",
+    "cashprice": "50,000",
+    "changeprice": "12,000"
+  }
+}

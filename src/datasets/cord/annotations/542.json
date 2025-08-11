@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "SI EKO",
+    "cnt": "3",
+    "price": "60,000"
+  },
+  "sub_total": {
+    "subtotal_price": "60,000",
+    "tax_price": "6,000"
+  },
+  "total": {
+    "total_price": "66,000",
+    "cashprice": "70,000",
+    "changeprice": "-4,000",
+    "menutype_cnt": "1",
+    "menuqty_cnt": "3"
+  }
+}

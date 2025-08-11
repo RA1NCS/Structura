@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "CINNAMON SUGAR",
+      "unitprice": "17,000",
+      "cnt": "1",
+      "price": "17,000"
+    },
+    {
+      "nm": "TRIPPLE CHEESE",
+      "unitprice": "17,000",
+      "cnt": "1",
+      "price": "17,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "34,000"
+  },
+  "total": {
+    "total_price": "34,000",
+    "cashprice": "50,000",
+    "changeprice": "16,000"
+  }
+}

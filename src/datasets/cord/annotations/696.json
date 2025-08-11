@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "Spaghetti Deluxe",
+      "cnt": "1",
+      "price": "8.182"
+    },
+    {
+      "nm": "Lychee Float",
+      "cnt": "1",
+      "price": "5.909"
+    },
+    {
+      "nm": "SB 1 HC",
+      "cnt": "1",
+      "price": "27.727"
+    },
+    {
+      "nm": "Perkedel",
+      "cnt": "1",
+      "price": "5.909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "47,727",
+    "tax_price": "4.773"
+  },
+  "total": {
+    "total_price": "52,500",
+    "cashprice": "60,000",
+    "changeprice": "7,500",
+    "menuqty_cnt": "4"
+  }
+}

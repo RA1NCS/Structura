@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "BANANA DONUT",
+      "cnt": "1",
+      "price": "11,000"
+    },
+    {
+      "nm": "DARK CHOCOLATE MUFFIN",
+      "cnt": "2",
+      "price": "46,000"
+    },
+    {
+      "nm": "[MD] MINI CASTELLA CHOCOL",
+      "cnt": "1",
+      "price": "11,000"
+    },
+    {
+      "nm": "PREMIUM MILK PAN BREAD",
+      "cnt": "1",
+      "price": "17,500"
+    },
+    {
+      "nm": "APPLE PIE",
+      "cnt": "1",
+      "price": "11,000"
+    },
+    {
+      "nm": "PAIN AU CHOCOLATE",
+      "cnt": "2",
+      "price": "22,000"
+    },
+    {
+      "nm": "KAYA BUN",
+      "cnt": "2",
+      "price": "19,000"
+    },
+    {
+      "nm": "SAUSAGE BREAD",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "TLJ HOTDOG",
+      "cnt": "1",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "177,500",
+    "cashprice": [
+      "100,000",
+      "100,000"
+    ],
+    "changeprice": "22,500"
+  }
+}

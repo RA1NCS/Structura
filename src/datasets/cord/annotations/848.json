@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "nm": "S-Hazelnut KOI Cafe",
+    "unitprice": "@25,000",
+    "cnt": "1X",
+    "price": "25,000",
+    "sub": [
+      {
+        "nm": "25%"
+      },
+      {
+        "nm": "Less Ice"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "22,728",
+    "tax_price": "2,272"
+  },
+  "total": {
+    "total_price": "25,000",
+    "cashprice": "100,000",
+    "changeprice": "75,000"
+  }
+}

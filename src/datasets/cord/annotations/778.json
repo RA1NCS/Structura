@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "nm": "Cheese Tart Original",
+      "cnt": "1",
+      "price": "16,360",
+      "sub": {
+        "nm": "Premium"
+      }
+    },
+    {
+      "nm": "FL Mille Crepes -",
+      "cnt": "1",
+      "price": "33,181",
+      "sub": {
+        "nm": "Damier SLC"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "49,541",
+    "discount_price": "0",
+    "tax_price": [
+      "4,954.1",
+      "0"
+    ],
+    "etc": [
+      "0",
+      "0",
+      "4.9"
+    ]
+  },
+  "total": {
+    "total_price": "54,500",
+    "cashprice": "55,500",
+    "changeprice": "1,000",
+    "creditcardprice": "0",
+    "menuqty_cnt": "2"
+  }
+}

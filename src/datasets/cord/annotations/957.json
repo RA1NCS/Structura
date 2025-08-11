@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "SEAFOOD MARINARA",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "CREAMY MARINARA SALMON",
+      "cnt": "1",
+      "price": "85.500"
+    },
+    {
+      "nm": "LYCHEE ICE TEA",
+      "cnt": "2",
+      "price": "77,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "247,500",
+    "service_price": "14,850",
+    "tax_price": "26,235"
+  },
+  "total": {
+    "total_price": "288,585"
+  }
+}

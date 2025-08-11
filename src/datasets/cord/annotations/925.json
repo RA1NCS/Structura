@@ -1,0 +1,49 @@
+{
+  "menu": [
+    {
+      "nm": "Sop Sui Jiao",
+      "cnt": "1Prs",
+      "price": "33,000"
+    },
+    {
+      "nm": "Ha Kaou Udng",
+      "cnt": "1Prs",
+      "price": "28,000"
+    },
+    {
+      "nm": "Sio May Kpting",
+      "cnt": "1Prs",
+      "price": "23,500"
+    },
+    {
+      "nm": "Siomay Kmbinasi",
+      "cnt": "1Prs",
+      "price": "23,000"
+    },
+    {
+      "nm": "Leng Hong Kien",
+      "cnt": "1Prs",
+      "price": "30,000"
+    },
+    {
+      "nm": "Mie Trsi Kgkung",
+      "cnt": "1Prs",
+      "price": "35,500"
+    },
+    {
+      "nm": "Es Teh Tawar",
+      "cnt": "1Gls",
+      "price": "7,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "180,000",
+    "service_price": "9,000",
+    "tax_price": "18,900"
+  },
+  "total": {
+    "total_price": "207,900",
+    "menutype_cnt": "7",
+    "menuqty_cnt": "7"
+  }
+}

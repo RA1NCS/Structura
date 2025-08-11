@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "BUBBLE GUM",
+    "cnt": "1",
+    "price": "18,182"
+  },
+  "sub_total": {
+    "subtotal_price": "18,182",
+    "tax_price": "1,818"
+  },
+  "total": {
+    "total_price": "20.000",
+    "cashprice": "20.000",
+    "menuqty_cnt": "1"
+  }
+}

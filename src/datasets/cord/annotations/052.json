@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "RTD Kunyit",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15000"
+    },
+    {
+      "nm": "Tepung Jagung",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "30000"
+  },
+  "total": {
+    "cashprice": "30000",
+    "changeprice": "0"
+  }
+}

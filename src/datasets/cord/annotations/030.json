@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "VANDOOLEN",
+      "price": "8,182"
+    },
+    {
+      "nm": "PLASTIK 25",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "8,182",
+    "tax_price": "818"
+  },
+  "total": {
+    "total_price": "9,000",
+    "cashprice": "100,000",
+    "changeprice": "91,000",
+    "menuqty_cnt": "2.00xITEMS"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "menu": [
+    {
+      "nm": "UDG GR TLUR ASIN =*MEDIUM*=",
+      "cnt": "1",
+      "price": "165,000"
+    },
+    {
+      "nm": "SAPO TH SEAFOOD =*MEDIUM*=",
+      "cnt": "1",
+      "price": "129,000"
+    },
+    {
+      "nm": "CUMI GR JUNJAN =*MEDIUM*=",
+      "cnt": "1",
+      "price": "129,000"
+    },
+    {
+      "nm": "BIHUN GORENG JJ =*MEDIUM*=",
+      "cnt": "1",
+      "price": "87,000"
+    },
+    {
+      "nm": "OYONG 3 TELOR =*MEDIUM*=",
+      "cnt": "1",
+      "price": "84,000"
+    },
+    {
+      "nm": "GURAME FILLET M ASAM MANIS",
+      "cnt": "1",
+      "price": "163,000"
+    },
+    {
+      "nm": "CHINESE TE",
+      "unitprice": "14,000",
+      "cnt": "2",
+      "price": "28,000"
+    },
+    {
+      "nm": "CRYSANTNUM",
+      "cnt": "2"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "10,000",
+      "cnt": "8",
+      "price": "80,000"
+    },
+    {
+      "nm": "HOT TEA",
+      "unitprice": "12,000",
+      "cnt": "3",
+      "price": "36,000"
+    },
+    {
+      "nm": "ICED TEA",
+      "unitprice": "12,000",
+      "cnt": "3",
+      "price": "36,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "937,000",
+    "service_price": "56,220",
+    "tax_price": "99,322",
+    "etc": [
+      "757,000",
+      "100,000",
+      "80,000"
+    ]
+  },
+  "total": {
+    "total_price": "1,092,542"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "COPIA 1 /GB",
+      "num": "2100252000358",
+      "unitprice": "45,000.00",
+      "cnt": "1",
+      "price": "45,000.00"
+    },
+    {
+      "nm": "PLASTIC BAG RED CENTRAL SI",
+      "num": "9100544260074",
+      "unitprice": "0.00",
+      "cnt": "1",
+      "price": "0.00"
+    },
+    {
+      "nm": "COPIA 1 /GB",
+      "num": "2100252000358",
+      "unitprice": "18,000.00",
+      "cnt": "1",
+      "price": "18,000.00"
+    }
+  ],
+  "sub_total": {
+    "discount_price": "0.00"
+  },
+  "total": {
+    "total_price": "63,000.00",
+    "creditcardprice": "63,000.00",
+    "menuqty_cnt": "3"
+  }
+}

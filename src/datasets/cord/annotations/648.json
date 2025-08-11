@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "2005-CHEESE JOHN",
+    "unitprice": "Rp 9.500,00",
+    "cnt": "x1",
+    "price": "Rp 9.500,00"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "Rp 9.500,00",
+    "cashprice": "Rp 9.500,00",
+    "menuqty_cnt": "1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "MILK CREAM BREAD",
+      "cnt": "1",
+      "price": "12,500"
+    },
+    {
+      "nm": "REAL MILK CHOCO BREAD",
+      "cnt": "1",
+      "price": "12,500"
+    },
+    {
+      "nm": "RED BEAN BRAIDED BREAD",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "45,000",
+    "cashprice": "50,000",
+    "changeprice": "5,000"
+  }
+}

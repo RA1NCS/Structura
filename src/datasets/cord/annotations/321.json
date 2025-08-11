@@ -1,0 +1,83 @@
+{
+  "menu": [
+    {
+      "nm": "Angus Striploin",
+      "cnt": "1",
+      "price": "295,000"
+    },
+    {
+      "nm": "Chicken Steak",
+      "cnt": "1",
+      "price": "140,000"
+    },
+    {
+      "nm": "CK Redvelvet",
+      "cnt": "1",
+      "price": "65,000"
+    },
+    {
+      "nm": "Creamed Spinach",
+      "cnt": "1",
+      "price": "40,000"
+    },
+    {
+      "nm": "F Squeeze Orange",
+      "cnt": "1",
+      "price": "60,000"
+    },
+    {
+      "nm": "House Blend",
+      "cnt": "1",
+      "price": "40,000"
+    },
+    {
+      "nm": "Ice Tea Peach",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "Ice Tea Rasp",
+      "cnt": "2",
+      "price": "90,000"
+    },
+    {
+      "nm": "Jasmine Tea",
+      "cnt": "1",
+      "price": "40,000"
+    },
+    {
+      "nm": "Roasted Chicken",
+      "cnt": "2",
+      "price": "300,000"
+    },
+    {
+      "nm": "Salmon",
+      "cnt": "1",
+      "price": "170,000"
+    },
+    {
+      "nm": "Salmon Seaweed Bowl",
+      "cnt": "1",
+      "price": "150,000"
+    },
+    {
+      "nm": "Sorbet",
+      "cnt": "1",
+      "price": "55,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "1,490,000",
+    "service_price": "149,000",
+    "tax_price": "163,900",
+    "etc": [
+      "275,000",
+      "1,095,000",
+      "0",
+      "120,000"
+    ]
+  },
+  "total": {
+    "total_price": "1,802,900"
+  }
+}

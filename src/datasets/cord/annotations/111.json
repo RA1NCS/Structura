@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "OCHA",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "CHIC NAMBAN BENTO",
+      "cnt": "1",
+      "price": "58,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "66,000",
+    "tax_price": "6,600"
+  },
+  "total": {
+    "total_price": "72,600",
+    "creditcardprice": "72,600"
+  }
+}

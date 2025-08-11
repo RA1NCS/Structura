@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "Gangster BZR",
+    "cnt": "1",
+    "price": "30.000",
+    "sub": {
+      "nm": "+Level 0"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "30.000"
+  },
+  "total": {
+    "total_price": "30.000",
+    "cashprice": "30.000",
+    "changeprice": "0"
+  }
+}

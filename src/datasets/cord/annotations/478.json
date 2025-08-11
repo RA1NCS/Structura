@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "nm": "Pecel Pincuk",
+      "unitprice": "12.727",
+      "cnt": "10",
+      "price": "Rp. 127.270"
+    },
+    {
+      "nm": "Tahu Bacem",
+      "unitprice": "3.182",
+      "cnt": "5",
+      "price": "Rp. 15.910"
+    },
+    {
+      "nm": "Tempe Bacem",
+      "unitprice": "3.182",
+      "cnt": "5",
+      "price": "Rp. 15.910"
+    },
+    {
+      "nm": "Empal",
+      "unitprice": "12.727",
+      "cnt": "2",
+      "price": "Rp. 25.454"
+    },
+    {
+      "nm": "Peyek Parcel",
+      "unitprice": "25.455",
+      "cnt": "1",
+      "price": "Rp. 25.455"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": [
+      "Rp. 209.999",
+      "Rp. 209.999"
+    ],
+    "tax_price": "Rp. 21.000"
+  },
+  "total": {
+    "total_price": "Rp. 230.999",
+    "cashprice": "Rp. 250.000",
+    "changeprice": "Rp. 19.001"
+  }
+}

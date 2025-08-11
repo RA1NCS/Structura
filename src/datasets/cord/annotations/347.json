@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "Lumpia Klt Tahu (3)",
+      "cnt": "1",
+      "price": "43,000"
+    },
+    {
+      "nm": "SM Udang & Aym (4)",
+      "cnt": "1",
+      "price": "50,000"
+    },
+    {
+      "nm": "XLB Kptg&Aym(4)",
+      "cnt": "1",
+      "price": "56,000"
+    },
+    {
+      "nm": "Brokoli Bwg Putih",
+      "cnt": "1",
+      "price": "60,000"
+    },
+    {
+      "nm": "Mie Sup WT (U & A)",
+      "cnt": "1",
+      "price": "53,000"
+    },
+    {
+      "nm": "The Roselle",
+      "cnt": "1",
+      "price": "32,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "294,000",
+    "service_price": "22,050",
+    "tax_price": "31,605"
+  },
+  "total": {
+    "total_price": "347,655",
+    "creditcardprice": "347,655"
+  }
+}

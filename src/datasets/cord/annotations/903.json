@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "nm": "M-Caramel Black Tea",
+    "unitprice": "@28,000",
+    "cnt": "1X",
+    "price": "28,000",
+    "sub": [
+      {
+        "nm": "70%"
+      },
+      {
+        "nm": "Less Ice"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "28,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "28,000",
+    "cashprice": "28,000",
+    "changeprice": "0"
+  }
+}

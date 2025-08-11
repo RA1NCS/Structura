@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "ROTI",
+      "unitprice": "5.000",
+      "cnt": "6",
+      "price": "30.000"
+    },
+    {
+      "nm": "ROTI",
+      "unitprice": "4.500",
+      "cnt": "3",
+      "price": "13.500"
+    },
+    {
+      "nm": "ROTI",
+      "unitprice": "6.000",
+      "cnt": "2",
+      "price": "12.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "55.500"
+  },
+  "total": {
+    "total_price": "55.500",
+    "cashprice": "100.000",
+    "changeprice": "44.500",
+    "menuqty_cnt": "11Q"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "Sabun Beras",
+    "unitprice": "30000",
+    "cnt": "1",
+    "price": "30000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "30000",
+    "cashprice": "30000",
+    "changeprice": "0"
+  }
+}

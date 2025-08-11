@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "AREM - AREM",
+      "unitprice": "@8000",
+      "cnt": "1X",
+      "discountprice": "-3,200",
+      "price": "8,000"
+    },
+    {
+      "nm": "LEMPER",
+      "unitprice": "@9000",
+      "cnt": "1X",
+      "discountprice": "-3,600",
+      "price": "9,000"
+    },
+    {
+      "nm": "PLASTIK KECIL",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "10,200"
+  },
+  "total": {
+    "total_price": "10,200",
+    "cashprice": "20,000",
+    "changeprice": "9,800",
+    "menuqty_cnt": "3.00xITEMs"
+  }
+}

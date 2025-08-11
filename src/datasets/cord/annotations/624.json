@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "Chicken Soy Sauce H",
+      "cnt": "1",
+      "price": "95,000"
+    },
+    {
+      "nm": "Butter Cheese Corn",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "Bintang L",
+      "cnt": "1",
+      "price": "59,000"
+    },
+    {
+      "nm": "Chum Churum",
+      "cnt": "1",
+      "price": "140,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "339,000",
+    "discount_price": "0",
+    "service_price": "16,950",
+    "tax_price": "35,595"
+  },
+  "total": {
+    "total_price": "391,545"
+  }
+}

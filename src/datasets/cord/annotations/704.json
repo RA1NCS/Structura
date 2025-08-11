@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "H N Cheesy Chic",
+      "cnt": "1",
+      "price": "18,636"
+    },
+    {
+      "nm": "Rice Organik",
+      "cnt": "1",
+      "price": "6,818"
+    },
+    {
+      "nm": "K.Chees Chic RC",
+      "cnt": "1",
+      "price": "30,455"
+    },
+    {
+      "nm": "MOCA FLT OVLTIN",
+      "cnt": "1",
+      "price": "8,636"
+    },
+    {
+      "nm": "Perkedel",
+      "cnt": "1",
+      "price": "5,909"
+    },
+    {
+      "nm": "FFries Large",
+      "cnt": "1",
+      "price": "18,182"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "88,636",
+    "tax_price": "8,865",
+    "etc": "-1"
+  },
+  "total": {
+    "total_price": "97,500",
+    "cashprice": "100,000"
+  }
+}

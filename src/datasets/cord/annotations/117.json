@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "RTD Relaxing Drink",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15000"
+    },
+    {
+      "nm": "RTD Rosella Aloevera",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15000"
+    },
+    {
+      "nm": "RTD Madu Aloevera",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15000"
+    },
+    {
+      "nm": "RTD Lemongrass Aloe",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "60000",
+    "cashprice": "60000",
+    "changeprice": "0"
+  }
+}

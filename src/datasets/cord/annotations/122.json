@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Common Law",
+      "cnt": "1",
+      "price": "9,900"
+    },
+    {
+      "nm": "Tigger Roll",
+      "cnt": "1",
+      "price": "14,900"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "24,800",
+    "discount_price": "-300"
+  },
+  "total": {
+    "cashprice": "100,000",
+    "changeprice": "75,500",
+    "menuqty_cnt": "2"
+  }
+}

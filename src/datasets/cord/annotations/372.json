@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Croisant Mini (NAM)",
+    "unitprice": "18,000",
+    "cnt": "1x",
+    "price": "18,000"
+  },
+  "sub_total": {
+    "subtotal_price": "18,000"
+  },
+  "total": {
+    "total_price": "18,000",
+    "cashprice": "100,000",
+    "changeprice": "82,000"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "NASI PUTIH",
+      "price": "13,000"
+    },
+    {
+      "nm": "AYAM GR BUMBU",
+      "unitprice": "22,000",
+      "cnt": "2X",
+      "price": "44,000"
+    },
+    {
+      "nm": "NESTLE 330 ML",
+      "unitprice": "8,000",
+      "cnt": "2X",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "73,000",
+    "tax_price": "7,300"
+  },
+  "total": {
+    "total_price": "80,300",
+    "cashprice": "100,500",
+    "changeprice": "20,200",
+    "menuqty_cnt": "5.00 ITEMS"
+  }
+}

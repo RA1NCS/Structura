@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "FRANKFRUT SAUSAGE ROLL",
+      "cnt": "1",
+      "price": "12,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "21,000",
+    "cashprice": "50,000",
+    "changeprice": "29,000"
+  }
+}

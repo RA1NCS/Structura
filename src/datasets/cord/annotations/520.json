@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "Premier Mineral Water (L t1)",
+      "cnt": "1",
+      "price": "8.000"
+    },
+    {
+      "nm": "Lychee Tea",
+      "cnt": "1",
+      "price": "15.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "23.000"
+  },
+  "total": {
+    "total_price": "23.000",
+    "cashprice": "32.000",
+    "changeprice": "9.000"
+  }
+}

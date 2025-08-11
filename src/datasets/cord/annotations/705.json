@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "ORIGINAL SALT",
+    "unitprice": "12,000",
+    "cnt": "1",
+    "price": "12,000"
+  },
+  "sub_total": {
+    "subtotal_price": "12,000"
+  },
+  "total": {
+    "total_price": "12,000",
+    "changeprice": "0",
+    "creditcardprice": "12,000"
+  }
+}

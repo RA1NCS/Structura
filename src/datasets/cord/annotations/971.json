@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "Dum Dum Thai Coffee",
+    "cnt": "1",
+    "price": "19.000",
+    "sub": {
+      "nm": "Ice",
+      "cnt": "1",
+      "price": "1.000"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "20.000"
+  },
+  "total": {
+    "total_price": "20.000",
+    "cashprice": "50.000",
+    "changeprice": "30.000"
+  }
+}

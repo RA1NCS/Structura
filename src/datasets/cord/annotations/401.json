@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Bakso Campur",
+      "cnt": "1",
+      "price": "25.455"
+    },
+    {
+      "nm": "Es Teh Manis",
+      "cnt": "1",
+      "price": "7.273"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "32.728",
+    "tax_price": "3.273"
+  },
+  "total": {
+    "total_price": "36.001",
+    "cashprice": "36.001",
+    "menuqty_cnt": "2"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "nm": "NEW BEEF SPAGHETTI",
+      "cnt": "1",
+      "price": "38,182"
+    },
+    {
+      "nm": "P/P AMERICAN FAV",
+      "cnt": "1",
+      "price": "29,091"
+    },
+    {
+      "nm": "PAKET HAPPY HOUR",
+      "cnt": "1",
+      "price": "27,273",
+      "sub": [
+        {
+          "nm": "GARLIC BREAD",
+          "cnt": "1"
+        },
+        {
+          "nm": "DILMAH ENGLISH TEA",
+          "cnt": "1"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "94,546",
+    "tax_price": "9,454"
+  },
+  "total": {
+    "total_price": "104,000"
+  }
+}

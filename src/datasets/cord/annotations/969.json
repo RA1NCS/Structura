@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "SOTO MEDAN+NASI",
+      "cnt": "1",
+      "price": "59.500"
+    },
+    {
+      "nm": "GADO-GADO",
+      "cnt": "1",
+      "price": "34.500"
+    },
+    {
+      "nm": "SOTO BETAWI + NASI",
+      "cnt": "1",
+      "price": "57.500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "151.500",
+    "service_price": "7.575",
+    "tax_price": "15.908"
+  },
+  "total": {
+    "total_price": "174.983"
+  }
+}

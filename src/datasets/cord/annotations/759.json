@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "unitprice": "9000",
+      "cnt": "1",
+      "price": "9000"
+    },
+    {
+      "nm": "MILK PASTRY ROLL",
+      "unitprice": "9000",
+      "cnt": "1",
+      "price": "9000"
+    },
+    {
+      "nm": "[MD] SOFT STEAMED CHOCOCAKE",
+      "unitprice": "10000",
+      "cnt": "1",
+      "price": "10000"
+    },
+    {
+      "nm": "REDBEAN BREAD",
+      "unitprice": "9000",
+      "cnt": "1",
+      "price": "9000"
+    },
+    {
+      "nm": "KAYA BUN",
+      "unitprice": "9500",
+      "cnt": "1",
+      "price": "9500"
+    },
+    {
+      "nm": "PREMIUM MILK PAN BREAD",
+      "unitprice": "17500",
+      "cnt": "1",
+      "price": "17500"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "64000",
+    "cashprice": "100000",
+    "changeprice": "36000",
+    "menutype_cnt": "6"
+  }
+}

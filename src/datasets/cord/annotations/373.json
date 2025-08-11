@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Bento Barbeque",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "Lychee Float",
+      "cnt": "1",
+      "price": "5,909"
+    },
+    {
+      "nm": "KFC Winger HC",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "39,545",
+    "tax_price": "3,955"
+  },
+  "total": {
+    "total_price": "43,500",
+    "cashprice": "50,500",
+    "changeprice": "7,000",
+    "menuqty_cnt": "3"
+  }
+}

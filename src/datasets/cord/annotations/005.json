@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "Lasagna",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "Spaghetti ChickPesto",
+      "cnt": "1",
+      "price": "55,000"
+    },
+    {
+      "nm": "BangBang Chick Wings",
+      "cnt": "1",
+      "price": "49,000"
+    },
+    {
+      "nm": "Iced Cappuccino",
+      "cnt": "1",
+      "price": "33,000"
+    },
+    {
+      "nm": "Gypsy Gelato Ice Tea",
+      "cnt": "1",
+      "price": "39,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "221,000",
+    "service_price": "16,575",
+    "tax_price": "23,758"
+  },
+  "total": {
+    "total_price": "261,333",
+    "total_etc": "100,000",
+    "creditcardprice": "161,333"
+  }
+}

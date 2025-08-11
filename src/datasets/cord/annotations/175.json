@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "HAZELNUT ALM",
+      "price": "15,000"
+    },
+    {
+      "nm": "CAPPUCINO CI",
+      "price": "14,000"
+    },
+    {
+      "nm": "TIRAMISU CIN",
+      "price": "14,000"
+    }
+  ],
+  "sub_total": {
+    "etc": "-25,000"
+  },
+  "total": {
+    "total_price": "18,000",
+    "cashprice": "50,000",
+    "changeprice": "32,000"
+  }
+}

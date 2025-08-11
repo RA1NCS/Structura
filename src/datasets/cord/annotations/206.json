@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "BASO KUAH",
+      "unitprice": "43,636",
+      "cnt": "1",
+      "price": "43,636"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "6.000",
+      "cnt": "1",
+      "price": "6.000"
+    },
+    {
+      "nm": "A.MINERAL BOTOL",
+      "unitprice": "8,000",
+      "cnt": "1",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "57,636",
+    "tax_price": "5,764"
+  },
+  "total": {
+    "total_price": "63,400",
+    "cashprice": "70.000",
+    "changeprice": "6.600"
+  }
+}

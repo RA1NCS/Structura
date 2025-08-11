@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "SMOKY PAN CLASSIC",
+      "cnt": "1",
+      "price": "59,000"
+    },
+    {
+      "nm": "Chicken Popcorn",
+      "cnt": "1",
+      "price": "29,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "88,000",
+    "service_price": "4,400",
+    "tax_price": "9,240"
+  },
+  "total": {
+    "total_price": "101,640",
+    "menutype_cnt": "2",
+    "menuqty_cnt": "2"
+  }
+}

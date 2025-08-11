@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "BURGER CHIC DECKER",
+      "cnt": "1",
+      "price": "68,000"
+    },
+    {
+      "nm": "Home Made Lemonade",
+      "cnt": "1",
+      "price": "40,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "108,000",
+    "service_price": "5,940",
+    "tax_price": "11,394"
+  },
+  "total": {
+    "total_price": "125,334",
+    "creditcardprice": "125,334"
+  }
+}

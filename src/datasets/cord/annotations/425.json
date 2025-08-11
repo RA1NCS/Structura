@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "nm": "ES TEH MANIS",
+      "cnt": "2",
+      "price": "14,546"
+    },
+    {
+      "nm": "NS FILET IKN ASM MNS",
+      "cnt": "1",
+      "price": "40,910"
+    },
+    {
+      "nm": "NS+AYAM GR TPG",
+      "cnt": "1",
+      "price": "37,273"
+    },
+    {
+      "nm": "NASI GORENG SPC",
+      "cnt": "1",
+      "price": "30,001"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "122,730",
+    "tax_price": "12,273",
+    "etc": [
+      "135,003",
+      "-3"
+    ]
+  },
+  "total": {
+    "total_price": "135,000",
+    "creditcardprice": "135,000",
+    "menuqty_cnt": "5"
+  }
+}

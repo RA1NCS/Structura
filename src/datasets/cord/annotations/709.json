@@ -1,0 +1,75 @@
+{
+  "menu": [
+    {
+      "nm": "YANG YUM GUI",
+      "cnt": "2",
+      "price": "194,000"
+    },
+    {
+      "nm": "MOKDENGSIM",
+      "cnt": "1",
+      "price": "97,000"
+    },
+    {
+      "nm": "SAMGYOPSAL",
+      "cnt": "2",
+      "price": "194,000"
+    },
+    {
+      "nm": "SOONDUBU CHIGE",
+      "cnt": "1",
+      "price": "75,000"
+    },
+    {
+      "nm": "GALBI TANG",
+      "cnt": "1",
+      "price": "92,000"
+    },
+    {
+      "nm": "JINSENG SAMGYETANG",
+      "cnt": "1",
+      "price": "135,000"
+    },
+    {
+      "nm": "JAP CHAE",
+      "cnt": "2",
+      "price": "210,000"
+    },
+    {
+      "nm": "PAJON",
+      "cnt": "1",
+      "price": "105,000"
+    },
+    {
+      "nm": "BIR BINTANG BOTOL ( )",
+      "cnt": "2",
+      "price": "110,000"
+    },
+    {
+      "nm": "AQUA",
+      "cnt": "2",
+      "price": "20,000"
+    },
+    {
+      "nm": "BULGOGI BIBIMBAB",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "NASI(GONGGI BAB)",
+      "cnt": "2",
+      "price": "30,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "1,347,000",
+    "discount_price": "0",
+    "service_price": "94,290",
+    "tax_price": "137,900"
+  },
+  "total": {
+    "total_price": "1,579,190",
+    "changeprice": "0",
+    "creditcardprice": "1,579,190"
+  }
+}

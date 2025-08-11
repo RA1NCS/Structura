@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "nm": "Paket KP1",
+    "cnt": "1",
+    "price": "45.455",
+    "sub": {
+      "nm": "Free Tea Pucuk",
+      "price": "(0)"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "45.455",
+    "tax_price": "4.546",
+    "etc": "(1)"
+  },
+  "total": {
+    "total_price": "50.000",
+    "cashprice": "100.000",
+    "changeprice": "50.000"
+  }
+}

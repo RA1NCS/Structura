@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "CHEEZY DOG BITES",
+    "unitprice": "33,000",
+    "cnt": "1",
+    "price": "33,000"
+  },
+  "sub_total": {
+    "subtotal_price": "33,000"
+  },
+  "total": {
+    "total_price": "33,000",
+    "cashprice": "100,000",
+    "changeprice": "67,000"
+  }
+}

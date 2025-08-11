@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "nm": "BAK MANDI (BAK MANDI TAIWAN BESAR)",
+      "num": "500900014",
+      "price": "125,000"
+    },
+    {
+      "nm": "TATAKAN MANDI (JARING MANDI JALA) -",
+      "num": "502100007",
+      "price": "50,000"
+    },
+    {
+      "nm": "BAJU ATASAN(PETITE MIMI ROMPER 3D FOREST / RM0003)",
+      "num": "1000600098",
+      "price": "53,000"
+    },
+    {
+      "nm": "ACCESORIES(SUN BABES PENUTUP MATA)",
+      "num": "804100017",
+      "price": "27,500"
+    },
+    {
+      "nm": "KAPAS (KAPAS MEDISOFT COTTON BALL 120)",
+      "num": "8991038772194",
+      "unitprice": "7,000",
+      "cnt": "3",
+      "price": "21,000"
+    },
+    {
+      "nm": "JOIE KUBBIE(BABY BOX)",
+      "num": "901800109",
+      "price": "1,100,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "1,376,500",
+    "menuqty_cnt": "8"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "menu": [
+    {
+      "nm": "Bakpao telur asin",
+      "cnt": "1",
+      "price": "22,800"
+    },
+    {
+      "nm": "Cai Mieo",
+      "cnt": "1",
+      "price": "15,800"
+    },
+    {
+      "nm": "caisim special",
+      "cnt": "1",
+      "price": "15,800"
+    },
+    {
+      "nm": "Carsiupau Ayam",
+      "cnt": "1",
+      "price": "22,800"
+    },
+    {
+      "nm": "Fish Glue",
+      "cnt": "1",
+      "price": "27,800"
+    },
+    {
+      "nm": "Jamur Isi Ayam",
+      "cnt": "1",
+      "price": "32,800"
+    },
+    {
+      "nm": "Jamur Kuping",
+      "cnt": "1",
+      "price": "21,800"
+    },
+    {
+      "nm": "Kailan hongkong",
+      "cnt": "1",
+      "price": "15,800"
+    },
+    {
+      "nm": "Kuah Kaldu Ayam",
+      "cnt": "1"
+    },
+    {
+      "nm": "Kue Macok",
+      "cnt": "1",
+      "price": "22,800"
+    },
+    {
+      "nm": "Pangsit Special",
+      "cnt": "1",
+      "price": "27,800"
+    },
+    {
+      "nm": "Sirloin Roll Enoki",
+      "cnt": "1",
+      "price": "34,800"
+    },
+    {
+      "nm": "Sutake Kombinasi",
+      "cnt": "1",
+      "price": "31,800"
+    },
+    {
+      "nm": "Tahu Jepang",
+      "cnt": "1",
+      "price": "10,800"
+    },
+    {
+      "nm": "Tahu Sandwidh",
+      "cnt": "1",
+      "price": "26,800"
+    },
+    {
+      "nm": "TOM YAM",
+      "cnt": "1"
+    },
+    {
+      "nm": "Udon",
+      "cnt": "1",
+      "price": "19,800"
+    },
+    {
+      "nm": "Chines Tea Green Tea",
+      "cnt": "2",
+      "price": "21,600"
+    },
+    {
+      "nm": "Tahu Isi Ayam",
+      "cnt": "2",
+      "price": "55,600"
+    },
+    {
+      "nm": "Green tea Dingin",
+      "cnt": "5",
+      "price": "84,000"
+    },
+    {
+      "nm": "Nasi Putih",
+      "cnt": "7",
+      "price": "68,600"
+    },
+    {
+      "nm": "Bakso Ikan",
+      "cnt": "1",
+      "price": "25,800"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "605,600",
+    "discount_price": "100,000)",
+    "service_price": "25,280",
+    "tax_price": "53,088",
+    "etc": "505,600"
+  },
+  "total": {
+    "total_price": "583,968",
+    "creditcardprice": "583,968"
+  }
+}

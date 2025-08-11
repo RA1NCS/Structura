@@ -1,0 +1,23 @@
+{
+  "menu": {
+    "nm": "Viet Milk Coffee",
+    "cnt": "1",
+    "price": "25.000",
+    "sub": [
+      {
+        "nm": "+Ice"
+      },
+      {
+        "nm": "+M"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "25.000"
+  },
+  "total": {
+    "total_price": "25.000",
+    "cashprice": "25.000",
+    "changeprice": "0"
+  }
+}

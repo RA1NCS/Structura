@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Kopi Susu R",
+    "cnt": "1",
+    "price": "19.000"
+  },
+  "sub_total": {
+    "subtotal_price": "19.000"
+  },
+  "total": {
+    "total_price": "19.000",
+    "changeprice": "0",
+    "creditcardprice": "19.000"
+  }
+}

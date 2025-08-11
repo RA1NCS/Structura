@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "Popcorn Salt (M)",
+      "cnt": "1",
+      "price": "40.000"
+    },
+    {
+      "nm": "Mineral Water (S)",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "Fanta Stwbry (L)",
+      "cnt": "1",
+      "price": "25.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "75.000",
+    "cashprice": "100,000",
+    "changeprice": "25,000"
+  }
+}

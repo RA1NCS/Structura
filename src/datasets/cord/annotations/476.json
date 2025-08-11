@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "PLASTIC BAG",
+      "cnt": "1",
+      "price": "500.00"
+    },
+    {
+      "nm": "Pink Panther (P)",
+      "cnt": "1",
+      "price": "37,500.00"
+    },
+    {
+      "nm": "Red dragon (P)",
+      "cnt": "1",
+      "price": "37,500.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "75,500.00",
+    "discount_price": "0.00"
+  },
+  "total": {
+    "total_price": "75,500.00",
+    "changeprice": "0.00",
+    "creditcardprice": "75,500.00",
+    "menuqty_cnt": "3"
+  }
+}

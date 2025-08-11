@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "nm": "JUICE JAMBU",
+      "cnt": "1",
+      "price": "16,364"
+    },
+    {
+      "nm": "TEH TAWAR",
+      "cnt": "1",
+      "price": "5,455"
+    },
+    {
+      "nm": "N AYM PENYET SAMBAL MATAH",
+      "cnt": "1",
+      "price": "25,455"
+    },
+    {
+      "nm": "TAHU DOMBA MEMBARA",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "TP KULIT",
+      "cnt": "1",
+      "price": "12,273"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "73,183",
+    "tax_price": "7,318"
+  },
+  "total": {
+    "total_price": "80,501",
+    "cashprice": "100,000",
+    "changeprice": "-19,499",
+    "menutype_cnt": "5",
+    "menuqty_cnt": "5"
+  }
+}

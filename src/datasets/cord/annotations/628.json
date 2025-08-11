@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "CHEESE VOLCANO",
+    "cnt": "1",
+    "price": "23,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "23,000",
+    "cashprice": "23,000",
+    "changeprice": "0"
+  }
+}

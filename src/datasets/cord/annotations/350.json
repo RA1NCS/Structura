@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "nm": "VALUE MEAL 1",
+    "cnt": "1",
+    "price": "29,090",
+    "sub": [
+      {
+        "nm": "- SUGAKIYA RAMEN",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "- COLD OCHA",
+        "cnt": "1",
+        "price": "0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "29,090",
+    "tax_price": "2,909",
+    "etc": "1"
+  },
+  "total": {
+    "total_price": "32,000",
+    "emoneyprice": "32,000",
+    "menuqty_cnt": "3"
+  }
+}

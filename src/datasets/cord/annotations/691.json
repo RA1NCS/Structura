@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "ISI CAMPUR",
+      "unitprice": "43.636",
+      "cnt": "1",
+      "price": "43.636"
+    },
+    {
+      "nm": "AQUA BOTOL",
+      "unitprice": "9.000",
+      "cnt": "1",
+      "price": "9.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": [
+      "52.636",
+      "52.636"
+    ],
+    "tax_price": "5,264"
+  },
+  "total": {
+    "total_price": "57,900",
+    "cashprice": "60.000",
+    "changeprice": "2,100"
+  }
+}

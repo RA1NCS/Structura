@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "KFC Winger HC",
+      "cnt": "2",
+      "price": "40,000"
+    },
+    {
+      "nm": "Ori Bento",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "Mango Float",
+      "cnt": "1",
+      "price": "5,909"
+    },
+    {
+      "nm": "F.Wngr GES-HC",
+      "cnt": "1",
+      "price": "0"
+    },
+    {
+      "nm": "CHARGE TA",
+      "cnt": "1",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "60,454",
+    "tax_price": "6,046"
+  },
+  "total": {
+    "total_price": "66,500",
+    "cashprice": "100,000",
+    "changeprice": "33,500",
+    "menuqty_cnt": "6"
+  }
+}

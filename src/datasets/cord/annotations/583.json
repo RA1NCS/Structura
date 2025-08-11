@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "KING DEAL FISH",
+      "cnt": "1",
+      "price": "27,500.00"
+    },
+    {
+      "nm": "KING DEAL CHEESE BG",
+      "cnt": "1",
+      "price": "27,500.00"
+    },
+    {
+      "nm": "1 BIC ALA CARTE",
+      "cnt": "1",
+      "price": "17,500.00",
+      "sub": {
+        "nm": "CHG TO REG JASMINE",
+        "cnt": "2"
+      }
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "72,500.00"
+  }
+}

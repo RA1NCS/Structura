@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "MACARON BLUE",
+    "cnt": "2",
+    "price": "22,000"
+  },
+  "sub_total": {
+    "subtotal_price": "20,000",
+    "tax_price": "2,000"
+  },
+  "total": {
+    "total_price": "22,000",
+    "cashprice": "52,000",
+    "changeprice": "30,000"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Cuka Apel Moringa",
+    "unitprice": "289000",
+    "cnt": "1",
+    "price": "289000"
+  },
+  "sub_total": {
+    "subtotal_price": "289000"
+  },
+  "total": {
+    "cashprice": "300000",
+    "changeprice": "11000"
+  }
+}

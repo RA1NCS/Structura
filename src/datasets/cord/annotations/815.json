@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "Lemon Tea (L)",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Caramel Small",
+      "cnt": "1",
+      "price": "38.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "63.000",
+    "cashprice": "70.000",
+    "changeprice": "7.000"
+  }
+}

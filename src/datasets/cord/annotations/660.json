@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "BL1 M LW",
+      "num": "LP5201",
+      "unitprice": "70,000",
+      "cnt": "1",
+      "discountprice": "-31,500",
+      "price": "70,000"
+    },
+    {
+      "nm": "WH3 M LW",
+      "num": "LP5978",
+      "unitprice": "70,000",
+      "cnt": "1",
+      "discountprice": "-31,500",
+      "price": "70,000"
+    },
+    {
+      "nm": "RE5 M LW",
+      "num": "LP5978",
+      "unitprice": "70,000",
+      "cnt": "1",
+      "discountprice": "-31,500",
+      "price": "70,000"
+    }
+  ],
+  "sub_total": {
+    "discount_price": "94,500"
+  },
+  "total": {
+    "total_price": "115,500",
+    "creditcardprice": "115,500"
+  }
+}

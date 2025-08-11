@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "BLACKCURRANT",
+      "cnt": "1",
+      "price": "32,000"
+    },
+    {
+      "nm": "FRIED CALAMARI",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "SALTED EGG FISH & CHIPS",
+      "cnt": "1",
+      "price": "99,000"
+    },
+    {
+      "nm": "DANISH FISH & CHIPS",
+      "cnt": "1"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "216,000",
+    "service_price": "17,280",
+    "tax_price": "23,328",
+    "etc": [
+      "32,000",
+      "184,000"
+    ]
+  },
+  "total": {
+    "total_price": "256,608"
+  }
+}

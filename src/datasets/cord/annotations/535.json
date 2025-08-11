@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "Milo",
+    "cnt": "1",
+    "price": "14,000"
+  },
+  "sub_total": {
+    "subtotal_price": "14,000"
+  },
+  "total": {
+    "total_price": "14,000",
+    "cashprice": "14.000"
+  }
+}

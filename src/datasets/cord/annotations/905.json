@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "LE MINERAL",
+    "cnt": "1.00",
+    "price": "8,000"
+  },
+  "sub_total": {
+    "subtotal_price": "7,273",
+    "tax_price": "727"
+  },
+  "total": {
+    "total_price": "8,000",
+    "cashprice": "8,000"
+  }
+}

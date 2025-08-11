@@ -1,0 +1,76 @@
+{
+  "menu": [
+    {
+      "nm": "KUE CUBIT OVO/ SKIPPY",
+      "cnt": "1",
+      "price": "39,000"
+    },
+    {
+      "nm": "ES BUAH",
+      "cnt": "2",
+      "price": "36,000"
+    },
+    {
+      "nm": "DODOT KAKEK",
+      "cnt": "1",
+      "price": "28,000"
+    },
+    {
+      "nm": "DODOT CUCU COKLAT",
+      "cnt": "1",
+      "price": "28,000"
+    },
+    {
+      "nm": "CHOCOLATE MILK SHAKE",
+      "cnt": "1",
+      "price": "22,000"
+    },
+    {
+      "nm": "T. TARIK GREENTEA DINGIN",
+      "cnt": "2",
+      "price": "40,000"
+    },
+    {
+      "nm": "CHOCOLATE MILK SHAKE",
+      "cnt": "1",
+      "price": "22,000"
+    },
+    {
+      "nm": "ICED CAPPUCINO JELLY",
+      "cnt": "1",
+      "price": "24,000"
+    },
+    {
+      "nm": "T. TARIK GREENTEA DINGIN",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "TEH PAHIT PANAS",
+      "cnt": "1",
+      "price": "6,000"
+    },
+    {
+      "nm": "MINERAL WATER",
+      "cnt": "1",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "273,000",
+    "discount_price": "0",
+    "othersvc_price": [
+      "27,300",
+      "0"
+    ],
+    "tax_price": [
+      "0",
+      "0"
+    ],
+    "etc": "0"
+  },
+  "total": {
+    "total_price": "300,300",
+    "menuqty_cnt": "13"
+  }
+}

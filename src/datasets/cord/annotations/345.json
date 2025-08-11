@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "TRAD KY TOAST CARTE",
+    "cnt": "1.00",
+    "price": "28.182"
+  },
+  "sub_total": {
+    "subtotal_price": "28.182",
+    "tax_price": "2.818"
+  },
+  "total": {
+    "total_price": "31.000",
+    "cashprice": "31.000"
+  }
+}

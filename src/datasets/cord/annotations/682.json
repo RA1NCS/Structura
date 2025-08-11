@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "nm": "NASI 2SAYUR TELR",
+    "price": "15000"
+  },
+  "sub_total": {},
+  "total": {
+    "cashprice": "15000",
+    "menuqty_cnt": "1Q"
+  }
+}

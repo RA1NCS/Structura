@@ -1,0 +1,54 @@
+{
+  "menu": [
+    {
+      "nm": "SAMGYOPSAL",
+      "cnt": "1",
+      "price": "97,000"
+    },
+    {
+      "nm": "OGYOPSAL",
+      "cnt": "1",
+      "price": "97,000"
+    },
+    {
+      "nm": "YUKHWE",
+      "cnt": "1",
+      "price": "150,000"
+    },
+    {
+      "nm": "RICE",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "JABCHAE BEEF",
+      "cnt": "1",
+      "price": "95,000"
+    },
+    {
+      "nm": "OCHA DINGIN",
+      "cnt": "1",
+      "price": "15,000",
+      "sub": {
+        "nm": "(REFILL)"
+      }
+    },
+    {
+      "nm": "SUNDUBU",
+      "cnt": "1",
+      "price": "0",
+      "sub": {
+        "nm": "CHIGE s"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "469,000",
+    "discount_price": "0",
+    "service_price": "23,450",
+    "tax_price": "49,170"
+  },
+  "total": {
+    "total_price": "541,620"
+  }
+}

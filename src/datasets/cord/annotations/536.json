@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "BBQ Chicken",
+    "cnt": "1",
+    "price": "41,000",
+    "sub": {
+      "nm": "Sedang",
+      "cnt": "1",
+      "price": "0"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "41,000"
+  },
+  "total": {
+    "total_price": "41,000",
+    "creditcardprice": "41,000",
+    "menuqty_cnt": "1"
+  }
+}

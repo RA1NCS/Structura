@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "nm": "Salted Egg Yalk Chicken",
+    "cnt": "1",
+    "price": "45,000",
+    "sub": {
+      "nm": "Tidak Pedas",
+      "cnt": "1",
+      "price": "0"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "45,000"
+  },
+  "total": {
+    "total_price": "45,000",
+    "cashprice": "50,000",
+    "changeprice": "5,000",
+    "menuqty_cnt": "1"
+  }
+}

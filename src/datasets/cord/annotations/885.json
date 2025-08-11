@@ -1,0 +1,72 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi Putih",
+      "cnt": "3",
+      "price": "30.000"
+    },
+    {
+      "nm": "Nasi Tambah",
+      "cnt": "1",
+      "price": "7.000"
+    },
+    {
+      "nm": "Ayam Pop",
+      "cnt": "2",
+      "price": "40.000"
+    },
+    {
+      "nm": "Samabal SP",
+      "cnt": "1",
+      "price": "11.000"
+    },
+    {
+      "nm": "Sambal Gabus Asin Cb",
+      "cnt": "1",
+      "price": "18.000"
+    },
+    {
+      "nm": "Kerupuk Kuah",
+      "cnt": "1",
+      "price": "15.000"
+    },
+    {
+      "nm": "Ikan Bawal Besa",
+      "cnt": "1",
+      "price": "28.500"
+    },
+    {
+      "nm": "Telur Dadar",
+      "cnt": "1",
+      "price": "10.000"
+    },
+    {
+      "nm": "Teh Es",
+      "cnt": "1",
+      "price": "7.000"
+    },
+    {
+      "nm": "Teh Manis",
+      "cnt": "1",
+      "price": "9.000"
+    },
+    {
+      "nm": "Es Batu",
+      "cnt": "1",
+      "price": "4.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "179.500",
+    "tax_price": "17.950",
+    "etc": [
+      "159.500",
+      "20.000"
+    ]
+  },
+  "total": {
+    "total_price": "197.450",
+    "cashprice": "197.450",
+    "menuqty_cnt": "14"
+  }
+}

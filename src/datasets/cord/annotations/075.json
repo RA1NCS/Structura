@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "nm": "PAKET DOSIRAK 3",
+      "unitprice": "25,975",
+      "cnt": "1",
+      "price": "25,975",
+      "sub": [
+        {
+          "nm": "PAKET DOSIRAK 3"
+        },
+        {
+          "nm": "ICE SWEET JASMINE GREENTEA"
+        }
+      ]
+    },
+    {
+      "nm": "PAKET CHICKEN 3",
+      "unitprice": "35,000",
+      "cnt": "3",
+      "price": "105,000"
+    },
+    {
+      "nm": "JAPCHE",
+      "unitprice": "25,000",
+      "cnt": "1",
+      "price": "25,000"
+    },
+    {
+      "nm": "KOREAN LEMONADE",
+      "unitprice": "15,000",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "KOREAN COLD TEA",
+      "unitprice": "9,000",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "PAKET BULGOGI 3",
+      "unitprice": "45,000",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "BANANA MLK+MATCHA PU",
+      "unitprice": "21,000",
+      "cnt": "2",
+      "price": "42,000"
+    },
+    {
+      "nm": "KRN FRIED CHICKN HNY",
+      "unitprice": "25,000",
+      "cnt": "1",
+      "price": "25,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "291,975",
+    "service_price": "14,598",
+    "tax_price": "30,657"
+  },
+  "total": {
+    "total_price": "337,230",
+    "cashprice": "350,000",
+    "changeprice": "12,770"
+  }
+}

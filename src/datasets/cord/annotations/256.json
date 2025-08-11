@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "AMBUSH DBL CHS BURG",
+      "cnt": "11",
+      "price": "181,500.00"
+    },
+    {
+      "nm": "AMBUSH CHS BURGER",
+      "cnt": "4",
+      "price": "44,000.00"
+    },
+    {
+      "nm": "TAKE AWAY CHARGE",
+      "cnt": "1",
+      "price": "1,000.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "226,500.00"
+  },
+  "total": {
+    "total_price": "226,500.00",
+    "cashprice": "250,000.00",
+    "changeprice": "23,500.00"
+  }
+}

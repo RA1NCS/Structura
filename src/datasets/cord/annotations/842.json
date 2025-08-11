@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "Chicken HCC. 1Pcs",
+    "cnt": "1",
+    "price": "15.000"
+  },
+  "sub_total": {
+    "subtotal_price": "15,000",
+    "tax_price": "1,500"
+  },
+  "total": {
+    "total_price": "16,500",
+    "cashprice": "50,000",
+    "changeprice": "33,500",
+    "menuqty_cnt": "1"
+  }
+}

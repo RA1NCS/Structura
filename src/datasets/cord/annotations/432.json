@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "XXI Java Tea Spc",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Popcorn Sweet (S)",
+      "cnt": "1",
+      "price": "30.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "55.000",
+    "cashprice": "100.000",
+    "changeprice": "45.000"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "Seafood Tempura BBQ",
+      "cnt": "1",
+      "price": "40,000",
+      "sub": {
+        "nm": "- Pedas sedikit",
+        "cnt": "1",
+        "price": "0"
+      }
+    },
+    {
+      "nm": "Sweet Plum Potato*",
+      "cnt": "1",
+      "price": "29,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "69,000"
+  },
+  "total": {
+    "total_price": "69,000",
+    "cashprice": "80,000",
+    "changeprice": "11,000",
+    "menuqty_cnt": "2"
+  }
+}

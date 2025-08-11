@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "GUARDIAN F/TISUE",
+    "num": "3041906",
+    "price": "3,400"
+  },
+  "sub_total": {
+    "subtotal_price": "3,400"
+  },
+  "total": {
+    "total_price": "3,400",
+    "cashprice": "4,000",
+    "changeprice": "600",
+    "menuqty_cnt": "1"
+  }
+}

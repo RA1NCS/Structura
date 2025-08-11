@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Combo 4",
+      "cnt": "1",
+      "price": "51.948"
+    },
+    {
+      "nm": "Crispy Mushroom",
+      "cnt": "1",
+      "price": "45.000"
+    },
+    {
+      "nm": "Equil Natural",
+      "cnt": "1",
+      "price": "30.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "126.948",
+    "service_price": "6.347",
+    "tax_price": "13.330"
+  },
+  "total": {
+    "total_price": "146.625",
+    "changeprice": "0",
+    "creditcardprice": "146.625"
+  }
+}

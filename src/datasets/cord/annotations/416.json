@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "NIKU UDON",
+      "cnt": "1",
+      "price": "49,091"
+    },
+    {
+      "nm": "ABURA UDON (SPICY)",
+      "cnt": "1",
+      "price": "40,909"
+    },
+    {
+      "nm": "INARI",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "KAKIAGE TEMPURA",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "COLD OCHA",
+      "cnt": "1",
+      "price": "10,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "120,909",
+    "tax_price": "12,091"
+  },
+  "total": {
+    "total_price": "133,000",
+    "cashprice": "[133,000]",
+    "changeprice": "0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "OMA NASI KUNING CAKALANG MANI",
+    "unitprice": "30.000",
+    "cnt": "1",
+    "price": "30.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "30.000",
+    "cashprice": "100.000",
+    "changeprice": "70.000"
+  }
+}

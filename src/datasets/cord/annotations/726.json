@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "SAUSAGE DONUT",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "TLJ CROQUETTE",
+      "cnt": "1",
+      "price": "17,000"
+    },
+    {
+      "nm": "CORONET",
+      "cnt": "2",
+      "price": "27,000"
+    },
+    {
+      "nm": "SPOOKY SOBORO",
+      "cnt": "2",
+      "price": "24,000"
+    },
+    {
+      "nm": "SCREAMING RED BEAN",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "PIZZA TOAST",
+      "cnt": "1",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "110,000",
+    "cashprice": [
+      "100,000",
+      "100,000"
+    ],
+    "changeprice": "90,000"
+  }
+}

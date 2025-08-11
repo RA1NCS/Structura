@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "Bakmi Ayam Spc Ng",
+      "cnt": "3",
+      "price": "73.635"
+    },
+    {
+      "nm": "Box Bakmie (M)",
+      "cnt": "3",
+      "price": "0"
+    },
+    {
+      "nm": "Bakmi Ultah",
+      "cnt": "1",
+      "price": "68.182"
+    },
+    {
+      "nm": "Box Yi Fu Mie (L)",
+      "cnt": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "141.817",
+    "tax_price": "14.182"
+  },
+  "total": {
+    "total_price": "155.999",
+    "cashprice": "160.000",
+    "changeprice": "4.001",
+    "menuqty_cnt": "8"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "nm": "HOT OCHA",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "OCHA",
+      "cnt": "3",
+      "price": "30,000"
+    },
+    {
+      "nm": "JYO HARAMI 30%",
+      "cnt": "1",
+      "price": "99,000"
+    },
+    {
+      "nm": "WAKI SALAD",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "MARBLED SIRLOIN STEAK 200gr",
+      "cnt": "2",
+      "price": "378,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "562,000",
+    "service_price": "33,720",
+    "tax_price": "59,572",
+    "etc": [
+      "40,000",
+      "522,000"
+    ]
+  },
+  "total": {
+    "total_price": "655,292"
+  }
+}

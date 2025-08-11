@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "ORI SLMN",
+    "price": "49,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "49,000",
+    "cashprice": "100,000",
+    "changeprice": "51,000"
+  }
+}

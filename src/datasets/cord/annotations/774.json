@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "SANGU TIMBEL KOMPLIT",
+      "cnt": "1",
+      "price": "45.000"
+    },
+    {
+      "nm": "SANGU TUTUG ONCOM",
+      "cnt": "1",
+      "price": "45.000"
+    },
+    {
+      "nm": "TOGE LAUK ASIN",
+      "cnt": "1",
+      "price": "20.000"
+    },
+    {
+      "nm": "TERONG BEJEUG",
+      "cnt": "1",
+      "price": "15.000"
+    },
+    {
+      "nm": "TEH SEREH",
+      "cnt": "1",
+      "price": "25.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "150.000",
+    "service_price": "7.500",
+    "tax_price": "15.000"
+  },
+  "total": {
+    "total_price": "172.500",
+    "creditcardprice": "172.500",
+    "menuqty_cnt": "5"
+  }
+}

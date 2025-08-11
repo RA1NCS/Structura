@@ -1,0 +1,56 @@
+{
+  "menu": [
+    {
+      "nm": "BENTO CHICKEN TERIYAKI",
+      "unitprice": "32,000.00",
+      "cnt": "1.00",
+      "price": "32,000.00"
+    },
+    {
+      "nm": "SURIMI - SATSUMA AGE VEGETABLE",
+      "unitprice": "8,000.00",
+      "cnt": "1.00",
+      "price": "8,000.00"
+    },
+    {
+      "nm": "CALAMARI KATSU",
+      "unitprice": "9,000.00",
+      "cnt": "1.00",
+      "price": "9,000.00"
+    },
+    {
+      "nm": "DORI KATSU",
+      "unitprice": "9,000.00",
+      "cnt": "1.00",
+      "price": "9,000.00"
+    },
+    {
+      "nm": "ROBA - SPICY KAWA SKEWER KULIT",
+      "unitprice": "9,000.00",
+      "cnt": "1.00",
+      "price": "9,000.00"
+    },
+    {
+      "nm": "SENDOK DAN GARPU PLASTIK",
+      "unitprice": "1,000.00",
+      "cnt": "1.00",
+      "price": "1,000.00"
+    },
+    {
+      "nm": "SALAD DRESSING SPICY TOMATOES KEWPIE 25ML",
+      "unitprice": "4,500.00",
+      "cnt": "1.00",
+      "price": "4,500.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "72,500.00",
+    "tax_price": "7,250.00"
+  },
+  "total": {
+    "total_price": "79,750.00",
+    "total_etc": "-250.00",
+    "cashprice": "79,500",
+    "changeprice": "20,500.00"
+  }
+}

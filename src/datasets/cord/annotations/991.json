@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "nm": "K7 1217",
+    "price": "39,091",
+    "sub": {
+      "nm": "ADD CHICKEN BOX",
+      "price": "909"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "40,000",
+    "tax_price": "4,000"
+  },
+  "total": {
+    "total_price": "44,000",
+    "cashprice": "Rp. 50,000",
+    "changeprice": "Rp. 6,000"
+  }
+}

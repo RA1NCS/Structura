@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "Kwetiaw Ayam Jamur",
+      "cnt": "2",
+      "price": "56.364"
+    },
+    {
+      "nm": "1/2 OTAK-OTAK",
+      "cnt": "1",
+      "price": "10.000"
+    },
+    {
+      "nm": "Es Cincau",
+      "cnt": "1",
+      "price": "14.545"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "80.909",
+    "tax_price": "8.091"
+  },
+  "total": {
+    "total_price": "89.000",
+    "menuqty_cnt": "4"
+  }
+}

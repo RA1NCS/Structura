@@ -1,0 +1,45 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi",
+      "cnt": "1",
+      "price": "6,000"
+    },
+    {
+      "nm": "Soup Patin",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "Kerang/Kikil",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "Tahu Woku",
+      "cnt": "1",
+      "price": "4,000"
+    },
+    {
+      "nm": "Tahu Bakso",
+      "cnt": "1",
+      "price": "5,000"
+    },
+    {
+      "nm": "Teh Kotak",
+      "cnt": "1",
+      "price": "5,000"
+    },
+    {
+      "nm": "Mineral Cup",
+      "cnt": "1",
+      "price": "2,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "52,000",
+    "cashprice": "100,000",
+    "changeprice": "48,000"
+  }
+}

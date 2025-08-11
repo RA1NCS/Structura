@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "MILK PASTRY ROLL",
+      "cnt": "3",
+      "price": "27,000"
+    },
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "4",
+      "price": "36,000"
+    },
+    {
+      "nm": "FRANKFRUT SAUSAGE ROLL",
+      "cnt": "2",
+      "price": "24,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "87,000",
+    "creditcardprice": "87,000"
+  }
+}

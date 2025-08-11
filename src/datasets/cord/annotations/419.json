@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "Pork Belly Cheese Fries",
+      "unitprice": "65,000",
+      "cnt": "1",
+      "price": "65,000"
+    },
+    {
+      "nm": "Reflection Sparkling",
+      "unitprice": "20,000",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "Hot Black Cofee",
+      "unitprice": "30,000",
+      "cnt": "1",
+      "price": "30,000"
+    },
+    {
+      "nm": "Nasi Campur ala Bali",
+      "unitprice": "75,000",
+      "cnt": "2",
+      "price": "150,000"
+    },
+    {
+      "nm": "Oriental \"Ketjap\" Pork Rice",
+      "unitprice": "55,000",
+      "cnt": "1",
+      "price": "55,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "320,000",
+    "discount_price": "0",
+    "service_price": "16,000",
+    "tax_price": "33,600"
+  },
+  "total": {
+    "total_price": "369,600"
+  }
+}

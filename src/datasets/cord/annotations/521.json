@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "nm": "NEW BEEF SPAGHETTI",
+      "cnt": "1",
+      "price": "40,000"
+    },
+    {
+      "nm": "NEW BEEF LASAGNA",
+      "cnt": "1",
+      "price": "47,273"
+    },
+    {
+      "nm": "PAKET BER2",
+      "cnt": "1",
+      "price": "69,091",
+      "sub": [
+        {
+          "nm": "BREAD N CHEESE DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "CRABSTICK FUSILLI DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "P/P THUOSAND ISL DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "ORANGE JUICE DELIGHT",
+          "cnt": "1"
+        },
+        {
+          "nm": "LIPTON ICE TEA DEL",
+          "cnt": "1"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "156,364",
+    "tax_price": "15,636"
+  },
+  "total": {
+    "total_price": "172,000"
+  }
+}

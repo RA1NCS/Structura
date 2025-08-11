@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "HZ CHOCO MT (L) TOPPING",
+      "cnt": "1 x",
+      "price": "27,000",
+      "sub": {
+        "nm": "PEARL (L)",
+        "price": "4,000"
+      }
+    },
+    {
+      "nm": "MANGO GT (L)",
+      "cnt": "1 x",
+      "price": "25,000",
+      "sub": {
+        "nm": "PEARL (L)",
+        "price": "4,000"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "60,000"
+  },
+  "total": {
+    "total_price": "60,000",
+    "cashprice": "100,000",
+    "changeprice": "40,000",
+    "menuqty_cnt": "2"
+  }
+}

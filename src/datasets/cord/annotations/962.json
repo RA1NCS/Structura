@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "French Fries",
+      "cnt": "1",
+      "price": "10,909"
+    },
+    {
+      "nm": "Cheese Burger",
+      "cnt": "2",
+      "price": "36,364"
+    },
+    {
+      "nm": "Milo",
+      "cnt": "1",
+      "price": "9.091"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "56,364",
+    "tax_price": "5,636"
+  },
+  "total": {
+    "total_price": "62,000",
+    "cashprice": "100,000",
+    "changeprice": "38,000"
+  }
+}

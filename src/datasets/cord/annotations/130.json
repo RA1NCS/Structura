@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "EGG TART",
+    "cnt": "1",
+    "price": "13,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "13,000",
+    "cashprice": "13,000",
+    "changeprice": "0"
+  }
+}

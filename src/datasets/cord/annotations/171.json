@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "Coffee Rocksalt [R]",
+      "cnt": "1",
+      "price": "28,000",
+      "sub": {
+        "nm": "PEARL",
+        "cnt": "1",
+        "price": "4,000"
+      }
+    },
+    {
+      "nm": "ICED NUTELLA LATTE [R]",
+      "cnt": "1",
+      "price": "30,000",
+      "sub": {
+        "nm": "PEARL",
+        "cnt": "1",
+        "price": "4,000"
+      }
+    },
+    {
+      "nm": "ICED MOCHA LATTE [R]",
+      "cnt": "1",
+      "price": "30,000",
+      "sub": {
+        "nm": "PEARL",
+        "cnt": "1",
+        "price": "4,000"
+      }
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "100,000",
+    "total_etc": "100,000"
+  }
+}

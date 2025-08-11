@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "STRAWBERRY FRESH CREAM CA",
+    "cnt": "1",
+    "price": "190,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "190,000",
+    "creditcardprice": "190,000"
+  }
+}

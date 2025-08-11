@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "DADA DADA",
+      "unitprice": "22.000",
+      "cnt": "1",
+      "price": "22.000"
+    },
+    {
+      "nm": "ateh Tawar ateh Tawar",
+      "unitprice": "2.000",
+      "cnt": "1",
+      "price": "2.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "24.000",
+    "discount_price": "-",
+    "tax_price": "0",
+    "etc": "0"
+  },
+  "total": {
+    "total_price": "24.000",
+    "cashprice": "50.000",
+    "changeprice": "26.000"
+  }
+}

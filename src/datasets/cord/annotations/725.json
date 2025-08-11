@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "CHOCO CUSTARD PASTRY",
+      "cnt": "2",
+      "price": "24,000"
+    },
+    {
+      "nm": "APPLE CREAMCHEESE PASTRY",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "REAL GANACHE",
+      "cnt": "1",
+      "price": "16,500"
+    },
+    {
+      "nm": "POTATO SAUSAGE BREAD",
+      "cnt": "1",
+      "price": "19,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "72,500",
+    "cashprice": "72,500",
+    "changeprice": "0"
+  }
+}

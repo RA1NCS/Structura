@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "PL. MUFFIN BLUEBERRY",
+      "cnt": "1",
+      "price": "14,000"
+    },
+    {
+      "nm": "RB. ABON AYAM",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "RB. COKLAT COFFEE",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "RB. RED BEAN",
+      "cnt": "1",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "39,000"
+  },
+  "total": {
+    "total_price": "39,000",
+    "cashprice": "39,000",
+    "menutype_cnt": "4",
+    "menuqty_cnt": "4"
+  }
+}

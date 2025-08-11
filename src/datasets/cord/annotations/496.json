@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "BBQ Chicken",
+      "cnt": "1",
+      "price": "41,000",
+      "sub": {
+        "nm": "- Pedas",
+        "cnt": "1",
+        "price": "0"
+      }
+    },
+    {
+      "nm": "Mineral Water 600 ml",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "Teh Pucuk 350 ml",
+      "cnt": "1",
+      "price": "7,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "56,000"
+  },
+  "total": {
+    "total_price": "56,000",
+    "cashprice": "60,000",
+    "changeprice": "4,000",
+    "menuqty_cnt": "3"
+  }
+}

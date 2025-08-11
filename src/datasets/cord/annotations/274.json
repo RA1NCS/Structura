@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "NASI UDUK SATE BUNTEL",
+      "unitprice": "55,000",
+      "cnt": "1 X",
+      "price": "55,000"
+    },
+    {
+      "nm": "NASI BALI (EMPAL)",
+      "unitprice": "62,000",
+      "cnt": "1 X",
+      "price": "62,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "117,000",
+    "tax_price": "11,700"
+  },
+  "total": {
+    "total_price": "128,700",
+    "menuqty_cnt": "2"
+  }
+}

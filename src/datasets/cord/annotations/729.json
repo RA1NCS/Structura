@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Mineral Water",
+    "cnt": "1",
+    "price": "6,364"
+  },
+  "sub_total": {
+    "subtotal_price": "6,364",
+    "tax_price": "636"
+  },
+  "total": {
+    "total_price": "7,000",
+    "cashprice": "7,000",
+    "menuqty_cnt": "1"
+  }
+}

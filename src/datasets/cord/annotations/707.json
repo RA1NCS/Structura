@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "CHEESE ROLLS 6PCS",
+      "cnt": "1",
+      "price": "30,000"
+    },
+    {
+      "nm": "PAKET BER2 UP1",
+      "cnt": "1",
+      "price": "74,545",
+      "sub": [
+        {
+          "nm": "TUNA DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "MAC N CHEESE DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "LEMON TEA HANGAT DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "BLACKCURRANT DEL",
+          "cnt": "1"
+        },
+        {
+          "nm": "SC/P BEEF MAYO DEL",
+          "cnt": "1"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "104,545",
+    "tax_price": "10,455"
+  },
+  "total": {
+    "total_price": "115,000"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "Ayam Asam Manis M",
+      "cnt": "1",
+      "price": "94,000"
+    },
+    {
+      "nm": "Ikan Gurame Tahu M",
+      "cnt": "1",
+      "price": "108,000"
+    },
+    {
+      "nm": "Pocai 3 Telor M",
+      "cnt": "1",
+      "price": "112,000"
+    },
+    {
+      "nm": "Sapo Tohu Sea M",
+      "cnt": "1",
+      "price": "112,000"
+    },
+    {
+      "nm": "Udang Gandum L",
+      "cnt": "1",
+      "price": "212,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "638,000",
+    "discount_price": "600,000)",
+    "service_price": "38,280",
+    "tax_price": "67,628"
+  },
+  "total": {
+    "total_price": "143,908",
+    "creditcardprice": "143,908"
+  }
+}

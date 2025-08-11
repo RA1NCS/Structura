@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "Enting2 Dua Bandeng Ori",
+      "num": "01069",
+      "unitprice": "31.000",
+      "cnt": "1",
+      "price": "31.000"
+    },
+    {
+      "nm": "TAHU BAKSO Grg Ayam VC [biji",
+      "num": "07165",
+      "unitprice": "6.800",
+      "cnt": "10",
+      "price": "68.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "99.000",
+    "creditcardprice": "99.000",
+    "menutype_cnt": "2",
+    "menuqty_cnt": "11"
+  }
+}

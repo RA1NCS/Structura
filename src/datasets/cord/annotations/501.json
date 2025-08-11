@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "CHICKEN PICATTA",
+      "unitprice": "46,363",
+      "cnt": "1",
+      "price": "46,363"
+    },
+    {
+      "nm": "JAVA TEA",
+      "unitprice": "11,363",
+      "cnt": "1",
+      "price": "11,363"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "57,726",
+    "tax_price": "5,772"
+  },
+  "total": {
+    "total_price": "63,498",
+    "menuqty_cnt": "2"
+  }
+}

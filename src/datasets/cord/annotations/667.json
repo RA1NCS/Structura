@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "KAKE UDON",
+      "cnt": "1",
+      "price": "30,909"
+    },
+    {
+      "nm": "KITSUNE UDON (KIDS)",
+      "cnt": "1",
+      "price": "28,182"
+    },
+    {
+      "nm": "COLD OCHA",
+      "cnt": "1",
+      "price": "10,909"
+    },
+    {
+      "nm": "SKEWERED TOFU ROLL",
+      "cnt": "1",
+      "price": "12,727"
+    },
+    {
+      "nm": "EBI TEMPURA",
+      "cnt": "1",
+      "price": "13,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "96,363",
+    "tax_price": "9,636"
+  },
+  "total": {
+    "total_price": "105,999",
+    "cashprice": "[105,999]",
+    "changeprice": "0"
+  }
+}

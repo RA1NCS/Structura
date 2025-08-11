@@ -1,0 +1,23 @@
+{
+  "menu": {
+    "nm": "Viet Latte",
+    "cnt": "1",
+    "price": "19.000",
+    "sub": [
+      {
+        "nm": "+S"
+      },
+      {
+        "nm": "+Ice"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "19.000"
+  },
+  "total": {
+    "total_price": "19.000",
+    "cashprice": "50.000",
+    "changeprice": "31.000"
+  }
+}

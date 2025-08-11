@@ -1,0 +1,30 @@
+{
+  "menu": {
+    "nm": "Pepper Steak",
+    "cnt": "1",
+    "price": "122,727",
+    "sub": [
+      {
+        "nm": "Milo",
+        "cnt": "1",
+        "price": "0"
+      },
+      {
+        "nm": "- Cheese",
+        "cnt": "1",
+        "price": "5,454"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "128,181",
+    "tax_price": "12,818"
+  },
+  "total": {
+    "total_price": "140,999",
+    "total_etc": "100,000",
+    "cashprice": "50,000",
+    "changeprice": "9,001",
+    "menuqty_cnt": "ITEMS: 2"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "nm": "Ayam Goreng Crispy Spicy",
+      "unitprice": "48,000",
+      "cnt": "1x",
+      "price": "48,000"
+    },
+    {
+      "nm": "Capcai Seafood",
+      "unitprice": "49,000",
+      "cnt": "1x",
+      "price": "49,000"
+    },
+    {
+      "nm": "Chinese Tea",
+      "unitprice": "20,000",
+      "cnt": "1x",
+      "price": "20,000",
+      "sub": {
+        "nm": "* 3 Cup"
+      }
+    },
+    {
+      "nm": "Nasi Putih",
+      "unitprice": "10,000",
+      "cnt": "3x",
+      "price": "30,000"
+    },
+    {
+      "nm": "Soup Baso Ikan",
+      "unitprice": "35,000",
+      "cnt": "1x",
+      "price": "35,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "182,000",
+    "service_price": "9,100",
+    "tax_price": "19,110",
+    "etc": "-10"
+  },
+  "total": {
+    "total_price": "210,200"
+  }
+}

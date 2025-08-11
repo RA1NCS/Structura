@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Banana Cho + NuTea",
+    "cnt": "1",
+    "price": "20,000"
+  },
+  "sub_total": {
+    "subtotal_price": "20,000",
+    "tax_price": "2,000"
+  },
+  "total": {
+    "total_price": "22,000",
+    "cashprice": "22.000"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Nu Greentea 330",
+    "unitprice": "6.000",
+    "cnt": "1x",
+    "price": "6.000"
+  },
+  "sub_total": {
+    "subtotal_price": "6.000",
+    "tax_price": "-"
+  },
+  "total": {
+    "total_price": "6.000",
+    "cashprice": "6.000"
+  }
+}

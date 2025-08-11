@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "Toripaitan shoyu telur",
+      "price": "71,500"
+    },
+    {
+      "nm": "Toripaitan Ekstrim telur",
+      "price": "79,200"
+    },
+    {
+      "nm": "Green Tea cold",
+      "price": "12,100"
+    },
+    {
+      "nm": "(Goreng)Ayam Gyoza",
+      "price": "34,100"
+    },
+    {
+      "nm": "Mineral water(normal)",
+      "price": "8,800"
+    }
+  ],
+  "sub_total": {
+    "service_price": "10,285",
+    "tax_price": "19,635"
+  },
+  "total": {
+    "total_price": "215,985"
+  }
+}

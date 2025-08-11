@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "nm": "SHARKIE FREEZE",
+      "cnt": "1",
+      "price": "49,000"
+    },
+    {
+      "nm": "DINE FOR 2",
+      "cnt": "1",
+      "price": "129,000",
+      "sub": [
+        {
+          "nm": "* BALI FISH & CHIPS DFT"
+        },
+        {
+          "nm": "* JAPANESE FISH & CHIPS"
+        }
+      ]
+    },
+    {
+      "nm": "DINE FOR 2",
+      "cnt": "1",
+      "price": "129,000",
+      "sub": [
+        {
+          "nm": "* DANISH FISH & CHIPS DF"
+        },
+        {
+          "nm": "* NEW YORK FISH & CHIPS"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "307,000",
+    "service_price": "24,560",
+    "tax_price": "33,156",
+    "etc": [
+      "49,000",
+      "258,000"
+    ]
+  },
+  "total": {
+    "total_price": "364,716",
+    "creditcardprice": "364,716"
+  }
+}

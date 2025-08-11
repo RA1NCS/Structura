@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "Pillow Kombi",
+    "cnt": "1",
+    "price": "19,500"
+  },
+  "sub_total": {
+    "subtotal_price": "19,500"
+  },
+  "total": {
+    "total_price": "19,500",
+    "cashprice": "20,000",
+    "changeprice": "500",
+    "menutype_cnt": "1",
+    "menuqty_cnt": "1"
+  }
+}

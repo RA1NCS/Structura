@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "MEDIUM FRIES",
+      "price": "14,545"
+    },
+    {
+      "nm": "REGULAR COKE",
+      "price": "7,273"
+    },
+    {
+      "nm": "K11 CHOCO 1217",
+      "price": "5,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "26,818",
+    "tax_price": "2,682"
+  },
+  "total": {
+    "total_price": "29,500",
+    "cashprice": "Rp. 29,500"
+  }
+}

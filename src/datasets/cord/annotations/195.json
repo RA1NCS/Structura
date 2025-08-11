@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "CRISPY APPLE RAISIN PASTR",
+      "cnt": "1",
+      "price": "11,500"
+    },
+    {
+      "nm": "PAIN AU CHOCOLATE",
+      "cnt": "1",
+      "price": "11,000"
+    },
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "1",
+      "price": "9,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "31,500",
+    "cashprice": "52,000",
+    "changeprice": "20,500"
+  }
+}

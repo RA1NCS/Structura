@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Choco Peanut",
+    "cnt": "1",
+    "price": "10,455"
+  },
+  "sub_total": {
+    "subtotal_price": "10,455",
+    "tax_price": "1,046"
+  },
+  "total": {
+    "total_price": "11,500",
+    "cashprice": "50,000",
+    "changeprice": "38,500"
+  }
+}

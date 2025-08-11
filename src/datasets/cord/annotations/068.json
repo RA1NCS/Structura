@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "Berry Many-Low (P)",
+      "cnt": "1",
+      "price": "37,500.00"
+    },
+    {
+      "nm": "500 days of summer (P)",
+      "cnt": "1",
+      "price": "37,500.00"
+    },
+    {
+      "nm": "sun kissed (P)",
+      "cnt": "1",
+      "price": "37,500.00"
+    },
+    {
+      "nm": "PLASTIC BAG",
+      "cnt": "1",
+      "price": "500.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "113,000.00",
+    "discount_price": "0.00"
+  },
+  "total": {
+    "total_price": "113,000.00",
+    "changeprice": "0.00",
+    "creditcardprice": "113,000.00",
+    "menuqty_cnt": "4"
+  }
+}

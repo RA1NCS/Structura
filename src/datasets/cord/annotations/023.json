@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "nm": "S-Lemon Macchiato",
+    "unitprice": "@21,000",
+    "cnt": "1X",
+    "price": "21,000",
+    "sub": [
+      {
+        "nm": "Less Ice"
+      },
+      {
+        "nm": "50%"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "21,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "21,000",
+    "cashprice": "21,000",
+    "changeprice": "0"
+  }
+}

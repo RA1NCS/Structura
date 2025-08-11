@@ -1,0 +1,45 @@
+{
+  "menu": [
+    {
+      "nm": "RedVelvet Cheese Slc",
+      "cnt": "1",
+      "price": "38,000"
+    },
+    {
+      "nm": "Chicken Baked Rice",
+      "cnt": "1",
+      "price": "55,000"
+    },
+    {
+      "nm": "Fish n Chips",
+      "cnt": "1",
+      "price": "65,000"
+    },
+    {
+      "nm": "Mushroom Soup",
+      "cnt": "1",
+      "price": "35,000"
+    },
+    {
+      "nm": "Chamomile",
+      "cnt": "1",
+      "price": "25,000"
+    },
+    {
+      "nm": "Iced Tea",
+      "cnt": "1",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "238,000",
+    "service_price": "17,850",
+    "tax_price": "25,585"
+  },
+  "total": {
+    "total_price": "281,435",
+    "total_etc": "100,000",
+    "cashprice": "200,000",
+    "changeprice": "18,565"
+  }
+}

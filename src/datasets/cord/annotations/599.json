@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "Full Box",
+      "cnt": "1",
+      "price": "31,818"
+    },
+    {
+      "nm": "SB 1 HC",
+      "cnt": "1",
+      "price": "27,727"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "59,545",
+    "tax_price": "5,955"
+  },
+  "total": {
+    "total_price": "65,500",
+    "cashprice": "65,500"
+  }
+}

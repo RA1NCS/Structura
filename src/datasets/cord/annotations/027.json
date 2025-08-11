@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "MEGA",
+    "price": "Rp 30,000",
+    "sub": [
+      {
+        "nm": "CUP MEGA"
+      },
+      {
+        "nm": "BBQ"
+      }
+    ]
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "Rp 30,000",
+    "cashprice": "100,000",
+    "changeprice": "Rp 70,000"
+  }
+}

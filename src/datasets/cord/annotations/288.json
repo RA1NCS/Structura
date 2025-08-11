@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": [
+      "-",
+      "Gyro Platter Large"
+    ],
+    "price": "72,727"
+  },
+  "sub_total": {
+    "subtotal_price": "72,727",
+    "tax_price": "7,273"
+  },
+  "total": {
+    "total_price": "80,000",
+    "emoneyprice": "80,000"
+  }
+}

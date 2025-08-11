@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "YANG YUM GUI",
+      "cnt": "1",
+      "price": "97,000"
+    },
+    {
+      "nm": "GALBI TANG",
+      "cnt": "1",
+      "price": "92,000"
+    },
+    {
+      "nm": "NASI(GONGGI BAB)",
+      "cnt": "1",
+      "price": "15,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "204,000",
+    "discount_price": "0",
+    "service_price": "14,280",
+    "tax_price": "20,885"
+  },
+  "total": {
+    "total_price": "239,165",
+    "changeprice": "0",
+    "creditcardprice": "239,165"
+  }
+}

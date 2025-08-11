@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "nm": "Passionfruit Mojito",
+    "cnt": "1",
+    "price": "14.000",
+    "sub": {
+      "nm": "+S +Ice"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "14.000"
+  },
+  "total": {
+    "total_price": "14.000",
+    "cashprice": "50.000",
+    "changeprice": "36.000"
+  }
+}

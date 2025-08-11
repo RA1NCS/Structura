@@ -1,0 +1,56 @@
+{
+  "menu": [
+    {
+      "nm": "PILLOW COKLAT",
+      "unitprice": "@36364",
+      "cnt": "1X",
+      "price": "36,364"
+    },
+    {
+      "nm": "PILLOW DURIAN",
+      "unitprice": "@36364",
+      "cnt": "1X",
+      "price": "36,364"
+    },
+    {
+      "nm": "AYAM",
+      "unitprice": "@10000",
+      "cnt": "2X",
+      "price": "20,000"
+    },
+    {
+      "nm": "BANANA SPLIT",
+      "unitprice": "@9545",
+      "cnt": "3X",
+      "price": "28,635"
+    },
+    {
+      "nm": "DONATCOKLAT",
+      "unitprice": "@10000",
+      "cnt": "4X",
+      "price": "40,000"
+    },
+    {
+      "nm": "AYAM",
+      "unitprice": "@10000",
+      "cnt": "1X",
+      "price": "10,000"
+    },
+    {
+      "nm": "PLASTIK TENTENG KECIL",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "171,363",
+    "tax_price": "17,136",
+    "etc": "188,499"
+  },
+  "total": {
+    "total_price": "188,499",
+    "cashprice": "188,499",
+    "menuqty_cnt": "13.00xITEMs"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "Soto Daging",
+      "cnt": "1",
+      "price": "36.364"
+    },
+    {
+      "nm": "Nasi Putih",
+      "cnt": "1",
+      "price": "6.363"
+    },
+    {
+      "nm": "Teh Tawar Hangat",
+      "cnt": "1",
+      "price": "3.636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "46.363",
+    "tax_price": "4.636",
+    "etc": "1"
+  },
+  "total": {
+    "total_price": "51.000"
+  }
+}

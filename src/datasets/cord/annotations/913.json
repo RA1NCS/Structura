@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "MINERAL 600 ML",
+      "cnt": "1",
+      "price": "7,727"
+    },
+    {
+      "nm": "BULGOGI RICE R",
+      "cnt": "1",
+      "price": "33,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "41,364",
+    "tax_price": "4,136"
+  },
+  "total": {
+    "total_price": "45,500",
+    "cashprice": "50,000",
+    "changeprice": "-4,500"
+  }
+}

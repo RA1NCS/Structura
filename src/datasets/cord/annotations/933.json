@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "GRAINS PAN BREAD",
+      "cnt": "1",
+      "price": "20,500"
+    },
+    {
+      "nm": "ICED HIBISCUS LYCHEE TEA",
+      "cnt": "1",
+      "price": "37,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "57,500",
+    "total_etc": "50,000",
+    "cashprice": "7,500",
+    "changeprice": "0"
+  }
+}

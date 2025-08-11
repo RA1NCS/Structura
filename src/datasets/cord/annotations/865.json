@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Bubur Polos + Telur",
+    "unitprice": "13.000",
+    "cnt": "1",
+    "price": "13.000"
+  },
+  "sub_total": {
+    "subtotal_price": "13.000",
+    "tax_price": "-"
+  },
+  "total": {
+    "total_price": "13.000"
+  }
+}

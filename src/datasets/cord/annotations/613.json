@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "nm": "Crispy Egg Corn",
+      "cnt": "1",
+      "price": "42,000"
+    },
+    {
+      "nm": "Mun Tofu",
+      "cnt": "1",
+      "price": "62,000"
+    },
+    {
+      "nm": "Go Hiong",
+      "cnt": "1",
+      "price": "65,000"
+    },
+    {
+      "nm": "Steam Rice",
+      "unitprice": "12,000",
+      "cnt": "3",
+      "price": "36,000"
+    },
+    {
+      "nm": "Ice Lemon Tea",
+      "unitprice": "18,000",
+      "cnt": "2",
+      "price": "36,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "241,000",
+    "service_price": "18,075",
+    "tax_price": "25,908"
+  },
+  "total": {
+    "total_price": "284,983",
+    "changeprice": "0",
+    "creditcardprice": "284,983"
+  }
+}

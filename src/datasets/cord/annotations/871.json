@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "Cuka Apel Tetes",
+    "unitprice": "198000",
+    "cnt": "1",
+    "price": "198000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "198000",
+    "cashprice": "200200",
+    "changeprice": "22000"
+  }
+}

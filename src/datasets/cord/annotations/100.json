@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "SAM DA SOO MINERAL WATER",
+    "cnt": "2",
+    "price": "32,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "32,000",
+    "cashprice": "42,000",
+    "changeprice": "10,000"
+  }
+}

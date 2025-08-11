@@ -1,0 +1,41 @@
+{
+  "menu": [
+    {
+      "nm": "KOPI SUSU",
+      "cnt": "1",
+      "price": "17.500",
+      "sub": {
+        "nm": "+DINGIN"
+      }
+    },
+    {
+      "nm": "KOPI SUSU",
+      "cnt": "1",
+      "price": "17.500",
+      "sub": {
+        "nm": "+DINGIN"
+      }
+    },
+    {
+      "nm": "NASI GORENG",
+      "cnt": "1",
+      "price": "22.500",
+      "sub": {
+        "nm": "+SPESIAL"
+      }
+    },
+    {
+      "nm": "BAKPIA KACANG H",
+      "cnt": "1",
+      "price": "4.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "61.500"
+  },
+  "total": {
+    "total_price": "61.500",
+    "cashprice": "70.000",
+    "changeprice": "8.500"
+  }
+}

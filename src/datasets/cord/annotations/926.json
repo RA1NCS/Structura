@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "NASI MERAH/PUTIH",
+      "unitprice": "5.000",
+      "cnt": "1x",
+      "price": "5.000"
+    },
+    {
+      "nm": "SAYUR",
+      "unitprice": "4.000",
+      "cnt": "2x",
+      "price": "8.000"
+    },
+    {
+      "nm": "KERUPUK/SAMBEL",
+      "unitprice": "2.000",
+      "cnt": "1x",
+      "price": "2.000"
+    },
+    {
+      "nm": "AYAM",
+      "unitprice": "14.000",
+      "cnt": "1x",
+      "price": "14.000"
+    },
+    {
+      "nm": "MINUMAN KEMASAN/REFILL",
+      "unitprice": "6.000",
+      "cnt": "1x",
+      "price": "6.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "Rp. 35.000"
+  }
+}

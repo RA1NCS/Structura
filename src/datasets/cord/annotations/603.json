@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "nm": "TEH PANAS",
+      "cnt": "1",
+      "price": "5,455"
+    },
+    {
+      "nm": "ES TEH TAWAR",
+      "cnt": "1",
+      "price": "6,364"
+    },
+    {
+      "nm": "NASI CAH JAMUR",
+      "cnt": "1",
+      "price": "32,728"
+    },
+    {
+      "nm": "BIHUN GORENG AYAM",
+      "cnt": "1",
+      "price": "29,091"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": [
+      "73,638",
+      "81,002"
+    ],
+    "tax_price": "7,364",
+    "etc": "-2"
+  },
+  "total": {
+    "total_price": "81,000",
+    "creditcardprice": "81,000",
+    "menuqty_cnt": ":4"
+  }
+}

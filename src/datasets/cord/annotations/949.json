@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi CampurBali",
+      "unitprice": "52.000",
+      "cnt": "1x",
+      "price": "52.000"
+    },
+    {
+      "nm": "Lemon",
+      "unitprice": "22.000",
+      "cnt": "1x",
+      "price": "22.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "74.000",
+    "tax_price": "7.400"
+  },
+  "total": {
+    "cashprice": "81.400"
+  }
+}

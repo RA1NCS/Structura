@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "SAMGYOPSAL",
+      "cnt": "2",
+      "price": "194,000"
+    },
+    {
+      "nm": "SUL LUNG TANG",
+      "cnt": "1",
+      "price": "75,000"
+    },
+    {
+      "nm": "MAKOLI",
+      "cnt": "1",
+      "price": "100,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "369,000",
+    "discount_price": "0",
+    "service_price": "18,450",
+    "tax_price": "38,745"
+  },
+  "total": {
+    "total_price": "426,195"
+  }
+}

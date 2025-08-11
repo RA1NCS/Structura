@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "BAGUETTE",
+    "cnt": "1",
+    "price": "18,500"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "18,500",
+    "cashprice": "50,000",
+    "changeprice": "31,500"
+  }
+}

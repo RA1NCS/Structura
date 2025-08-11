@@ -1,0 +1,45 @@
+{
+  "menu": [
+    {
+      "nm": "CF NASI PUTIH",
+      "unitprice": "5,000",
+      "cnt": "1X",
+      "discountprice": "250 -",
+      "price": "5,000"
+    },
+    {
+      "nm": "CF NASI PUTIH",
+      "unitprice": "5,000",
+      "cnt": "1X",
+      "discountprice": "250-",
+      "price": "5,000"
+    },
+    {
+      "nm": "CF BBQ CHKN WING",
+      "unitprice": "15,000",
+      "cnt": "1X",
+      "price": "15,000"
+    },
+    {
+      "nm": "FILLET DORI",
+      "unitprice": "73,500",
+      "cnt": "0.354X",
+      "discountprice": "1,301 -",
+      "price": "26,019"
+    },
+    {
+      "nm": "KERUPUK KERING",
+      "unitprice": "11,900",
+      "cnt": "1X",
+      "discountprice": "595-",
+      "price": "11,900"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "60,523"
+  },
+  "total": {
+    "total_price": "60,523",
+    "creditcardprice": "60,523"
+  }
+}

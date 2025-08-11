@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "CAPPUCCINO",
+      "price": "28,000"
+    },
+    {
+      "nm": "ORANGE JUICE",
+      "unitprice": "24,000",
+      "cnt": "2X",
+      "price": "48,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "76,000",
+    "cashprice": "100,000",
+    "changeprice": "24,000"
+  }
+}

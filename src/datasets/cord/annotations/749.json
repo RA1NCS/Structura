@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "WAXING UNDER ARM",
+    "unitprice": "100,000",
+    "cnt": "1 x",
+    "discountprice": "0.00",
+    "price": "100,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "100,000",
+    "cashprice": "100,000"
+  }
+}

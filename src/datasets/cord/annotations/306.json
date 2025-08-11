@@ -1,0 +1,24 @@
+{
+  "menu": {
+    "nm": "PAKET DOSIRAK 1",
+    "unitprice": "25,975",
+    "cnt": "1",
+    "price": "25,975",
+    "sub": [
+      {
+        "nm": "PAKET DOSIRAK 1"
+      },
+      {
+        "nm": "ICE SWEET JASMINE GREENTEA"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "25,975",
+    "service_price": "1,298",
+    "tax_price": "2,727"
+  },
+  "total": {
+    "total_price": "30,000"
+  }
+}

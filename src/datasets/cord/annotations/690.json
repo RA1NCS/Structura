@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "nm": "Giant Squid",
+      "cnt": "x1",
+      "price": "Rp. 39.000",
+      "sub": [
+        {
+          "nm": "A.Flavour - BBQ",
+          "price": "Rp. 0"
+        },
+        {
+          "nm": "B.Spicy Level - Hottie",
+          "price": "Rp. 0"
+        },
+        {
+          "nm": "C.Finishing - Cut",
+          "price": "Rp. 0"
+        }
+      ]
+    },
+    {
+      "nm": "Milo Dino",
+      "cnt": "x1",
+      "price": "Rp. 18.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "Rp. 57.000"
+  },
+  "total": {
+    "total_price": "Rp. 57.000",
+    "cashprice": "Rp. 100.000",
+    "changeprice": "Rp. 43.000"
+  }
+}

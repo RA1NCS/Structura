@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "S-Matcha Macchiato",
+      "unitprice": "@25,000",
+      "cnt": "2X",
+      "price": "50,000",
+      "sub": {
+        "nm": "100%, Less Ice"
+      }
+    },
+    {
+      "nm": "S-Ovaltine Macchiat",
+      "unitprice": "@22,000",
+      "cnt": "2X",
+      "price": "44,000",
+      "sub": [
+        {
+          "nm": "Less Ice"
+        },
+        {
+          "nm": "100%"
+        }
+      ]
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "94,000",
+    "cashprice": "100,000",
+    "changeprice": "6,000"
+  }
+}

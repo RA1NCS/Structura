@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "CHEESE JOHN",
+    "num": "2005-",
+    "unitprice": "9.500,00",
+    "cnt": "x1",
+    "price": "9.500,00"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "9.500,00",
+    "cashprice": "10.000,00",
+    "changeprice": "500,00",
+    "menuqty_cnt": "1"
+  }
+}

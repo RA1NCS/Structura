@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "BIHUN CAMPUR",
+      "unitprice": "43,181",
+      "cnt": "1",
+      "price": "43,181"
+    },
+    {
+      "nm": "JERUK MURNI",
+      "unitprice": "20,000",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "ES NONA REGULAR",
+      "unitprice": "13,000",
+      "cnt": "1",
+      "price": "13,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "76,181",
+    "tax_price": "7,618"
+  },
+  "total": {
+    "total_price": "83,799",
+    "cashprice": "100,000",
+    "changeprice": "16,201"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Nasi Goreng",
+      "cnt": "1",
+      "price": "29.091"
+    },
+    {
+      "nm": "Nasi Goreng Ayam",
+      "cnt": "1",
+      "price": "23,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "52.727",
+    "tax_price": "5.273"
+  },
+  "total": {
+    "total_price": "58.000",
+    "creditcardprice": "58.000",
+    "menuqty_cnt": "2"
+  }
+}

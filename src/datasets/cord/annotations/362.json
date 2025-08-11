@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "GONG GIBAB",
+      "cnt": "1",
+      "price": "20,000"
+    },
+    {
+      "nm": "BO SSAM",
+      "cnt": "1",
+      "price": "320,000"
+    },
+    {
+      "nm": "HAEMUL DENJANG JJIGAE",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "MULNAENGMYON",
+      "cnt": "1",
+      "price": "85,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "510,000",
+    "discount_price": "0",
+    "service_price": "35,700",
+    "tax_price": "54,255"
+  },
+  "total": {
+    "total_price": "599,955",
+    "changeprice": "0",
+    "creditcardprice": "599,955"
+  }
+}

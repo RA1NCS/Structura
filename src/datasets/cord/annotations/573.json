@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "BASO KUAH",
+    "unitprice": "41,363",
+    "cnt": "1",
+    "price": "41,363"
+  },
+  "sub_total": {
+    "subtotal_price": "41,363",
+    "tax_price": "4,136"
+  },
+  "total": {
+    "total_price": "45,499",
+    "cashprice": "50,000",
+    "changeprice": "4.501"
+  }
+}

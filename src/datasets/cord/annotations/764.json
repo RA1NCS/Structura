@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "nm": "CB PR SIRLOIN",
+      "unitprice": "162000",
+      "cnt": "1",
+      "price": "162,000",
+      "sub": [
+        {
+          "nm": "F.FRIES MEDIUM",
+          "unitprice": "0",
+          "cnt": "2",
+          "price": "0"
+        },
+        {
+          "nm": "F.FRIES COMBO",
+          "unitprice": "0",
+          "cnt": "1",
+          "price": "0"
+        },
+        {
+          "nm": "BROWN SAUCE",
+          "unitprice": "0",
+          "cnt": "2",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "nm": "ES TEH TAWAR",
+      "unitprice": "8000",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "COCA COLA",
+      "unitprice": "13000",
+      "cnt": "1",
+      "price": "13,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "183,000",
+    "service_price": "9,150",
+    "tax_price": "19,215"
+  },
+  "total": {
+    "total_price": "211,365",
+    "cashprice": "220,000",
+    "changeprice": "8,635"
+  }
+}

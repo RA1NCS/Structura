@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "EGG TART",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "CHOCO CUS ARD PASTRY",
+      "cnt": "2",
+      "price": "24,000"
+    },
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "1",
+      "price": "9,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "46,000",
+    "cashprice": "50,000",
+    "changeprice": "4,000"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "nm": "Mineral Water",
+      "cnt": "1",
+      "price": "9.000"
+    },
+    {
+      "nm": "Nasi Goreng Buntut",
+      "cnt": "1",
+      "price": "69.500"
+    },
+    {
+      "nm": "NASI LIWET",
+      "cnt": "1",
+      "price": "49.000"
+    },
+    {
+      "nm": "Ayam Penyet Sambal Glede",
+      "cnt": "1",
+      "price": "44.000"
+    },
+    {
+      "nm": "Mendoan",
+      "cnt": "1",
+      "price": "31.000"
+    },
+    {
+      "nm": "Teh Tawar Panas",
+      "cnt": "2",
+      "price": "22.000"
+    },
+    {
+      "nm": "Teh Tubruk Jahe",
+      "cnt": "1",
+      "price": "24.500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "249.000",
+    "service_price": "12.450",
+    "tax_price": "26.145"
+  },
+  "total": {
+    "total_price": "287.595",
+    "menutype_cnt": "8"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "KUPAT TAHU",
+      "num": "0512100",
+      "unitprice": "19,000",
+      "cnt": "2",
+      "price": "38,000"
+    },
+    {
+      "nm": "MIE KOCOK",
+      "num": "0515103",
+      "unitprice": "29,000",
+      "cnt": "3",
+      "price": "87,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "125,000",
+    "tax_price": "12,500"
+  },
+  "total": {
+    "total_price": "137,500",
+    "cashprice": "150,000",
+    "changeprice": "12,500"
+  }
+}

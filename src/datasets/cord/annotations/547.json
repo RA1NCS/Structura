@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "nm": "SAUSAGE DONUT",
+      "cnt": "1",
+      "price": "14,000"
+    },
+    {
+      "nm": "PREMIUM TOAST PAN BREAD",
+      "cnt": "1",
+      "price": "25,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "39,000",
+    "emoneyprice": "39,000"
+  }
+}

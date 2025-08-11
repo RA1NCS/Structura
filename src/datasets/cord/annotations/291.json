@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "TRIPPLE CHEESF",
+    "unitprice": "17,000",
+    "cnt": "1",
+    "price": "17,000"
+  },
+  "sub_total": {
+    "subtotal_price": "17,000"
+  },
+  "total": {
+    "total_price": "17,000",
+    "cashprice": "20,000",
+    "changeprice": "3,000"
+  }
+}

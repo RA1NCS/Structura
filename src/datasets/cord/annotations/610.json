@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "REGULAR JASMINE TEA",
+      "price": "7,273"
+    },
+    {
+      "nm": "Kupon 7",
+      "price": "42,727"
+    },
+    {
+      "nm": "Kupon 4",
+      "price": "22,727"
+    },
+    {
+      "nm": "BOGO CHEESY RASHER",
+      "price": "13,636"
+    },
+    {
+      "nm": "MS SWISS ML MED",
+      "price": "36,818"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "123,181",
+    "tax_price": "12,318",
+    "etc": "1"
+  },
+  "total": {
+    "total_price": "135,500",
+    "creditcardprice": "135,500"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "Se'I Sapi Sambal Matah ( R )",
+      "cnt": "1",
+      "price": "20.000"
+    },
+    {
+      "nm": "Se'I Sapi Lada Hitam (J)",
+      "cnt": "1",
+      "price": "35.000"
+    },
+    {
+      "nm": "Nasi Putih",
+      "cnt": "2",
+      "price": "10.000"
+    },
+    {
+      "nm": "Milk Shake Coklat",
+      "cnt": "1",
+      "price": "16.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "81.000",
+    "tax_price": "8.100"
+  },
+  "total": {
+    "total_price": "89.100",
+    "changeprice": "0",
+    "creditcardprice": "89.100"
+  }
+}

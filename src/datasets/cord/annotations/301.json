@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "1009-Roti Kelapa",
+      "unitprice": "8.000,00",
+      "cnt": "x2",
+      "price": "16.000,00"
+    },
+    {
+      "nm": "1245-Plastik Tentengan Kecil",
+      "unitprice": "0,00",
+      "cnt": "x1",
+      "price": "0,00"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "16.000,00",
+    "cashprice": "50.000,00",
+    "changeprice": "34.000,00",
+    "menuqty_cnt": "3"
+  }
+}

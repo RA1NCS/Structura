@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "Coke (L)",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Extra Jelly Lychee",
+      "cnt": "1",
+      "price": "5.000"
+    },
+    {
+      "nm": "Popcorn Salt (M)",
+      "cnt": "1",
+      "price": "40.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "70.000",
+    "cashprice": "70.000",
+    "changeprice": "0"
+  }
+}

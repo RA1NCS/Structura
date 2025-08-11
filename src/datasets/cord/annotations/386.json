@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "nm": "HOT OCHA",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "OCHA",
+      "cnt": "3",
+      "price": "30,000"
+    },
+    {
+      "nm": "WAKI PLATTER FOR 4-5",
+      "cnt": "1",
+      "price": "389,000"
+    },
+    {
+      "nm": "CHAPJEA",
+      "cnt": "1",
+      "price": "95,000"
+    },
+    {
+      "nm": "KALBI PLATTER 2-3",
+      "cnt": "1",
+      "price": "315,000"
+    },
+    {
+      "nm": "MARBLED SIRLOIN STEAK 200gr",
+      "cnt": "1",
+      "price": "189,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "1,028,000",
+    "service_price": "61,680",
+    "tax_price": "108,968",
+    "etc": [
+      "40,000",
+      "988,000"
+    ]
+  },
+  "total": {
+    "total_price": "1,198,648"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "Bumbu Kaldu Ayam 1",
+    "unitprice": "36000",
+    "price": "36000"
+  },
+  "sub_total": {
+    "subtotal_price": "36000"
+  },
+  "total": {
+    "cashprice": "50000",
+    "changeprice": "14000"
+  }
+}

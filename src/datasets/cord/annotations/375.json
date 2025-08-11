@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "Grande",
+      "cnt": "3",
+      "price": "180.000"
+    },
+    {
+      "nm": "Lemon grass tea (Dine in)",
+      "cnt": "1",
+      "price": "25.000"
+    },
+    {
+      "nm": "Cheese Tea Hokkaido Melon",
+      "cnt": "3",
+      "price": "72.000"
+    },
+    {
+      "nm": "Air Mineral",
+      "cnt": "2",
+      "price": "10.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "287.000",
+    "tax_price": "28.700"
+  },
+  "total": {
+    "total_price": "315.700",
+    "changeprice": "0",
+    "creditcardprice": "315.700"
+  }
+}

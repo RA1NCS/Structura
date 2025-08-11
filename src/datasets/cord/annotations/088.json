@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "KUE PILUS ASIN",
+      "unitprice": "210.00 x",
+      "cnt": "80",
+      "price": "16,800"
+    },
+    {
+      "nm": "KACANG MEDAN",
+      "unitprice": "302.00 x",
+      "cnt": "95",
+      "price": "28,690"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "45,490",
+    "discount_price": [
+      "0",
+      "0"
+    ],
+    "tax_price": "4,549"
+  },
+  "total": {
+    "total_price": "50,039",
+    "changeprice": "0",
+    "creditcardprice": "50,039"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "menu": [
+        {
+            "nm": "RB. COKLAT BAR",
+            "cnt": "1",
+            "price": "8,000"
+        },
+        {
+            "nm": "RB. CREPES TUNA",
+            "cnt": "1",
+            "price": "9,000"
+        },
+        {
+            "nm": "RB. SISIR PANDAN",
+            "cnt": "1",
+            "price": "7,500"
+        }
+    ],
+    "sub_total": {
+        "subtotal_price": "24,500"
+    },
+    "total": {
+        "total_price": "24,500",
+        "cashprice": "50,000",
+        "changeprice": "25,500",
+        "menutype_cnt": "3",
+        "menuqty_cnt": "3"
+    }
+}

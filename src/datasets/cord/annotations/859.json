@@ -1,0 +1,58 @@
+{
+  "menu": [
+    {
+      "nm": "Tahu Isi",
+      "cnt": "2",
+      "price": "78,000"
+    },
+    {
+      "nm": "Tea",
+      "cnt": "5",
+      "price": "30,000"
+    },
+    {
+      "nm": "Kepiting 7-8.4ons - Chilly 0.7 1",
+      "cnt": "1",
+      "price": "297,490"
+    },
+    {
+      "nm": "Udang Telur Asin - Regular",
+      "cnt": "1",
+      "price": "47,500"
+    },
+    {
+      "nm": "Kailan 2 Rasa",
+      "cnt": "1",
+      "price": "45,000"
+    },
+    {
+      "nm": "Mantau - 2 pcs",
+      "cnt": "1",
+      "price": "25,000"
+    },
+    {
+      "nm": "Sweet Tea",
+      "cnt": "2",
+      "price": "16,000"
+    },
+    {
+      "nm": "Nasi Putih",
+      "cnt": "7",
+      "price": "42,000"
+    },
+    {
+      "nm": "Mantau - 3 pcs",
+      "cnt": "1",
+      "price": "37,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "618,490",
+    "tax_price": "61,849"
+  },
+  "total": {
+    "total_price": "680,500",
+    "menutype_cnt": "9",
+    "menuqty_cnt": "21"
+  }
+}

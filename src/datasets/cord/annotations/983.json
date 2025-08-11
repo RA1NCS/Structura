@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "S-Milk tea",
+    "unitprice": "@17,000",
+    "cnt": "1X",
+    "price": "17,000",
+    "sub": {
+      "nm": "100%"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "17,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "17,000",
+    "cashprice": "17,000",
+    "changeprice": "0"
+  }
+}

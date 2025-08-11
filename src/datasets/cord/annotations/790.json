@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Dimsum",
+    "cnt": "2",
+    "price": "30.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "30.000",
+    "changeprice": "0",
+    "emoneyprice": "30.000"
+  }
+}

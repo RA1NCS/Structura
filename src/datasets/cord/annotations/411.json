@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "DP. ORDER",
+    "num": "19BC1054",
+    "unitprice": "25,000",
+    "cnt": "1",
+    "price": "25,000"
+  },
+  "sub_total": {
+    "discount_price": "0"
+  },
+  "total": {
+    "total_price": "25,000",
+    "cashprice": "50,000",
+    "changeprice": "25,000"
+  }
+}

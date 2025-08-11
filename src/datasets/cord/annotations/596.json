@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "nm": "Seaweed Chicken",
+    "cnt": "1",
+    "price": "42,000",
+    "sub": {
+      "nm": "- Pedas sedikit",
+      "cnt": "1",
+      "price": "0"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "42,000"
+  },
+  "total": {
+    "total_price": "42,000",
+    "cashprice": "102,000",
+    "changeprice": "60,000",
+    "menuqty_cnt": "1"
+  }
+}

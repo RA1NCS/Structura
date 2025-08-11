@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "BASO TAHU",
+      "unitprice": "43.636",
+      "cnt": "1",
+      "price": "43.636"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "6.000",
+      "cnt": "1",
+      "price": "6,000"
+    },
+    {
+      "nm": "A.MINERAL GELAS",
+      "unitprice": "3,000",
+      "cnt": "1",
+      "price": "3,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "52.636",
+    "tax_price": "5,264"
+  },
+  "total": {
+    "total_price": "57,900",
+    "cashprice": "60.000",
+    "changeprice": "2,100"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "nm": "GYOZA AYAM GORENG",
+      "cnt": "1",
+      "price": "32,000"
+    },
+    {
+      "nm": "OCHA HANGAT",
+      "cnt": "2",
+      "price": "24,000"
+    },
+    {
+      "nm": "OCHA DINGIN",
+      "cnt": "1",
+      "price": "12,000"
+    },
+    {
+      "nm": "RAMEN AYAM SPECIAL",
+      "cnt": "3",
+      "price": "186,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "254,000",
+    "service_price": "12,700",
+    "tax_price": "26,670"
+  },
+  "total": {
+    "total_price": "293,370",
+    "creditcardprice": "293,370"
+  }
+}

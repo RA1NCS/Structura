@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "Nasgor Jawa",
+      "cnt": "1",
+      "price": "32.727"
+    },
+    {
+      "nm": "Jeruk Panas",
+      "cnt": "1",
+      "price": "19.091"
+    },
+    {
+      "nm": "Air Mineral",
+      "cnt": "1",
+      "price": "9.091"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "60.909",
+    "tax_price": "6.091"
+  },
+  "total": {
+    "total_price": "67.000",
+    "cashprice": "67.000",
+    "menutype_cnt": "3"
+  }
+}

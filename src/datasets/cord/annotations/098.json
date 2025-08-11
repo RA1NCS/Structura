@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "WALL'S FEAST CKLT.65",
+      "unitprice": "5400",
+      "cnt": "1",
+      "price": "5,400"
+    },
+    {
+      "nm": "CMPN TROPICANA.CHO75",
+      "unitprice": "5500",
+      "cnt": "1",
+      "price": "5,500"
+    },
+    {
+      "nm": "MAGNUM WHT ALMND 80",
+      "unitprice": "15000",
+      "cnt": "1",
+      "price": "15,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "25,900",
+    "tax_price": "2,355"
+  },
+  "total": {
+    "total_price": "25,900",
+    "cashprice": "25,900"
+  }
+}

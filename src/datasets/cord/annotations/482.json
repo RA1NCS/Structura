@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "nm": "THAI ICETEA",
+      "price": "20,000"
+    },
+    {
+      "nm": "ICE GREENTEA",
+      "price": "22,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "42,000",
+    "cashprice": "50,000",
+    "changeprice": "8,000"
+  }
+}

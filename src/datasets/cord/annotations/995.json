@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "SAYAP",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "PAHA BAWAH",
+      "cnt": "1",
+      "price": "13,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "27,272",
+    "tax_price": "2,700"
+  },
+  "total": {
+    "total_price": "30,000",
+    "cashprice": "50,000",
+    "changeprice": "20,000",
+    "menuqty_cnt": "2"
+  }
+}

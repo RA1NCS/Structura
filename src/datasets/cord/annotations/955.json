@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "Cha Keaw L...",
+      "cnt": "x2",
+      "price": "60.000"
+    },
+    {
+      "nm": "Cha Keaw L...",
+      "cnt": "x2",
+      "discountprice": "60.000)",
+      "price": "60.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "60.000",
+    "creditcardprice": "60.000"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "DL+GA+FF+R+2RB",
+      "unitprice": "88.000",
+      "price": "88.000"
+    },
+    {
+      "nm": "UP Drink 16",
+      "unitprice": "0",
+      "cnt": "1",
+      "price": "0"
+    },
+    {
+      "nm": "UP Orange 16",
+      "unitprice": "2.000",
+      "cnt": "1",
+      "price": "2.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "creditcardprice": "90.000",
+    "menuqty_cnt": "3 Total"
+  }
+}

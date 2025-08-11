@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "nm": "CHOCO CHIP",
+      "cnt": "1.0",
+      "price": "27,500"
+    },
+    {
+      "nm": "NOUGAT ICE CREAM",
+      "cnt": "2.0",
+      "price": "48,000"
+    },
+    {
+      "nm": "AMANDEL BROOD",
+      "cnt": "1.0",
+      "price": "20,000"
+    },
+    {
+      "nm": "BOKKEPOOTJES",
+      "cnt": "1.0",
+      "price": "104,000"
+    },
+    {
+      "nm": "CHOCOLATE ICE CREAM",
+      "cnt": "2.0",
+      "price": "30,000"
+    },
+    {
+      "nm": "MOCCA ICE CREAM",
+      "cnt": "1.0",
+      "price": "15,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "244,500",
+    "tax_price": "24,450"
+  },
+  "total": {
+    "total_price": "268,950",
+    "menutype_cnt": "6 Item(s)"
+  }
+}

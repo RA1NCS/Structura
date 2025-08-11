@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "nm": "Crab Stick",
+      "cnt": "1",
+      "price": "9.000"
+    },
+    {
+      "nm": "Bakso Lobster",
+      "cnt": "1",
+      "price": "10.000"
+    },
+    {
+      "nm": "Sawi Putih",
+      "cnt": "1",
+      "price": "7.000"
+    },
+    {
+      "nm": "Jamur Enoki",
+      "cnt": "1",
+      "price": "8.000"
+    },
+    {
+      "nm": "Jamur Kuping",
+      "cnt": "1",
+      "price": "8.000"
+    },
+    {
+      "nm": "Maling",
+      "unitprice": "12000",
+      "cnt": "2",
+      "price": "24.000"
+    },
+    {
+      "nm": "Nasi (MLY)",
+      "cnt": "1",
+      "price": "6.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "72.000"
+  },
+  "total": {
+    "total_price": "72.000",
+    "creditcardprice": "72.000"
+  }
+}

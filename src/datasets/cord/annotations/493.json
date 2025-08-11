@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "Large 1",
+      "cnt": "1",
+      "price": "11.000"
+    },
+    {
+      "nm": "Small 1",
+      "cnt": "3",
+      "price": "30.000"
+    },
+    {
+      "nm": "*PlastiK Kcl",
+      "cnt": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "41.000",
+    "cashprice": "100.000",
+    "changeprice": "59.000",
+    "menutype_cnt": "5"
+  }
+}

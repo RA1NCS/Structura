@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "Kroket",
+    "unitprice": "12.000",
+    "cnt": "1",
+    "price": "12.000"
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 12.000",
+    "tax_price": "Rp 1.200"
+  },
+  "total": {
+    "total_price": "Rp 13.200",
+    "emoneyprice": "Rp 13.200"
+  }
+}

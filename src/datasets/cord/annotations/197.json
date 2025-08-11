@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "CK.MANTAP A",
+      "unitprice": "25,455",
+      "cnt": "1",
+      "price": "25,455"
+    },
+    {
+      "nm": "CHEESE B",
+      "unitprice": "20,455",
+      "cnt": "2",
+      "price": "40,909"
+    },
+    {
+      "nm": "TAKE AWAY",
+      "unitprice": "909",
+      "cnt": "1",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "67,273",
+    "tax_price": "6,727"
+  },
+  "total": {
+    "total_price": "74,000",
+    "cashprice": [
+      "74,000",
+      "100,000"
+    ],
+    "changeprice": "26,000"
+  }
+}

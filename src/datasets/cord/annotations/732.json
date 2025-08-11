@@ -1,0 +1,26 @@
+{
+  "menu": {
+    "nm": [
+      "TAKEOUT(1):",
+      "Viet Latte"
+    ],
+    "cnt": "1",
+    "price": "19.000",
+    "sub": [
+      {
+        "nm": "+S"
+      },
+      {
+        "nm": "+Ice"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 19.000"
+  },
+  "total": {
+    "total_price": "Rp 19.000",
+    "cashprice": "Rp 50.000",
+    "changeprice": "Rp 31.000"
+  }
+}

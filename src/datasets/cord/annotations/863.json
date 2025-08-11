@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "Kopi Susu Kampung.",
+      "cnt": "x1",
+      "price": "19.000",
+      "sub": [
+        {
+          "nm": "Ice"
+        },
+        {
+          "nm": "Kopi Susu Kampung Less Ice",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "nm": "Kopi Susu Kampung.",
+      "cnt": "x2",
+      "price": "38.000",
+      "sub": {
+        "nm": "Ice"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "57.000"
+  },
+  "total": {
+    "total_price": "57.000",
+    "cashprice": "60.000",
+    "changeprice": "3.000"
+  }
+}

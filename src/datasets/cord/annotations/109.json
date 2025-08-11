@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "1069-ROTI KEJU COKLAT",
+      "unitprice": "8.500,00",
+      "cnt": "x1",
+      "price": "8.500,00"
+    },
+    {
+      "nm": "1037-ROTI MAHKOTA/RING",
+      "unitprice": "10.500,00",
+      "cnt": "x1",
+      "price": "10.500,00"
+    },
+    {
+      "nm": "1022-ROTI KACANG MERAH",
+      "unitprice": "8.000,00",
+      "cnt": "x1",
+      "price": "8.000,00"
+    },
+    {
+      "nm": "1001-ROTI COKLAT",
+      "unitprice": "8.000,00",
+      "cnt": "x1",
+      "price": "8.000,00"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "35.000,00",
+    "cashprice": "50.000,00",
+    "changeprice": "15.000,00",
+    "menuqty_cnt": "4"
+  }
+}

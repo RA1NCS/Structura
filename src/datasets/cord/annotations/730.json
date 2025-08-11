@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "nm": "Roasted Milk Tea",
+    "cnt": "1",
+    "price": "21.000",
+    "sub": [
+      {
+        "nm": "+ 70%"
+      },
+      {
+        "nm": "+R"
+      },
+      {
+        "nm": "+ Less"
+      },
+      {
+        "nm": "Big Bubble",
+        "price": "4.000"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "25.000",
+    "tax_price": "2.500"
+  },
+  "total": {
+    "total_price": "27.500",
+    "cashprice": "50.000",
+    "changeprice": "22.500"
+  }
+}

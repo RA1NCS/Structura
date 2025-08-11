@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "nm": "BLACK PEPPER MEATBALL",
+      "cnt": "1",
+      "price": "76,500"
+    },
+    {
+      "nm": "GREEN TEA WITH CRUMBLE",
+      "cnt": "1",
+      "price": "56,000"
+    },
+    {
+      "nm": "EARL GREY MILK TEA",
+      "cnt": "1",
+      "price": "57,000"
+    },
+    {
+      "nm": "ORIGINAL BREWED TEA",
+      "cnt": "1",
+      "price": "23,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "212,500",
+    "service_price": "12,750",
+    "tax_price": "22,525"
+  },
+  "total": {
+    "total_price": "247,775"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "nm": "SALMON PESTO",
+      "cnt": "1",
+      "price": "85,500"
+    },
+    {
+      "nm": "GRILLED SALMON TERIYAK",
+      "cnt": "1",
+      "price": "177,000"
+    },
+    {
+      "nm": "MINERAL WATER",
+      "cnt": "1",
+      "price": "23,000"
+    },
+    {
+      "nm": "FRESH FRUIT COCKTAIL",
+      "cnt": "1",
+      "price": "65,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "350,500",
+    "service_price": "21,030",
+    "tax_price": "37,153"
+  },
+  "total": {
+    "total_price": "408,683"
+  }
+}

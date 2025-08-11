@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "NASI GOR SFD TLR",
+      "unitprice": "35.000",
+      "cnt": "1",
+      "price": "Rp 35.000"
+    },
+    {
+      "nm": "ES TEH TAWAR",
+      "unitprice": "3.000",
+      "cnt": "1",
+      "price": "Rp 3.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "Rp 38.000",
+    "cashprice": "Rp 50.000",
+    "changeprice": "Rp 12.000"
+  }
+}

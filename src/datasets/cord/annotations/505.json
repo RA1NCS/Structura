@@ -1,0 +1,56 @@
+{
+  "menu": [
+    {
+      "nm": "MACARONI",
+      "discountprice": "-3,000",
+      "price": "10,000"
+    },
+    {
+      "nm": "LUMPIA",
+      "unitprice": "@9500",
+      "cnt": "2X",
+      "discountprice": "-5,700",
+      "price": "19,000"
+    },
+    {
+      "nm": "BANANA KISMIS",
+      "discountprice": "-2,400",
+      "price": "8,000"
+    },
+    {
+      "nm": "SOSIS SOLO",
+      "discountprice": "-2,700",
+      "price": "9,000"
+    },
+    {
+      "nm": "LUMPUR",
+      "discountprice": "-2,400",
+      "price": "8,000"
+    },
+    {
+      "nm": "DADAR PISANG",
+      "discountprice": "-2,550",
+      "price": "8,500"
+    },
+    {
+      "nm": "KLEPON",
+      "discountprice": "-2,400",
+      "price": "8,000"
+    },
+    {
+      "nm": "BUGIS",
+      "discountprice": "-2,400",
+      "price": "8,000"
+    },
+    {
+      "nm": "PLASTIK TENTENG",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "54,950"
+  },
+  "total": {
+    "total_price": "54,950"
+  }
+}

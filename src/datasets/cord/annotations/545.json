@@ -1,0 +1,49 @@
+{
+  "menu": [
+    {
+      "nm": "M02.LMK BEEF RNDANG",
+      "cnt": "1",
+      "price": "55,800"
+    },
+    {
+      "nm": "I13.SIMANGOSONG",
+      "cnt": "1",
+      "price": "52,800"
+    },
+    {
+      "nm": "101.NS BEBEK KAMPUNG",
+      "cnt": "1",
+      "price": "52,800"
+    },
+    {
+      "nm": "A13.MIE ACP",
+      "cnt": "1",
+      "price": "40,800"
+    },
+    {
+      "nm": "CT06.TEA 0 HOT R.",
+      "cnt": "2",
+      "price": "27,600"
+    },
+    {
+      "nm": "CT06.TEA 0 ICE R.",
+      "cnt": "3",
+      "price": "44,400"
+    },
+    {
+      "nm": "NO1.MR.MI TLR ASIN",
+      "cnt": "1",
+      "price": "45,800"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "320,000",
+    "service_price": "22,400",
+    "tax_price": "34,240"
+  },
+  "total": {
+    "total_price": "376,640",
+    "menutype_cnt": "7",
+    "menuqty_cnt": ":10"
+  }
+}

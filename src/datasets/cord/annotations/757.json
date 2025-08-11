@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Cuci",
+      "cnt": "1.0",
+      "price": "0"
+    },
+    {
+      "nm": "B Pjg/Vr 3",
+      "cnt": "1.0",
+      "price": "92,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "92,000",
+    "etc": "0"
+  },
+  "total": {
+    "total_price": "92,000",
+    "cashprice": "100,000",
+    "changeprice": "8,000"
+  }
+}

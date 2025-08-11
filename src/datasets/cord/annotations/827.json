@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "PKT AYAM",
+      "price": "33,000"
+    },
+    {
+      "nm": "GULAI OTAK",
+      "price": "23,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "56,000",
+    "tax_price": "5,600"
+  },
+  "total": {
+    "total_price": "61,600",
+    "cashprice": "61,600",
+    "menuqty_cnt": "2.00"
+  }
+}

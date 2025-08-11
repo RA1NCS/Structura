@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "CRISPY CHOCO",
+    "price": "14,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "14,000",
+    "cashprice": "20,000",
+    "changeprice": "6,000"
+  }
+}

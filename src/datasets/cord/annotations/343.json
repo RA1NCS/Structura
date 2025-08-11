@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "BANANA RHUM RAISIN",
+      "cnt": "1",
+      "price": "46,500",
+      "sub": {
+        "nm": "W. CHARCOAL",
+        "price": "9,000"
+      }
+    },
+    {
+      "nm": "PRAWN & SPINACH PASTA",
+      "cnt": "1",
+      "price": "80,500"
+    },
+    {
+      "nm": "ORIGINAL BREWED TEA",
+      "cnt": "1",
+      "price": "23,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "159,000",
+    "service_price": "9,540",
+    "tax_price": "16,854"
+  },
+  "total": {
+    "total_price": "185,394"
+  }
+}

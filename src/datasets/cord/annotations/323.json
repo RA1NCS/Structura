@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "CHEESE TIME",
+    "cnt": "1",
+    "price": "43,000"
+  },
+  "sub_total": {
+    "tax_price": "3,909"
+  },
+  "total": {
+    "total_price": "43,000",
+    "cashprice": "50,000",
+    "changeprice": "7,000"
+  }
+}

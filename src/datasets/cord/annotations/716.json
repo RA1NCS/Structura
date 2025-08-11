@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "nm": "AMOUSH DBL CHS BURG",
+      "cnt": "6",
+      "price": "99,000.00"
+    },
+    {
+      "nm": "TAKE AWAY CHARGE",
+      "cnt": "1",
+      "price": "1,000.00"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "100,000.00"
+  },
+  "total": {
+    "total_price": "100,000.00",
+    "changeprice": "0.00",
+    "creditcardprice": "100,000.00"
+  }
+}

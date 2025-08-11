@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "PREMIUM MILK PAN BREAD",
+      "cnt": "1",
+      "price": "18,000"
+    },
+    {
+      "nm": "CREAMCHEESE WALNUT BREAD",
+      "cnt": "1",
+      "price": "34,000"
+    },
+    {
+      "nm": "ROLL-IT PIZZA BREAD",
+      "cnt": "1",
+      "price": "25,000"
+    }
+  ],
+  "sub_total": {
+    "tax_price": "Pb1 10% 7,000"
+  },
+  "total": {
+    "total_price": "77,000",
+    "cashprice": "100,000",
+    "changeprice": "23,000"
+  }
+}

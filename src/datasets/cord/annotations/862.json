@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "XXI Java Tea (M)",
+      "cnt": "1",
+      "price": "18.000"
+    },
+    {
+      "nm": "Combo 2",
+      "cnt": "1",
+      "price": "30.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "48.000",
+    "cashprice": "50.000",
+    "changeprice": "2,000"
+  }
+}

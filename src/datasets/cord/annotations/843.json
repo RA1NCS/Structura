@@ -1,0 +1,24 @@
+{
+  "menu": {
+    "nm": "Cheese Tart",
+    "cnt": "6",
+    "price": "165000.00",
+    "sub": [
+      {
+        "nm": "Box of 6"
+      },
+      {
+        "nm": "PP Carrier"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 165000.00",
+    "tax_price": "Rp 15000.00"
+  },
+  "total": {
+    "total_price": "Rp 165000.00",
+    "cashprice": "Rp 200000.00",
+    "changeprice": "Rp 35000.00"
+  }
+}

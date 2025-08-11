@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "ELEPHANT READ BEAN",
+      "unitprice": "12,000",
+      "cnt": "1",
+      "price": "12,000"
+    },
+    {
+      "nm": "chapsal twister donnut",
+      "unitprice": "10,000",
+      "cnt": "1",
+      "price": "10,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "22,000",
+    "cashprice": "22,000",
+    "changeprice": "0",
+    "menuqty_cnt": "2"
+  }
+}

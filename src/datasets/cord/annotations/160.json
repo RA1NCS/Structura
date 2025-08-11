@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "PAKET CHICKEN 4",
+      "unitprice": "29,000",
+      "cnt": "1",
+      "price": "29,000"
+    },
+    {
+      "nm": "KOREAN COLD TEA",
+      "unitprice": "9,000",
+      "cnt": "1",
+      "price": "9,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "38,000",
+    "service_price": "1,900",
+    "tax_price": "3,990"
+  },
+  "total": {
+    "total_price": "43,890",
+    "cashprice": "50,000",
+    "changeprice": "6,110"
+  }
+}

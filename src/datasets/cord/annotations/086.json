@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "BUNCIS MUDA TE",
+    "cnt": "1",
+    "price": "20.000"
+  },
+  "sub_total": {
+    "subtotal_price": "20.000",
+    "service_price": "600",
+    "tax_price": "2.060"
+  },
+  "total": {
+    "total_price": "22.660",
+    "menuqty_cnt": "1"
+  }
+}

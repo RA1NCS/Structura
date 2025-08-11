@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "Kopi Susu Sudirman",
+      "unitprice": "18.000",
+      "cnt": "1x",
+      "price": "18.000",
+      "sub": {
+        "nm": "Ice"
+      }
+    },
+    {
+      "nm": "Chocolate Twist",
+      "unitprice": "12.000",
+      "cnt": "1x",
+      "price": "12.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "30.000",
+    "tax_price": "3.000"
+  },
+  "total": {
+    "total_price": "33.000",
+    "cashprice": "50.000",
+    "changeprice": "17.000"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "BASO KWETIAU",
+      "unitprice": "43.636",
+      "cnt": "1",
+      "price": "43.636"
+    },
+    {
+      "nm": "A.MINERAL BOTOL",
+      "unitprice": "8.000",
+      "cnt": "1",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "51,636",
+    "tax_price": "5,164"
+  },
+  "total": {
+    "total_price": "56.800",
+    "cashprice": "60.000"
+  }
+}

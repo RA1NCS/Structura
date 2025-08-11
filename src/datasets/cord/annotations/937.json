@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Ice Lemon Tea",
+      "price": "13,636"
+    },
+    {
+      "nm": [
+        "-",
+        "Gyro Platter Regular"
+      ],
+      "price": "50,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "63,636",
+    "tax_price": "6,364"
+  },
+  "total": {
+    "total_price": "70,000",
+    "cashprice": "70,000"
+  }
+}

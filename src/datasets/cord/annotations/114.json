@@ -1,0 +1,38 @@
+{
+  "menu": {
+    "nm": "Puyo 6 (Package)",
+    "unitprice": "70,000",
+    "cnt": "1x",
+    "price": "70,000",
+    "sub": [
+      {
+        "nm": "Si1ky Lychee",
+        "cnt": "2x"
+      },
+      {
+        "nm": "Si1ky Mango",
+        "cnt": "1x"
+      },
+      {
+        "nm": "Si1ky Cotton Candy",
+        "cnt": "1x"
+      },
+      {
+        "nm": "Si1ky Green Tea",
+        "cnt": "1x"
+      },
+      {
+        "nm": "Si1ky Chocolate",
+        "cnt": "1x"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "70,000"
+  },
+  "total": {
+    "total_price": "70,000",
+    "changeprice": "0",
+    "creditcardprice": "70,000"
+  }
+}

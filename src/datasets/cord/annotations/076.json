@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "nm": "TAKOYAKI 12PCS",
+    "cnt": "1",
+    "price": "30,000"
+  },
+  "sub_total": {
+    "subtotal_price": "30,000",
+    "tax_price": "3,000"
+  },
+  "total": {
+    "total_price": "33,000",
+    "cashprice": "40,000",
+    "changeprice": "7,000",
+    "menuqty_cnt": "1"
+  }
+}

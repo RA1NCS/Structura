@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Cheese Tart",
+    "cnt": "*1",
+    "price": "Rp 29000.00"
+  },
+  "sub_total": {
+    "subtotal_price": "29000.00"
+  },
+  "total": {
+    "total_price": "Rp 29000.00",
+    "cashprice": "Rp 100000.00",
+    "changeprice": "Rp 71000.00"
+  }
+}

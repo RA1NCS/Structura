@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "BASO TAHU",
+      "unitprice": "43.636",
+      "cnt": "1",
+      "price": "43.636"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "6.000",
+      "cnt": "1",
+      "price": "6.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "49.636",
+    "tax_price": "4.964"
+  },
+  "total": {
+    "total_price": "54.600",
+    "cashprice": "60.100",
+    "changeprice": "5.500"
+  }
+}

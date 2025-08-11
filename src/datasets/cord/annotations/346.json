@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "<AYA BUN",
+      "cnt": "3",
+      "price": "28,500"
+    },
+    {
+      "nm": "CRISPY REAL CHEESE",
+      "cnt": "1",
+      "price": "16,500"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "45,000",
+    "cashprice": "50,000",
+    "changeprice": "5,000"
+  }
+}

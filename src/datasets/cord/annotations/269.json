@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "TUNA & CHEDDAR",
+      "num": "01110000",
+      "price": "55,000"
+    },
+    {
+      "nm": "ONION RINGS",
+      "num": "04100000",
+      "price": "19,800"
+    },
+    {
+      "nm": "AQUA BTL",
+      "num": "[13100000",
+      "price": "6,600"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "81,400",
+    "cashprice": "100,000",
+    "changeprice": "18,600"
+  }
+}

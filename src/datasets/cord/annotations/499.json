@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "nm": "YIFUMI",
+      "cnt": "1",
+      "price": "41.818"
+    },
+    {
+      "nm": "Bihun Goreng",
+      "cnt": "1",
+      "price": "35.454"
+    },
+    {
+      "nm": "Nasi Goreng",
+      "cnt": "1",
+      "price": "31.818"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "109.090",
+    "tax_price": "10.909",
+    "etc": "1"
+  },
+  "total": {
+    "total_price": "120.000",
+    "menuqty_cnt": "3"
+  }
+}

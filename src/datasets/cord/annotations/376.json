@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "nm": "SWEEAT ICE TEA",
+      "cnt": "1",
+      "price": "16,800"
+    },
+    {
+      "nm": "OREO MILK BLEND",
+      "cnt": "1",
+      "price": "28,800"
+    },
+    {
+      "nm": "FRIED RC SFOOD",
+      "cnt": "1",
+      "price": "39,800"
+    },
+    {
+      "nm": "SHISHA",
+      "cnt": "1",
+      "price": "47,000"
+    },
+    {
+      "nm": "MASHED POTATO",
+      "cnt": "1",
+      "price": "23,800"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "156,200",
+    "service_price": "8,591",
+    "tax_price": "16,480"
+  },
+  "total": {
+    "total_price": "181,271"
+  }
+}

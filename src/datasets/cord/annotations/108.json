@@ -1,0 +1,28 @@
+{
+  "menu": {
+    "nm": "M-Ice Cream Milk Te",
+    "unitprice": "@30,000",
+    "cnt": "1X",
+    "price": "30,000",
+    "sub": [
+      {
+        "nm": "Fr Konjac"
+      },
+      {
+        "nm": "70%"
+      },
+      {
+        "nm": "Less Ice"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "30,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "30,000",
+    "changeprice": "0",
+    "creditcardprice": "30,000"
+  }
+}

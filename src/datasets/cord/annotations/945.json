@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "nm": "AOP Seafood",
+      "cnt": "1",
+      "price": "85,000"
+    },
+    {
+      "nm": "Omurice Katsu Curry",
+      "cnt": "1",
+      "price": "95,000"
+    },
+    {
+      "nm": "Earl Gray Tea",
+      "cnt": "1",
+      "price": "35,000"
+    },
+    {
+      "nm": "Hot Tea",
+      "cnt": "1",
+      "price": "25,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "240,000",
+    "service_price": "21,600",
+    "tax_price": "26,160"
+  },
+  "total": {
+    "total_price": "287,760"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "JAPANEESE GR TEA HOT",
+      "cnt": "1",
+      "price": "12,727"
+    },
+    {
+      "nm": "CHICKEN SKIN",
+      "cnt": "1",
+      "price": "10,909"
+    },
+    {
+      "nm": "GYU MOZZA DON",
+      "cnt": "1",
+      "price": "53,636"
+    },
+    {
+      "nm": "C.KATSU NOODLE HP",
+      "cnt": "1",
+      "discountprice": "6,818)",
+      "price": "45,454"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "115,908",
+    "tax_price": "11,591"
+  },
+  "total": {
+    "total_price": "127,500",
+    "creditcardprice": "127,500",
+    "menutype_cnt": "4",
+    "menuqty_cnt": "4"
+  }
+}

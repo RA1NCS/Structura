@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "SB 1 OR",
+      "cnt": "1",
+      "price": "28,636"
+    },
+    {
+      "nm": "Chokocha Flt",
+      "cnt": "1",
+      "price": "13,636"
+    },
+    {
+      "nm": "Bbq Bento",
+      "cnt": "1",
+      "price": "13,636"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "55,908",
+    "tax_price": "5,592"
+  },
+  "total": {
+    "total_price": "61,500",
+    "cashprice": "70,000",
+    "changeprice": "8,500",
+    "menuqty_cnt": "3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Ice Kokofie",
+    "cnt": "1",
+    "price": "20.000"
+  },
+  "sub_total": {
+    "subtotal_price": "20.000"
+  },
+  "total": {
+    "total_price": "20.000",
+    "cashprice": "100.000",
+    "changeprice": "80.000"
+  }
+}

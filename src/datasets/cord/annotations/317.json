@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "CINNAMON SUGAR",
+    "unitprice": "17,000",
+    "cnt": "2",
+    "price": "34,000"
+  },
+  "sub_total": {
+    "subtotal_price": "34,000"
+  },
+  "total": {
+    "total_price": "34,000",
+    "cashprice": "40,000",
+    "changeprice": "6,000"
+  }
+}

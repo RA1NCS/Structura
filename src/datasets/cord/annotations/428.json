@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Combo 1",
+    "cnt": "1",
+    "price": "30,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "30.000",
+    "cashprice": "50.000",
+    "changeprice": "20.000"
+  }
+}

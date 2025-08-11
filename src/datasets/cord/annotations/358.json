@@ -1,0 +1,26 @@
+{
+  "menu": {
+    "nm": "GJ ROASTED MT ( R )",
+    "cnt": "1 x",
+    "price": "25,000",
+    "sub": [
+      {
+        "nm": "ICE LESS",
+        "price": "0"
+      },
+      {
+        "nm": "SUGAR SLIGHT",
+        "price": "0"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "25,000"
+  },
+  "total": {
+    "total_price": "25,000",
+    "cashprice": "50,000",
+    "changeprice": "25,000",
+    "menuqty_cnt": "1"
+  }
+}

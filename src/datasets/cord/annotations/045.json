@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "1",
+      "cnt": "2",
+      "price": "22.000"
+    },
+    {
+      "nm": "Large *Plastik Kcl",
+      "cnt": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "22.000",
+    "cashprice": "52.000",
+    "changeprice": "30.000",
+    "menuqty_cnt": "3"
+  }
+}

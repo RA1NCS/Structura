@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "Populaire Chocolate",
+      "unitprice": "4,500",
+      "cnt": "1",
+      "price": "4,500"
+    },
+    {
+      "nm": "Paddle Pop Choco Magma",
+      "unitprice": "3,000",
+      "cnt": "1",
+      "price": "3,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "7,500",
+    "tax_price": "750"
+  },
+  "total": {
+    "total_price": "8,250",
+    "total_etc": "50",
+    "cashprice": "10,000",
+    "changeprice": "1,800"
+  }
+}

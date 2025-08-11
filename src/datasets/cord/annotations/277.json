@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "nm": "SOGOGI JAPCHAE",
+      "cnt": "2",
+      "price": "320,000"
+    },
+    {
+      "nm": "GONG GIBAB",
+      "cnt": "6",
+      "price": "120,000"
+    },
+    {
+      "nm": "GYERAN MARI",
+      "cnt": "2",
+      "price": "0"
+    },
+    {
+      "nm": "JEK SEOK TEOK POKI (S)",
+      "cnt": "1",
+      "price": "115,000"
+    },
+    {
+      "nm": "* MINERAL WATER",
+      "cnt": "1",
+      "price": "13,000"
+    },
+    {
+      "nm": "EL KEUN HWANGTAE SUNDUBU (TUKBEGI)",
+      "cnt": "2",
+      "price": "260,000"
+    },
+    {
+      "nm": "DAK GANG JEONG",
+      "cnt": "2",
+      "price": "380,000"
+    },
+    {
+      "nm": "YANG NYEOM SAM GYEOP SAL",
+      "cnt": "1",
+      "price": "120,000"
+    },
+    {
+      "nm": "PREMIUM YANGNYEOM GALBISAL",
+      "cnt": "1",
+      "price": "250,000"
+    },
+    {
+      "nm": "JEKSEOK YANG NYEOM GUI",
+      "cnt": "1",
+      "price": "300,000"
+    },
+    {
+      "nm": "HAEMUL DENJANG JJIGAE",
+      "cnt": "1",
+      "price": "85,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "1,963,000",
+    "discount_price": "0",
+    "service_price": "137,410",
+    "tax_price": "206,611"
+  },
+  "total": {
+    "total_price": "2,307,021",
+    "changeprice": "0",
+    "creditcardprice": "2,307,021"
+  }
+}

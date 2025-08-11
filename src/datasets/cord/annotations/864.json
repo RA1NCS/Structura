@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nm": "SINGLE SCOOP",
+    "price": "16.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "16.000",
+    "cashprice": "50.000",
+    "changeprice": "34.000"
+  }
+}

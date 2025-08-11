@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "Choco Lining Bread",
+      "unitprice": "21,000",
+      "cnt": "1x",
+      "price": "21,000"
+    },
+    {
+      "nm": "Tuna N Chicken Floos Bread",
+      "unitprice": "13,500",
+      "cnt": "1x",
+      "price": "13,500"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "34,500"
+  },
+  "total": {
+    "total_price": "34,500",
+    "cashprice": "50,000",
+    "changeprice": "15,500"
+  }
+}

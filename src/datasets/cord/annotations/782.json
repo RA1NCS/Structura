@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "YIFUMI",
+      "cnt": "1",
+      "price": "41.818"
+    },
+    {
+      "nm": "Yi Fu Mies Small",
+      "cnt": "1",
+      "price": "31.818"
+    },
+    {
+      "nm": "Bakmi Ayam",
+      "cnt": "1",
+      "price": "28.182"
+    },
+    {
+      "nm": "1/2 Baso Sapi",
+      "cnt": "1",
+      "price": "15.454"
+    },
+    {
+      "nm": "Es Teh",
+      "cnt": "1",
+      "price": "5,454"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "122.726",
+    "tax_price": "12.273",
+    "etc": "1"
+  },
+  "total": {
+    "total_price": "135.000",
+    "menutype_cnt": "5 Total"
+  }
+}

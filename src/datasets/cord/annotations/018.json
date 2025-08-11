@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "KING DEAL FISH",
+    "cnt": "1",
+    "price": "25000"
+  },
+  "sub_total": {
+    "subtotal_price": "25000",
+    "tax_price": "2500"
+  },
+  "total": {
+    "total_price": "27500",
+    "cashprice": "100000",
+    "changeprice": "72500"
+  }
+}

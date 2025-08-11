@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "APPLE CREAMCHEESE PASTRY",
+    "cnt": "2",
+    "price": "26,000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "26,000",
+    "cashprice": "100,000",
+    "changeprice": "74,000"
+  }
+}

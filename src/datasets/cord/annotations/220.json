@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "KING DEAL CHEESE BURGER R",
+      "price": "25,000"
+    },
+    {
+      "nm": "1 PC BIC",
+      "price": "15,909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "40.909",
+    "tax_price": "4,091"
+  },
+  "total": {
+    "total_price": "45,000",
+    "cashprice": "Rp. 50,000",
+    "changeprice": "Rp.5,000"
+  }
+}

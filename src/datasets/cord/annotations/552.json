@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "nm": "Original Hugarian Ku",
+      "num": "25001",
+      "unitprice": "20,000",
+      "cnt": "1x",
+      "price": "20,000"
+    },
+    {
+      "nm": "Original Hugarian Ku",
+      "num": "25001",
+      "unitprice": "20,000",
+      "cnt": "1x",
+      "price": "20,000"
+    },
+    {
+      "nm": "Original Hugarian Ku",
+      "num": "25001",
+      "unitprice": "20,000",
+      "cnt": "1x",
+      "price": "20,000"
+    },
+    {
+      "nm": "Original Hugarian Ku",
+      "num": "25001",
+      "unitprice": "20,000",
+      "cnt": "1x",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "80,000",
+    "emoneyprice": "80,000",
+    "menutype_cnt": "4",
+    "menuqty_cnt": "4"
+  }
+}

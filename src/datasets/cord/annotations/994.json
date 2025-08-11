@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "nm": "Emily's Shrimp Scampi Fettucine",
+    "cnt": "1",
+    "price": "69.000"
+  },
+  "sub_total": {
+    "subtotal_price": "69.000",
+    "discount_price": "0",
+    "service_price": "3.795",
+    "etc": [
+      "7.280",
+      "+25"
+    ]
+  },
+  "total": {
+    "total_price": "80.100",
+    "total_etc": "80.100",
+    "changeprice": "0"
+  }
+}

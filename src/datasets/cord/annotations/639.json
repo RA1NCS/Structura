@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Caramel Small",
+    "cnt": "1",
+    "price": "38.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "38.000",
+    "cashprice": "50.000",
+    "changeprice": "12.000"
+  }
+}

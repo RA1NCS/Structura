@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "nm": "XXL Crispy Chicken",
+    "cnt": "1",
+    "price": "40,000",
+    "sub": {
+      "nm": "Pedas sedikit",
+      "cnt": "1",
+      "price": "0"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "40,000"
+  },
+  "total": {
+    "total_price": "40,000",
+    "cashprice": "50,000",
+    "changeprice": "10,000",
+    "menuqty_cnt": "1"
+  }
+}

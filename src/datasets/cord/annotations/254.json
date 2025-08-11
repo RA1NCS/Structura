@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "nm": "Ayam goreng+Sayur asem",
+      "cnt": "1",
+      "price": "51,500"
+    },
+    {
+      "nm": "Nasi Uduk Ayam",
+      "cnt": "1",
+      "price": "47.000"
+    },
+    {
+      "nm": "Nasi Rawon",
+      "cnt": "1",
+      "price": "58.000"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "cnt": "1",
+      "price": "9.000"
+    },
+    {
+      "nm": "Mineral Water",
+      "cnt": "2",
+      "price": "18.000"
+    },
+    {
+      "nm": "Teh Tawar Dingin",
+      "cnt": "2",
+      "price": "22.000"
+    },
+    {
+      "nm": "Sayur Asem",
+      "cnt": "1",
+      "price": "19 000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "224.500",
+    "service_price": "11 225",
+    "tax_price": "23.573"
+  },
+  "total": {
+    "total_price": "259.298",
+    "menuqty_cnt": "9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "M-Ovaltine Macchiat",
+      "unitprice": "@31,000",
+      "cnt": "2X",
+      "price": "62,000",
+      "sub": [
+        {
+          "nm": "70%"
+        },
+        {
+          "nm": "No Ice"
+        }
+      ]
+    },
+    {
+      "nm": "M-Konjac Milk Tea",
+      "unitprice": "@32,000",
+      "cnt": "1X",
+      "price": "32,000",
+      "sub": {
+        "nm": "100%"
+      }
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "94,000"
+  },
+  "total": {
+    "total_price": "94,000",
+    "changeprice": "0",
+    "creditcardprice": "94,000"
+  }
+}

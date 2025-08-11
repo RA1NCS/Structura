@@ -1,0 +1,97 @@
+{
+  "menu": [
+    {
+      "nm": "UDANG REBUS (M)",
+      "cnt": "1",
+      "price": "162,000",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "ANGSIO TH PC JMR",
+      "cnt": "1",
+      "price": "147,000",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "AYAM GR KERING",
+      "cnt": "1",
+      "price": "108,000",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "BIHUN GORENG JJ",
+      "cnt": "1",
+      "price": "87,000",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "NASI GORENG NJUN",
+      "cnt": "1",
+      "price": "87,000",
+      "sub": {
+        "nm": "=*MEDIUM*="
+      }
+    },
+    {
+      "nm": "HOT TEA",
+      "unitprice": "12,000",
+      "cnt": "5",
+      "price": "60,000"
+    },
+    {
+      "nm": "IKAN GURAME MED SOP IKAN",
+      "cnt": "1",
+      "price": "158,000"
+    },
+    {
+      "nm": "CUMI GR JUNJAN",
+      "cnt": "1",
+      "price": "172,000",
+      "sub": {
+        "nm": "=*LARGE*=="
+      }
+    },
+    {
+      "nm": "SUP BURUNG DARA",
+      "cnt": "1",
+      "price": "38,000"
+    },
+    {
+      "nm": "ICED TEA",
+      "cnt": "1",
+      "price": "12,000"
+    },
+    {
+      "nm": "CHINESE TEA KWAN'IM",
+      "cnt": "1",
+      "price": "14,000"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "unitprice": "10,000",
+      "cnt": "2",
+      "price": "20,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "1,065,000",
+    "service_price": "63,900",
+    "tax_price": "112,890",
+    "etc": [
+      "959,000",
+      "86,000",
+      "20,000"
+    ]
+  },
+  "total": {
+    "total_price": "1,241,790"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "CHO MOUSSE",
+      "price": "20,000"
+    },
+    {
+      "nm": "GRAPE JELLY",
+      "price": "13,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "30,000",
+    "tax_price": "3,000"
+  },
+  "total": {
+    "total_price": "33,000",
+    "cashprice": "50,000",
+    "changeprice": "17,000"
+  }
+}

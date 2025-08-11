@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "nm": "SB 1 HC",
+      "cnt": "1",
+      "price": "27,727"
+    },
+    {
+      "nm": "CHARGE TA",
+      "cnt": "1",
+      "price": "909"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "28,636",
+    "tax_price": "2,864"
+  },
+  "total": {
+    "total_price": "31,500",
+    "cashprice": "50,000",
+    "changeprice": "18,500",
+    "menuqty_cnt": "2"
+  }
+}

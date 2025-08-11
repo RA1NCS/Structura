@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "RB. COKLAT BAR",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "RB. COKLAT BUN",
+      "cnt": "1",
+      "price": "8,000"
+    },
+    {
+      "nm": "RB. CREPES CHICKEN",
+      "cnt": "1",
+      "price": "9,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "25,000"
+  },
+  "total": {
+    "total_price": "25,000",
+    "cashprice": "50,000",
+    "changeprice": "25,000",
+    "menutype_cnt": "3",
+    "menuqty_cnt": "3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Popcorn Salt (M)",
+    "cnt": "1",
+    "price": "40.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "40.000",
+    "cashprice": "50.000",
+    "changeprice": "10.000"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "nm": "LE MINERALE 600ML",
+      "unitprice": "3100",
+      "cnt": "1",
+      "price": "3,100"
+    },
+    {
+      "nm": "PLASTIK SDG",
+      "unitprice": "1",
+      "cnt": "1",
+      "discountprice": "(1)",
+      "price": "1"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "3,100",
+    "tax_price": "282"
+  },
+  "total": {
+    "total_price": "3,100",
+    "cashprice": "5,000",
+    "changeprice": "1,900"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "Kopi Susu Sudirman",
+    "unitprice": "18.000",
+    "cnt": "1x",
+    "price": "18.000",
+    "sub": {
+      "nm": "Hot"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "18.000",
+    "tax_price": "1.800"
+  },
+  "total": {
+    "total_price": "19.800",
+    "cashprice": "50.000",
+    "changeprice": "30.200"
+  }
+}

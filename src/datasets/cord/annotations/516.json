@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nm": "ChicTeriyakiTeishoku",
+      "cnt": "1",
+      "price": "59,000"
+    },
+    {
+      "nm": "JapaneseBeef Hamburg",
+      "cnt": "1",
+      "price": "43,000"
+    },
+    {
+      "nm": "Ocha Cold",
+      "cnt": "1",
+      "price": "15,000"
+    },
+    {
+      "nm": "Ocha Hot",
+      "cnt": "1",
+      "price": "15,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "132,000",
+    "service_price": "9,900",
+    "tax_price": "14,190"
+  },
+  "total": {
+    "total_price": "156,090",
+    "menutype_cnt": ":4",
+    "menuqty_cnt": ":4"
+  }
+}

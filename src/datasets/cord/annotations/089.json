@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "Mineral Water",
+    "cnt": "1",
+    "price": "5.000"
+  },
+  "sub_total": {
+    "subtotal_price": "Rp 5.000"
+  },
+  "total": {
+    "total_price": "Rp 5.000",
+    "cashprice": "Rp 5.000",
+    "changeprice": "Rp 0"
+  }
+}

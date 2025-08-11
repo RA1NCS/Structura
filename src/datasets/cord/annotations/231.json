@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "nm": "NASI KUNING",
+      "unitprice": "@36500",
+      "cnt": "2X",
+      "discountprice": "-29,200",
+      "price": "73,000"
+    },
+    {
+      "nm": "CENTIKPLANCI",
+      "unitprice": "@6500",
+      "cnt": "3X",
+      "discountprice": "-7,800",
+      "price": "19,500"
+    },
+    {
+      "nm": "MIKA KECIL",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    },
+    {
+      "nm": "PLASTIK SEDANG",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    },
+    {
+      "nm": "SENDOK MAKAN",
+      "unitprice": "@ 0",
+      "cnt": "1X",
+      "price": "0"
+    },
+    {
+      "nm": "SENDOK MAKAN",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    },
+    {
+      "nm": "GARPU",
+      "unitprice": "@ 0",
+      "cnt": "1X",
+      "price": "0"
+    },
+    {
+      "nm": "GARPU",
+      "unitprice": "@0",
+      "cnt": "1X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "55,500"
+  },
+  "total": {
+    "total_price": "55,500",
+    "cashprice": "100,000",
+    "changeprice": "44,500",
+    "menuqty_cnt": "11.00xITEMs"
+  }
+}

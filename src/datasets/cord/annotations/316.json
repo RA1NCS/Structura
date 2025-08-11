@@ -1,0 +1,56 @@
+{
+  "menu": [
+    {
+      "nm": "Peach Tea",
+      "cnt": "3",
+      "price": "44,400"
+    },
+    {
+      "nm": "Lemon Tea",
+      "cnt": "4",
+      "price": "59,200"
+    },
+    {
+      "nm": "Chicken Kazan Curry",
+      "cnt": "1",
+      "price": "69,800",
+      "sub": {
+        "nm": "** = NUKE =",
+        "price": "---"
+      }
+    },
+    {
+      "nm": "Chicken Karamiso Special",
+      "cnt": "1",
+      "price": "54,800"
+    },
+    {
+      "nm": "Chicken Shio Special",
+      "cnt": "2",
+      "price": "109,600"
+    },
+    {
+      "nm": "Beef Set A",
+      "cnt": "1",
+      "price": "99,800",
+      "sub": [
+        {
+          "nm": "* Beef Sukiyaki Ramen Sh",
+          "price": "---"
+        },
+        {
+          "nm": "* Chicken Gyoza",
+          "price": "---"
+        }
+      ]
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "437,600",
+    "service_price": "21,880",
+    "tax_price": "45,948"
+  },
+  "total": {
+    "total_price": "505,428"
+  }
+}

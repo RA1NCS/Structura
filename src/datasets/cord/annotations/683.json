@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "Shampo Aloevera",
+      "unitprice": "46000",
+      "cnt": "1",
+      "price": "46000"
+    },
+    {
+      "nm": "Sabun Propolis",
+      "unitprice": "31000",
+      "cnt": "1",
+      "price": "31000"
+    },
+    {
+      "nm": "Sabun Transparant Madu",
+      "unitprice": "25000",
+      "cnt": "1",
+      "price": "25000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "102000"
+  },
+  "total": {
+    "cashprice": "102000",
+    "changeprice": "0"
+  }
+}

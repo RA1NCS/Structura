@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "nm": "KWE BUN SAPI",
+      "price": "39,090"
+    },
+    {
+      "nm": "KWE GR CMP",
+      "price": "39,090"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "78,180",
+    "tax_price": "7,818"
+  },
+  "total": {
+    "total_price": "85,998",
+    "cashprice": "100,000",
+    "changeprice": "14,002"
+  }
+}

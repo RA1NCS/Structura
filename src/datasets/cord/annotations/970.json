@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "KaraageCurryTeishoku",
+      "cnt": "1",
+      "price": "69,000"
+    },
+    {
+      "nm": "Lemon Plate",
+      "cnt": "1",
+      "price": "19,000"
+    },
+    {
+      "nm": "Ocha Hot",
+      "cnt": "1",
+      "price": "15,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "103,000",
+    "service_price": "7,725",
+    "tax_price": "11,073"
+  },
+  "total": {
+    "total_price": "121,798",
+    "menutype_cnt": "3",
+    "menuqty_cnt": "3"
+  }
+}

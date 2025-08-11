@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "nm": "TEH TAWAR",
+      "cnt": "1",
+      "price": "5,454"
+    },
+    {
+      "nm": "AIR MINERAL",
+      "cnt": "2",
+      "price": "15,454"
+    },
+    {
+      "nm": "I TRIPL CHZ",
+      "cnt": "1",
+      "price": "18,636"
+    },
+    {
+      "nm": "I SPECIAL SBL MATAH",
+      "cnt": "1",
+      "price": "18,181"
+    },
+    {
+      "nm": "I ROA GORENG SPC",
+      "cnt": "1",
+      "price": "18,181"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "75,906",
+    "tax_price": "7,590"
+  },
+  "total": {
+    "total_price": "83,497",
+    "cashprice": "100,000",
+    "changeprice": "-16,503",
+    "menutype_cnt": "5",
+    "menuqty_cnt": "6"
+  }
+}

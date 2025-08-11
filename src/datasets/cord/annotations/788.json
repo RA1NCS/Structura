@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "MIE MERAH PG",
+      "cnt": "1",
+      "price": "Rp 38,181"
+    },
+    {
+      "nm": "MIE CINCANG",
+      "cnt": "1",
+      "price": "19,090"
+    },
+    {
+      "nm": "HAI CMP SPC",
+      "cnt": "1",
+      "price": "Rp 50,000"
+    }
+  ],
+  "sub_total": {
+    "tax_price": "10,727"
+  },
+  "total": {
+    "total_price": "Rp 117,998",
+    "cashprice": "200,000",
+    "changeprice": "82,000"
+  }
+}

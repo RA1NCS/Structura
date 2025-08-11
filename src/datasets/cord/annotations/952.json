@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "KENTHIR 2",
+      "cnt": "2",
+      "price": "42.000"
+    },
+    {
+      "nm": "KOL GORENG",
+      "cnt": "2",
+      "price": "6.000"
+    },
+    {
+      "nm": "TEH MANIS",
+      "cnt": "2",
+      "price": "8.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "56.000"
+  },
+  "total": {
+    "total_price": "56.000",
+    "cashprice": "56.000",
+    "changeprice": "0"
+  }
+}

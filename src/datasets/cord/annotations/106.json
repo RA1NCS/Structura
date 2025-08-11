@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "nm": "Toblerone BanCheese",
+      "cnt": "1",
+      "price": "28,182"
+    },
+    {
+      "nm": "Roast Beef Crepes",
+      "cnt": "1",
+      "price": "15,455"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "43,637",
+    "tax_price": "4,364"
+  },
+  "total": {
+    "total_price": "48,001",
+    "cashprice": "100,000",
+    "changeprice": "51,999"
+  }
+}

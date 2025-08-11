@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "nm": "BREAD BOX M",
+      "cnt": "1",
+      "price": "4,000"
+    },
+    {
+      "nm": "PEACH PASTRY",
+      "cnt": "3",
+      "price": "51,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "55,000",
+    "creditcardprice": "55,000"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "nm": "ES ILAT BOYO",
+      "cnt": "1",
+      "price": "15.000"
+    },
+    {
+      "nm": "NASI PUTIH",
+      "cnt": "1",
+      "price": "7.000"
+    },
+    {
+      "nm": "SAMBEL TOMAT SEG",
+      "cnt": "1",
+      "price": "5.000"
+    },
+    {
+      "nm": "SAYAP AYAM",
+      "cnt": "1",
+      "price": "17.000"
+    },
+    {
+      "nm": "TEA TAWAR",
+      "cnt": "1",
+      "price": "6.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "50.000",
+    "service_price": "1.500",
+    "tax_price": "5.150"
+  },
+  "total": {
+    "total_price": "56,650",
+    "menuqty_cnt": "5"
+  }
+}

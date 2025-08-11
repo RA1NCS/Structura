@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "nm": "PIS COK KEJU",
+      "discountprice": "-2,300",
+      "price": "11,500"
+    },
+    {
+      "nm": "COKLAT KEJU",
+      "discountprice": "-2,200",
+      "price": "11,000"
+    },
+    {
+      "nm": "BANANA KISMIS",
+      "discountprice": "-2,400",
+      "price": "8,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "23,600"
+  },
+  "total": {
+    "total_price": "23,600",
+    "cashprice": "50,000",
+    "changeprice": "26,400"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "nm": "PHO BO TAI",
+    "cnt": "1",
+    "price": "55,000"
+  },
+  "sub_total": {
+    "subtotal_price": "55,000",
+    "tax_price": "5,500"
+  },
+  "total": {
+    "total_price": "60,500",
+    "cashprice": [
+      "100,000",
+      "100,000"
+    ],
+    "changeprice": "39,500"
+  }
+}

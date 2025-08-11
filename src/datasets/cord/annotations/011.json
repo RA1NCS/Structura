@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "nm": "Ayam Bakar",
+      "cnt": "2",
+      "price": "55.000"
+    },
+    {
+      "nm": "Nasi Putih",
+      "cnt": "2",
+      "price": "20.000"
+    },
+    {
+      "nm": "Nila Bakar/Goreng",
+      "cnt": "1",
+      "price": "27,500"
+    },
+    {
+      "nm": "Sop Gurame",
+      "cnt": "1",
+      "price": "87.000"
+    },
+    {
+      "nm": "Teh Poci",
+      "cnt": "1",
+      "price": "25.000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "214.500",
+    "service_price": "12.870",
+    "tax_price": "22.737"
+  },
+  "total": {
+    "total_price": "250,107"
+  }
+}

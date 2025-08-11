@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "THAI ICED TEA",
+    "unitprice": "@20.000",
+    "cnt": "2",
+    "price": "40.000"
+  },
+  "sub_total": {
+    "subtotal_price": "40.000"
+  },
+  "total": {
+    "total_price": "40.000",
+    "cashprice": "100.000",
+    "changeprice": "60.000"
+  }
+}

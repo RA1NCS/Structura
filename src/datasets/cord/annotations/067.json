@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "Popcorn Salt Bucket",
+    "cnt": "1",
+    "price": "65.000"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "65.000",
+    "cashprice": "65.000",
+    "changeprice": "0"
+  }
+}

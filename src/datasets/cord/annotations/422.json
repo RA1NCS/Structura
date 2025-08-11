@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "Thai Tea - ICE",
+      "cnt": "1",
+      "price": "20.000"
+    },
+    {
+      "nm": "Green Tea ICE",
+      "cnt": "1",
+      "price": "22.000"
+    },
+    {
+      "nm": "Thai Coffee ICE",
+      "cnt": "1",
+      "price": "20.000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "62.000",
+    "cashprice": "62.000",
+    "changeprice": "0"
+  }
+}

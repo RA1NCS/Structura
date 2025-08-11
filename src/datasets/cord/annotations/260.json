@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "nm": "BITTERBALLEN",
+      "cnt": "1.0",
+      "price": "33,000"
+    },
+    {
+      "nm": "MOZZARELA STICK",
+      "cnt": "1.0",
+      "price": "55,000"
+    },
+    {
+      "nm": "NOUGAT ICE CREAM",
+      "cnt": "1.0",
+      "price": "20,000"
+    },
+    {
+      "nm": "SAUCYS BROOD",
+      "cnt": "1.0",
+      "price": "19,000"
+    },
+    {
+      "nm": "AMANDEL BROOD",
+      "cnt": "1.0",
+      "price": "18,000"
+    },
+    {
+      "nm": "BOKKEPOOTJES",
+      "cnt": "1.0",
+      "price": "90,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "235,000",
+    "tax_price": "23,500"
+  },
+  "total": {
+    "total_price": "258,500",
+    "creditcardprice": "258,500",
+    "menuqty_cnt": "6 Item(s)"
+  }
+}

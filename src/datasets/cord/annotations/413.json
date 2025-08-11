@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "nm": "CHIKATSU BEN",
+      "unitprice": "20,000",
+      "cnt": "10X",
+      "price": "200,000"
+    },
+    {
+      "nm": "BOX T. O",
+      "unitprice": "1,000",
+      "cnt": "10X",
+      "price": "10,000"
+    },
+    {
+      "nm": "OCHA",
+      "unitprice": "4,000",
+      "cnt": "10X",
+      "price": "40,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "250,000",
+    "tax_price": "25,000"
+  },
+  "total": {
+    "total_price": "275,000",
+    "cashprice": "300,000",
+    "changeprice": "25,000"
+  }
+}

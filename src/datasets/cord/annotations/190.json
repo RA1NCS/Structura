@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "SOONDUBU CHIGE",
+      "cnt": "1",
+      "price": "75,000"
+    },
+    {
+      "nm": "JAP CHAE",
+      "cnt": "1",
+      "price": "105,000"
+    },
+    {
+      "nm": "GOCHUJANG SAMGYEOPSAL",
+      "cnt": "1",
+      "price": "120,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "300,000",
+    "discount_price": "0",
+    "service_price": "21,000",
+    "tax_price": "30,000"
+  },
+  "total": {
+    "total_price": "351,000",
+    "changeprice": "0",
+    "creditcardprice": "351,000"
+  }
+}

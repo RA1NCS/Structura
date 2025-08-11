@@ -1,0 +1,100 @@
+{
+  "menu": [
+    {
+      "nm": "Pangsit Delima",
+      "cnt": "1",
+      "price": "27,000"
+    },
+    {
+      "nm": "Lumpia Udg K Th",
+      "cnt": "1",
+      "price": "30,000"
+    },
+    {
+      "nm": "Ha Kaou Udng",
+      "cnt": "1",
+      "price": "28,000"
+    },
+    {
+      "nm": "Cheong Fen Udg",
+      "cnt": "1",
+      "price": "35,000"
+    },
+    {
+      "nm": "Hatosi Rambutan",
+      "cnt": "2",
+      "price": "60,000"
+    },
+    {
+      "nm": "Sio May Kpting",
+      "cnt": "1",
+      "price": "23,500"
+    },
+    {
+      "nm": "Kwo Tie Jala2",
+      "cnt": "1",
+      "price": "50,000"
+    },
+    {
+      "nm": "Pancake Durian",
+      "cnt": "1",
+      "price": "32,000"
+    },
+    {
+      "nm": "Mie Gr Udg Gala",
+      "cnt": "1",
+      "price": "65,000"
+    },
+    {
+      "nm": "Lamien Udang T",
+      "cnt": "1",
+      "price": "46,000"
+    },
+    {
+      "nm": "Lamien Aym Ktsu",
+      "cnt": "1",
+      "price": "46,000"
+    },
+    {
+      "nm": "Ns Pgng Kj Sp",
+      "cnt": "1",
+      "price": "55,000"
+    },
+    {
+      "nm": "Kwt Polos Mdn",
+      "cnt": "1",
+      "price": "23,500"
+    },
+    {
+      "nm": "N Aym Hainam Jl",
+      "cnt": "1",
+      "price": "39,000"
+    },
+    {
+      "nm": "Chinese Tea",
+      "cnt": "1",
+      "price": "35,000"
+    },
+    {
+      "nm": "Ice Lemon Tea",
+      "cnt": "1",
+      "price": "16,000"
+    },
+    {
+      "nm": "Mineral Water",
+      "cnt": "2",
+      "price": "18,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "629,000",
+    "service_price": "31,450",
+    "tax_price": "66,045"
+  },
+  "total": {
+    "total_price": "726,495",
+    "cashprice": "726,500",
+    "menutype_cnt": "17",
+    "menuqty_cnt": "19"
+  }
+}

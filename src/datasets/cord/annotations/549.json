@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "[MD] SOFT STEAMED CHOCOCA",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "[MD] SOFT STEAMED CHEESEC",
+      "cnt": "1",
+      "price": "10,000"
+    },
+    {
+      "nm": "[MD] MINI CASTELLA ORIGIN",
+      "cnt": "1",
+      "price": "11,000"
+    },
+    {
+      "nm": "REDBEAN BREAD",
+      "cnt": "2",
+      "price": "18,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "49,000",
+    "cashprice": "100,000",
+    "changeprice": "51,000"
+  }
+}

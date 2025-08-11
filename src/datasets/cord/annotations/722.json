@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "nm": "CRUNCHY CHOC",
+      "price": "157,000",
+      "sub": [
+        {
+          "nm": "DUS 15",
+          "price": "0"
+        },
+        {
+          "nm": "PLASTIK SEDANG BESAR",
+          "price": "0"
+        },
+        {
+          "nm": "PISAU TART",
+          "price": "0"
+        }
+      ]
+    },
+    {
+      "nm": "FREE LILIN SPIRAL",
+      "unitprice": "@0",
+      "cnt": "5X",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "157,000"
+  },
+  "total": {
+    "total_price": "157,000",
+    "cashprice": "157,000"
+  }
+}

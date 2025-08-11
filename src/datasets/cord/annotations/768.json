@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "nm": "TWIST DONUT",
+      "cnt": "1",
+      "price": "9,000"
+    },
+    {
+      "nm": "PAIN AU CAFE MOCHA",
+      "cnt": "4",
+      "price": "46,000"
+    },
+    {
+      "nm": "POTATO SAUSAGE BREAD",
+      "cnt": "1",
+      "price": "19,000"
+    },
+    {
+      "nm": "ROYAL CHEESE TART",
+      "cnt": "1",
+      "price": "16,000"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "90,000",
+    "cashprice": "100,000",
+    "changeprice": "10,000"
+  }
+}

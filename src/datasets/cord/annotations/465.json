@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "nm": "NASI RAMES",
+      "price": "15,000"
+    },
+    {
+      "nm": "AYAM PANGGANG",
+      "price": "22,000"
+    },
+    {
+      "nm": "ES TEH/TAWAR",
+      "price": "11,000"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "48,000",
+    "service_price": "3,600",
+    "tax_price": "5,160"
+  },
+  "total": {
+    "total_price": "56,760",
+    "cashprice": "56,760"
+  }
+}

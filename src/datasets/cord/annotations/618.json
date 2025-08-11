@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "SUKIYAKI BEEF RICE DEALJAVA",
+    "cnt": "1",
+    "price": "41,728"
+  },
+  "sub_total": {
+    "subtotal_price": "41,728",
+    "tax_price": "4,173"
+  },
+  "total": {
+    "total_price": "45,901",
+    "total_etc": "[45,901]",
+    "changeprice": "0"
+  }
+}

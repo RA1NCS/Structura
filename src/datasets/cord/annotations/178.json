@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "nm": "GARISH PC",
+      "num": "LA12392NVS",
+      "price": "259.000"
+    },
+    {
+      "nm": "PLASTIK BAG;: 000 PC",
+      "num": "HP66000",
+      "price": "0"
+    }
+  ],
+  "sub_total": {},
+  "total": {
+    "total_price": "259.000",
+    "creditcardprice": "-259,000",
+    "menuqty_cnt": "2"
+  }
+}

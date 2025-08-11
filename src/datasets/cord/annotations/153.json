@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "nm": "GIGA",
+    "price": "Rp 57,000",
+    "sub": [
+      {
+        "nm": "CUP GIGA"
+      },
+      {
+        "nm": "CHEESE"
+      },
+      {
+        "nm": "S. CREAM"
+      }
+    ]
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "Rp 57,0000",
+    "cashprice": "Rp 57,000"
+  }
+}

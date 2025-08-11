@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "nm": "VANBOOLEN",
+      "price": "9,000"
+    },
+    {
+      "nm": "JONGKONG",
+      "discountprice": "-4,650",
+      "price": "15,500"
+    },
+    {
+      "nm": "PLASTIK KECIL",
+      "price": "0"
+    },
+    {
+      "nm": "SENDOK BEBEK",
+      "price": "0"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "19,850"
+  },
+  "total": {
+    "total_price": "19,850",
+    "cashprice": "20,000",
+    "changeprice": "150"
+  }
+}

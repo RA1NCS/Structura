@@ -1,0 +1,23 @@
+{
+  "menu": {
+    "nm": "Lychee Tea",
+    "cnt": "1",
+    "price": "20,000",
+    "sub": [
+      {
+        "nm": "+ Ice"
+      },
+      {
+        "nm": "+H"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "20.000"
+  },
+  "total": {
+    "total_price": "20.000",
+    "cashprice": "50.000",
+    "changeprice": "30.000"
+  }
+}

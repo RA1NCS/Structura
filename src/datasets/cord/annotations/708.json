@@ -1,0 +1,56 @@
+{
+  "menu": {
+    "nm": "PAKET BER4 UP2",
+    "cnt": "1",
+    "price": "149,091",
+    "sub": [
+      {
+        "nm": "BREAD N CHEESE DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "MAYO BEEF BRUSCTA DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "MAC N CHEEESE DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "BOLOGNAISE FUSILI DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "MANGO TEA HANGAT DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "LIME JUICE DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "SC/P SPICY TUNA DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "SC/P THOUSAND ISL DEL",
+        "cnt": "1"
+      },
+      {
+        "nm": "SUNRISE ITALIAN SODA",
+        "cnt": "1"
+      },
+      {
+        "nm": "GREEN ITALIAN SODA",
+        "cnt": "1"
+      }
+    ]
+  },
+  "sub_total": {
+    "subtotal_price": "149,091",
+    "tax_price": "14,909"
+  },
+  "total": {
+    "total_price": "164,000"
+  }
+}

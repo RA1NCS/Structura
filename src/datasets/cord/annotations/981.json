@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+      "nm": "SURIMI",
+      "cnt": "1",
+      "price": "29,091"
+    },
+    {
+      "nm": "CREAMY CHK CLS FTC",
+      "cnt": "1",
+      "price": "42,727"
+    },
+    {
+      "nm": "MIX 4FUN CHOCOLATE",
+      "cnt": "1",
+      "price": "19,091"
+    },
+    {
+      "nm": "GREEN ITSODA PITCHER",
+      "cnt": "1",
+      "price": "60,909"
+    },
+    {
+      "nm": "SC/R GRILLED STEAK",
+      "cnt": "1",
+      "price": "99,091"
+    }
+  ],
+  "sub_total": {
+    "subtotal_price": "250,909",
+    "tax_price": "25,091"
+  },
+  "total": {
+    "total_price": "276,000"
+  }
+}

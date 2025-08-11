@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "nm": "THAI ICED COFFEE",
+    "unitprice": "@22.000",
+    "cnt": "1",
+    "price": "22.000"
+  },
+  "sub_total": {
+    "subtotal_price": "22.000"
+  },
+  "total": {
+    "total_price": "22.000",
+    "cashprice": "22.000",
+    "changeprice": "0"
+  }
+}

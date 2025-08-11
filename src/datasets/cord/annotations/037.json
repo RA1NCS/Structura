@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "nm": "MINI CHOCO",
+    "price": "13,500"
+  },
+  "sub_total": {
+    "subtotal_price": "12,273",
+    "tax_price": "1,227"
+  },
+  "total": {
+    "total_price": "13,500",
+    "cashprice": "14,000",
+    "changeprice": "500"
+  }
+}

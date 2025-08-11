@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "nm": "S-Chocolate Milk",
+    "unitprice": "@20,000",
+    "cnt": "1X",
+    "price": "20,000",
+    "sub": {
+      "nm": "Less Ice"
+    }
+  },
+  "sub_total": {
+    "subtotal_price": "20,000",
+    "tax_price": "0"
+  },
+  "total": {
+    "total_price": "20,000",
+    "cashprice": "20,000",
+    "changeprice": "0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nm": "GRAINS PAN BREAD",
+    "cnt": "1",
+    "price": "20,500"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "20,500",
+    "cashprice": "50,000",
+    "changeprice": "29,500"
+  }
+}

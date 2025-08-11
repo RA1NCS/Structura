@@ -1,0 +1,14 @@
+{
+  "menu": {
+    "nm": "REGULAR",
+    "unitprice": "35000.00",
+    "cnt": "2",
+    "price": "70000.00"
+  },
+  "sub_total": {},
+  "total": {
+    "total_price": "70000.00",
+    "total_etc": "70000.00",
+    "changeprice": "0.00"
+  }
+}
