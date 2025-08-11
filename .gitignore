@@ -1,0 +1,12 @@
+*.env
+.cursor
+.codacy
+0_noupload/
+archive
+papers
+paper/
+.DS_Store
+settings.json
+__pycache__
+basic
+src/benchmarks/

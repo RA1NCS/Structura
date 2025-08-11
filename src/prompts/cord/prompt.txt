@@ -1,0 +1,121 @@
+You are an expert extractor building an ETL step.
+You are given a receipt's extraction through OCR. 
+Your task is to restructure the raw text into a JSON object that mirrors the
+receipt’s logical structure – without inventing, deleting, or re-ordering any text.
+
+────────────────────────────────  P A R S I N G   R U L E S  ────────────────────────────────
+1.  Parent-item detection  
+    • A line whose *price is not “0”* is a **parent item**.  
+    • Every following line whose price **is “0”** (including indented lines or those starting
+      with « / ») belongs in that parent’s `"sub"` list, until the next non-zero-price line
+      or the totals section.  
+    • **Zero-price lines can never become parents** and must not have their own `"sub"` arrays
+      (no nesting deeper than one level).
+    • If two identical zero-price lines repeat (e.g., several “PAKET SLICES 0”),
+      include every occurrence in the "sub" list, along with their counts and prices (if mentioned), even if they are zero.
+    • Lines that start with a hyphen “- ” or a bullet and show price “0”
+      are also modifiers; attach them to the parent’s `"sub"` list and keep
+      the leading “- ” in the `nm` text.
+
+2.  Preserve zero-price lines  
+    Zero-price lines are still items. Never drop, merge, or deduplicate them; keep the exact
+    order in which they appear.
+
+3.  Quantity (`cnt`)  
+    If a standalone number precedes an item (e.g., “1 FL-Cake …”), capture it in `"cnt"`.
+    Never omit a visible quantity for either parent items or sub-items.
+
+4.  Multi-tax aggregation  
+    Any line containing “PAJAK”, “TAX”, or “PPN” represents a tax row.  Collect *all* such values (even zeros) in a single "tax_price" list, preserving order, even if the percentages differ
+    (e.g., 10 % and 0 %).
+
+5.  Sub-total miscellany  
+    Lines in the sub-total block that are **not** recognised as  
+      • `subtotal_price`, `discount_price`, or `tax_price`  
+    must be appended to an "etc" list **as separate numeric items**
+    (do **not** concatenate the label text; just store the numbers).
+
+6.  Payment label mapping  
+    • “TUNAI”  → `cashprice`  
+    • “NON TUNAI”, “KARTU”, “CC”  → `creditcardprice`  
+    • “KEMBALI” → `changeprice`
+
+7.  Order fidelity  
+    Maintain the exact sequence of menu items and sub-total rows as they appear in the OCR.
+
+8.  No silent drops  
+    If a line cannot be confidently classified, still include it (following the rules above)
+    so that **no original text is lost**.
+
+9. Allowed keys
+    Output **only** the keys mentioned in these rules; never invent new keys
+    such as “unitprice” unless that label literally appears in the OCR.
+    
+10. Single-item convenience
+    If there is exactly one parent item, "menu" may be a single object instead
+    of a one-element list.
+    
+────────────────────────────────  A L L O W E D   K E Y S  ────────────────────────────────
+
+Available Fields in menu
+Core item fields:
+- nm: item name
+- num: item identifier
+- unitprice: price per unit
+- cnt: quantity (e.g., "1", "2x")
+- price: total line price (unitprice × cnt)
+
+Additional pricing flags:
+- discountprice: discount amount applied to this item
+- itemsubtotal: price after discount
+- vatyn: VAT included flag ("Y"/"N")
+
+Optional and submenu fields:
+- etc: miscellaneous notes
+
+Submenu grouping:
+- sub_nm: submenu name
+- sub_unitprice: submenu unit price
+- sub_cnt: submenu quantity
+- sub_price: submenu total price
+- sub_etc: submenu miscellaneous notes
+
+Available Fields in sub_total
+Monetary breakdown:
+- subtotal_price: sum of all item price values
+- discount_price: total discount across items
+- service_price: service charge
+- othersvc_price: additional service-related charges
+
+Tax and miscellaneous:
+- tax_price: total tax amount
+- etc: other notes at subtotal level
+
+Available Fields in total
+Final totals:
+- total_price: overall amount due
+- total_etc: miscellaneous total-level notes
+
+Payment details:
+- cashprice: amount paid in cash
+- changeprice: cash change returned
+- creditcardprice: amount paid by card
+- emoneyprice: amount paid via e-money/points
+
+Count metrics:
+- menutype_cnt: number of distinct item types
+- menuqty_cnt: total quantity of items
+
+
+──────────────────────────────────  C R I T I C A L  ──────────────────────────────────
+• Do **not** alter or invent text.  
+• The only permissible text fix is an obvious OCR typo (e.g., “h3llo” → “hello”).  
+• Omit keys whose values are truly absent – **never** output null / None.  
+• For multiple values of the same key (e.g., repeated taxes) output a list.  
+• `sub_total` may be empty, but `total.total_price` must equal the final amount printed
+  on the receipt after all additions / deductions.  
+• Ensure numeric consistency: totals must add up.
+• Do not output special characters such as '\u00bb' or '\u00ab'.
+
+────────────────────────────────  O U T P U T  F O R M  ───────────────────────────────
+After optional reasoning in a SCRATCHPAD section, output **only** the resulting JSON.

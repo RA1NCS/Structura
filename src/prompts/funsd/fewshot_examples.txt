@@ -1,0 +1,2545 @@
+
+====================================================================================================
+EXAMPLE 1
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+TOP-LINES MENTHOL PRODUCT TEST
+PDC #
+C273-82-7
+PROJECT #
+1982-102KL
+PAGE #
+Lof 4
+SUBJECT :
+KOOL Lights KS vs. Bright KS Product Monitor
+SAMPLE :
+408 (100 Menthol Lights/105 Menthol Ultra, 111 Non-Menthol
+Lights/92 Non-Menthol Ultras)
+FIELD DATE:
+September 13, 1982
+TAR
+NIC
+MOIST
+MENT
+CIGARETTES:
+# 839 /
+869
+KOOL Lights KS - white tip-
+9.1
+.88
+14.0
+.474
+ping masked
+869 /
+839
+Bright KS white tipping -
+5.5
+.55
+13.5
+.841
+masked/ a certain proportion of the menthol result is pep- permint oil; R&D is unable to determine the percentage.
+PREFERENCE :
+Total
+Total Menthol Smokers
+Male
+Female
+21-34
+35+
+(n=)
+(205)
+(99)
+(106)
+(96)
+(109)
+KOOL Lights
+53+++
+60+++
+46
+56+++
+50
+Bright
+39
+34
+43
+35
+42
+No Preference
+8
+6
+11
+9
+8
+100
+100
+100
+100
+100
+ATTRIBUTES:
+Total
+Male
+Female
+21-34
+35+
+KL
+Bright
+KL
+Bright
+KL
+Bright
+KL
+Bright
+KL
+Bright
+STRENGTH
+4.31 ***
+4.59
+4.09 **
+4.45
+4.51
+4.71
+4.35 **
+4.74.
+4.27
+4.45
+(7=Stronger) SMOOTHNESS
+3.60 **
+3.42
+3.73 **
+3.43
+3.47
+3.41
+3.61*
+3.38
+3.58
+3.46
+(7=Smoother) AMT. MENTHOL
+3.64 ***
+4.94
+3.58 ***
+4.85
+3.70 ***
+5.02
+3.63 ***
+5.31
+3.65 ***
+4.61
+(7=More) MENTHOL TASTE
+3.39 ***
+3.04
+3.46 ***
+3.02
+3.33 **
+3.06
+3.45 ***
+2.99
+3.34 **
+3.08
+(7=Better) SATISFYING
+3.12 ***
+2.78
+3.28 ***
+2.78
+2.97*
+2.78
+3.17 ***
+2.74
+3.08 **
+2.82
+(7=More) AFTERTASTE
+3.56 ***
+3.24
+3.69 ***
+3.21
+3.44
+3.26
+3.52 ***
+3.07
+3.60*
+3.39
+(7=Pleasant) CASE OF DRAW
+4.00
+3.96
+4.02
+3.95
+3.99
+3.96
+4.07 **
+3.92
+3.94
+3.99
+(7=Easier) WTF. Attribute scores reflect a comparison of the test product to the smoker's most often brand.
++/-/* ++/ -- / **
+Directional Difference: Marginal Difference:
+66-79% Confidence Level 80-94% Confidence Level
++++/ --- / ***
+Significant Difference:
+95+% Confidence Level
+620915734
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "PDC #": "C273- 82- 7",
+    "PROJECT #": "1982 102KL",
+    "PAGE #": "1 of 4",
+    "SUBJECT:": "KOOL Lights KS vs. Bright KS Product Monitor",
+    "SAMPLE:": [
+        "408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol",
+        "Lights / 92 Non- Menthol Ultras)"
+    ],
+    "FIELD DATE:": "September 13, 1982",
+    "CIGARETTES:": [
+        "# 839 / 869",
+        "# 369 / 839"
+    ],
+    "Bright KS white tipping-": [
+        "5. 5",
+        ".55",
+        "13. 5",
+        ".841"
+    ],
+    "KOOL Lights KS- white tip-, ping masked": [
+        "9.1",
+        ".88",
+        "14.0",
+        ".4 4"
+    ],
+    "KOOL Lights": [
+        "53+++",
+        "60+++",
+        "46",
+        "56+++",
+        "50"
+    ],
+    "Bright": [
+        "39",
+        "34",
+        "43",
+        "35",
+        "42"
+    ],
+    "No Preference": [
+        "8",
+        "6",
+        "11",
+        "9",
+        "8"
+    ],
+    "Total, (205)": [
+        "53+++",
+        "39",
+        "8",
+        "200"
+    ],
+    "Male, (99)": [
+        "60+++",
+        "34",
+        "6",
+        "100"
+    ],
+    "Female, (106)": [
+        "46",
+        "43",
+        "11",
+        "100"
+    ],
+    "21- 34, (96)": [
+        "56+++",
+        "35",
+        "9",
+        "100"
+    ],
+    "35+, 109": [
+        "50",
+        "42",
+        "8",
+        "100"
+    ],
+    "Directional Difference:": "66 79% confidence Level",
+    "Marginal Difference:": "80- 94% confidence Level",
+    "Significant Difference:": "95+% confidence Level",
+    "KL": [
+        "4.31***",
+        "3.60**",
+        "3.39***",
+        "3.12***",
+        "3.56***",
+        "4.00"
+    ],
+    "Bright_2": [
+        "4.59",
+        "3.42",
+        "4.94",
+        "3.04",
+        "2.78",
+        "3.24",
+        "3.96"
+    ],
+    "KL_2": [
+        "4.09**",
+        "3.73**",
+        "3.58***",
+        "3.46***",
+        "3.28***",
+        "3.69***",
+        "4.02"
+    ],
+    "Bright_3": [
+        "4.45",
+        "3.43",
+        "4.85",
+        "3.02",
+        "2.78",
+        "3.21",
+        "3.95"
+    ],
+    "KL_3": [
+        "4.51",
+        "3.47",
+        "3.70***",
+        "3.33**",
+        "2.97*",
+        "3.44",
+        "3.99"
+    ],
+    "Bright_4": [
+        "4.71",
+        "3.41",
+        "5.02",
+        "3.06",
+        "2.78",
+        "3.26",
+        "3.96"
+    ],
+    "KL_4": [
+        "4.35**",
+        "3.61*",
+        "3.63***",
+        "3.45***",
+        "3.17***",
+        "3.52***",
+        "4.07**"
+    ],
+    "Bright_5": [
+        "4.74",
+        "3.38",
+        "5.31",
+        "2.99",
+        "2.74",
+        "3.07",
+        "3.92"
+    ],
+    "KL_5": [
+        "4.27",
+        "3.58",
+        "3.65***",
+        "2.34**",
+        "3.08**",
+        "3.60*",
+        "3.94"
+    ],
+    "Bright_6": [
+        "4.45",
+        "3.46",
+        "4.61",
+        "2.08",
+        "2.82",
+        "3.39",
+        "3.99"
+    ],
+    "STRENGTH, (7= Stronger)": [
+        "4.31***",
+        "4.59",
+        "4.09**",
+        "4.45",
+        "4.51",
+        "4.71",
+        "4.35**",
+        "4.74",
+        "4.27",
+        "4.45"
+    ],
+    "SMOOTHNESS, (7= 5moother": [
+        "3.60**",
+        "3.42",
+        "3.73**",
+        "3.43",
+        "3.47",
+        "3.61*",
+        "3.41",
+        "3.38",
+        "3.46"
+    ],
+    "(7= Stronger)": "3.41",
+    "AMT MENTHOL, (7= More)": [
+        "3.64***",
+        "4.94",
+        "4.85",
+        "3.70***",
+        "5.02",
+        "3.63***",
+        "5.31",
+        "3.65***",
+        "4.61"
+    ],
+    "MENTHOL TASTE, (7= Better": [
+        "3.39***",
+        "3.04",
+        "3.46***",
+        "3.02",
+        "3.33**",
+        "3.06",
+        "3.45***",
+        "2.99",
+        "2.34**",
+        "2.08"
+    ],
+    "SATISFYING, (7= More": [
+        "3.12***",
+        "2.78",
+        "3.28***",
+        "2.78",
+        "2.97*",
+        "2.78",
+        "3.17***",
+        "2.74",
+        "3.08**",
+        "2.82"
+    ],
+    "APTERTASTE, (7= Pleasant)": [
+        "3.56***",
+        "3.24",
+        "3.69***",
+        "3.21",
+        "3.44",
+        "3.26",
+        "3.52***",
+        "3.07",
+        "3.60*",
+        "3.39"
+    ],
+    "EASE OF DRAW, 17 Easier": [
+        "4.00",
+        "3.96",
+        "4.02",
+        "3.95",
+        "3.99",
+        "3.96",
+        "4.07**",
+        "3.92",
+        "3.94",
+        "3.99"
+    ],
+    "TAR": "",
+    "NIC": "",
+    "MOIST": "",
+    "MENT": "",
+    "[HEADER]": [
+        "PREFERENCE:",
+        "ATTRIBUTES:",
+        "Total",
+        "Male",
+        "Female",
+        "35+",
+        "TOP- LINES",
+        "MENTHOL PRODUCT TEST",
+        "21- 34"
+    ],
+    "[OTHER]": [
+        "(n=)",
+        "620915734",
+        "+/-/*",
+        "++/--/**",
+        "+++/---/***",
+        "Attribute",
+        "scores",
+        "reflectia",
+        "a",
+        "comparison",
+        "of",
+        "the",
+        "test",
+        "product",
+        "to",
+        "the",
+        "smoker's",
+        "most",
+        "often",
+        "brand",
+        "NOTE",
+        "masked / a certain proportion of the menthol result is pep-",
+        "perrront oil; R&D is unable to determine the percentage.",
+        "Total Menthol Smokers"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 2
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+BROWN & WILLIAMSON
+1994
+COLLECTION
+PHOTOCOPYING VARIANCE FORM
+This form was placed before Bates ID 670805266 AT THE TIME OF REPRODUCTION, THE FOLLOWING NOTATIONS WERE MADE:
+< ) DOCUMENT COPIES ARE IN THE SAME SEQUENCE AS THEY APPEARED IN THE ORIGINAL.
+(
+) PAGE NUMBER (S) WERE MISSING IN THE ORIGINAL.
+( :selected:
+) POOR QUALITY ORIGINAL. faded
+(
+) OVERLAY ITEM COULD NOT BE REMOVED WITHOUT DAMAGE TO THE ORIGINAL.
+(
+) NO DOCUMENTS WERE FOUND WITHIN THE ORIGINAL:
+< ) FILE FOLDER (. ) REDROPE EXPANDABLE FILE
+( ) HANGING FILE ( ) ENVELOPE ( ) OTHER (SPECIFY)
+(
+) DOCUMENT COPIES WERE REPRODUCED IN COLOR TO PERMIT CORRECTION INTERPRETATION.
+(
+) BATES NUMBER NOT USED.
+( ) OTHER VARIANCE (EXPLAIN) . :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected:
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "AT THE TIME OF REPRODUCTION, THE, FOLLOWING NOTATTONS WERE MADE:": "\u2611 ) POOR QUALITY ORIGINAL. faded",
+    "This form was placed before Bates ID": "",
+    "[HEADER]": "BROWN & WILLAMSON, 1994 COLLECTION, PROTOCOPYING VARIANCE FORM"
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 3
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+b
+1
+(
+P. 'LORILLARD CO. , INC. RESEARCH DIVISION QUALITY CONTROL DEPARTMENT SMOKE ANALYSIS AND BURNING TEST REPORT WEEKLY PRODUCTION LITTLE CIGARS NON FILTERS WSEK ENDING 11/25/66
+Characteristic Tested
+BETWEEN-THE-ACTS 25 23 mm. Butt
+MADISON 25 25 mm. Butt
+Smoke Analysis
+Present Sample
+Mean of Last 12 Samples
+Present Sample
+Mean of Last 12 Samples
+Weight
+1.089
+1.106
+1.111
+1.132
+Draw
+0.34
+0.37
+0.34
+0.37
+Tar
+39.7
+35.6
+37.6
+31.0
+Nicotine
+4.26
+3.83
+3.45
+2.99
+1 ction to Litmus
+Basic
+Basic
+Basic
+Basic
+urn Test
+Static -Complete Cigar
+0
+23
+11
+23
+-1/2 Cigar
+5
+0
+5
+0
+-1/3 Cigar
+7
+1
+4
+1
+-Went out immediately
+12
+0
+4
+0
+Dynamic -Time in seconds
+-% Burned Completely
+SQC-36
+C
+0
+80620665
+1
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "Weight": [
+        "1 .089",
+        "1 .106",
+        "1 .111",
+        "1 .132"
+    ],
+    "Draw": [
+        "0. .34",
+        "0 .37",
+        "0 .34",
+        "0\uf703 .37"
+    ],
+    "Tar": [
+        "39. .7",
+        "35 .6",
+        "37 .8",
+        "31 .0"
+    ],
+    "Nicotine": [
+        "4 .26",
+        "3 .83",
+        "3 .45",
+        "2 2.99"
+    ],
+    " ction to Litmus": [
+        "Basic",
+        "Basic",
+        "Basic",
+        "Basic"
+    ],
+    "Static -Complete, Cigar": [
+        "0",
+        "23",
+        "11",
+        "23"
+    ],
+    "-1 /2 Cigar": [
+        "5",
+        "0",
+        "5",
+        "0"
+    ],
+    "-1 /3 Cigar": [
+        "7",
+        "1",
+        "4",
+        "1"
+    ],
+    "-Went out, immediately": [
+        "12",
+        "0",
+        "4",
+        "0"
+    ],
+    "Present Sample": [
+        "1 .089",
+        "0. .34",
+        "39. .7",
+        "4 .26",
+        "Basic",
+        "0",
+        "5",
+        "7",
+        "12"
+    ],
+    "Mean of Last, 12 Samples": [
+        "1 .106",
+        "23",
+        "0 .37",
+        "35 .6",
+        "3 .83",
+        "Basic",
+        "0",
+        "1",
+        "0"
+    ],
+    "Present Sample_2": [
+        "1 .111",
+        "0 .34",
+        "37 .8",
+        "3 .45",
+        "Basic",
+        "11",
+        "5",
+        "4",
+        "4"
+    ],
+    "Mean of Last, 12 Samples_2": [
+        "1 .132",
+        "0\uf703 .37",
+        "31 .0",
+        "2 2.99",
+        "Basic",
+        "23",
+        "0",
+        "1",
+        "0"
+    ],
+    "Dynamic -Time in, seconds": "",
+    "-% Burned, Completely": "",
+    "Characteristic Tested": "",
+    "[HEADER]": [
+        "BETWEEN THE ACTS, 25 %% mm. Butt",
+        "MADISON, 25  mm. Butt",
+        "P. LORILLARD CO. , INC. RESEARCH DIVISION, QUALITY CONTROL DEPARTMENT, SMOKE ANALYSIS AND BURNING TEST REPORT, WEEKLY PRODUCTION LITTLE CIGARS, NON FILTERS, WEEK ENDING 11/ 25 /66",
+        "Smoke Analysis",
+        "urn Test"
+    ],
+    "[OTHER]": [
+        "80620665",
+        "SOC- 36"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 4
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+09/17/97 10:55 2503 841 1898
+LORILLARD PILD :selected: 001
+TO:
+K. A. Sparrow
+FROM:
+T. D. Blachly
+MAY 12
+AUG 4
+JUN 23
+SEP 15
+X :selected:
+SUBJECT:
+OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S - PROGRESS REPORT
+GEOFTAPHY
+REGION:
+(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+DIVISION:
+DIVISION:
+Portland
+# REPS:
+6
+DIVISION:
+Boise
+# REPS: 2.5
+DIVISION:
+Eugene
+# REPS: 5
+DIVISION: Seattle South
+# REPS: 7
+DIVISION: Seattle North
+# REPS: 4
+DIVISION: Helena
+# REPS: 4
+DISTRIBUTION
+DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S
+NAME OF ACCOUNT
+INDILOR VOLUME
+NO. DE STORES
+NAME OF ACCOUNT
+AND LOR VOLUME
+NOS O STORES
+Texaco - Scattle
+105 / 5
+225
+Texaco - Portland
+61 / 3
+27
+Maid-O-Clover
+20 / 2
+15
+Dari-Mart
+125 / 5
+31
+Zip Trip
+106 / 4
+18
+Maverick
+77 / 1
+19
+Astro Gas
+600 / 7
+20
+82200067
+A-1: OGMUD-15.xls
+Page1 of 3 Pages :unselected: :unselected: :unselected:
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "TO:": "K. A. Sparrow",
+    "FROM:": "T. D. Blachly",
+    "DIVISION:": "Portland # REPS: 6",
+    "DIVISION:_2": "Boise # REPS: 2. 5",
+    "DIVISION:_3": "Eugene # REPS: 5",
+    "REGION:": "(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION (S) SCOPE)",
+    "DIVISION:_4": "Seattle South # REPS: 7",
+    "DIVISION:_5": "Seattle North # REPS: 4",
+    "DIVISION:_6": "Helena # REPS: 4",
+    "NO. OF, STORES": [
+        "225",
+        "18",
+        "27",
+        "15",
+        "31",
+        "19",
+        "20"
+    ],
+    "NAME OF ACCOUNT": [
+        "Texaco  Seattle",
+        "Texaco  Portland",
+        "Maid -O Clover",
+        "Dari Mart",
+        "Zip Trip",
+        "Maverick",
+        "Astro Gas"
+    ],
+    ", VOLUME": [
+        "105 / 5",
+        "61 / 3",
+        "20 / 2",
+        "125 / 5",
+        "77 / 1",
+        "106 / 4",
+        "600 / 7"
+    ],
+    "SUBJECT:": "OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S  PROGRESS REPORT",
+    "Submission Date": "SEP 15, x",
+    ", VOLUME_2": "",
+    "NO. OF, STORES_2": "",
+    "NAME OF ACCOUNT_2": "",
+    "[OTHER]": [
+        "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION, (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S",
+        " ,   OGMU9-15",
+        "82200067",
+        "09/ 17/ 97 10: 55  603 841 1898",
+        "\u2611 001",
+        "Page 1 of 3 Pages"
+    ],
+    "[HEADER]": [
+        "DIVISION:",
+        "LORILLARD PTLD"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 5
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+CENTER FOR INDOOR AIR RESEARCH 1099 WINTERSON ROAD SUITE 280 LINTHICUM, MD. 21090 (410) 684-3777 FAX (410) 684-3729
+APPLICATION FOR RESEARCH CONTRACT
+1. PRINCIPAL INVESTIGATOR. NAME, TITLE, TELEPHONE # AND MAILING ADDRESS.
+(A)
+Steven R. Kleeberger, Ph.D.
+(B)
+Associate Professor
+(c)
+(410) 955-3515/955-0299
+NAME
+TITLE
+TELEPHONE #/ FAX #
+(D) Environmental Health Sciences
+(E)
+Johns Hopkins University, School of Hyg. & Pub. Hith.
+DEPARTMENT
+INSTITUTION
+(F) 615 North Wolfe Street, Baltimore, Maryland
+(G)
+21205
+MAILING ADDRESS
+STATE/ZIP
+2.PROJECT TITLE. Mechanisms of Chronic Ozone Exposure: Role of Inflammation
+3. KEY WORDS. PLEASE PROVIDE THREE (3) KEY WORDS WHICH WILL BE USED AS REFERENCE HEADINGS.Ozone, Inflammation, Mast Cell
+4. INSTITUTION. NAME AND ADDRESS OF INSTITUTION RESPONSIBLE AND ACCOUNTABLE FOR DISPOSITION OF FUNDS AWARDED ON THE BASIS OF THIS APPLICATION.
+(A)
+Johns Hopkins University
+(B)
+615 North Wolfe Street
+INSTITUTION
+STREET ADDRESS
+(c) Baltimore
+(D) Maryland
+21205
+CITY
+STATE/ZIP
+5. LOCATION. LIST LOCATION WHERE RESEARCH WILL BE CONDUCTED IF OTHER THAN INSTITUTION IDENTIFIED IN #4 ABOVE.
+(A)
+(B)
+6.INCLUSIVE DATES AND TOTAL COSTS OF THIS SPECIFIC PROJECT RELATED TO EACH 12 MONTH PERIOD IF MORE THAN ONE YEAR IS REQUIRED TO COMPLETE PROJECT. SUMMARIZE FROM BUDGET PAGE, ITEM 12(1). IT MUST BE UNDERSTOOD THAT AWARDS FOR 2ND AND 3RD PERIODS ARE DEPENDENT ON CENTER APPROVAL OF CONTINUATION APPLICATION.
+(A) 1ST 12 MONTH PERIOD 01/01/94 INCLUSIVE DATE THRU
+12/31/94
+TOTAL COST $ 210,910
+(B) 2ND 12 MONTH PERIOD IF REQUIRED
+01/01/95
+THRU
+12/31/95
+$ 212,481
+(c) 3RD 12 MONTH PERIOD IF REQUIRED
+01/01/96
+THRU
+12/31/96
+$ 220,416
+7. INSTITUTIONAL OFFICER. NAME, TITLE AND TELEPHONE NUMBER OF INDIVIDUAL AUTHORIZED TO SIGN FOR THE INSTITUTION IDENTIFIED IN #4 ABOVE. IT IS UNDERSTOOD THAT THE OFFICER, IN APPLYING FOR & CONTRACT, HAS READ AND FOUND ACCEPTABLE THE CENTER'S MANAGEMENT OF RESEARCH CONTRACTS AND CONTRACT ADMINISTRATION POLICY.
+(A) Alan M. Goldberg, Ph.D.
+Assoc. Dean/for Research
+NAME
+TITLE
+(c) (410) 955-9253
+(D)
+(E) 5/26/93
+TELEPHONE
+SIGNATURE OF INSTITUTIONAL OFFICER
+DATE
+8.PRELIMINARY STUDIES *.
+(A) FEASIBILITY OF PROPOSED RESEARCH
+(B) QUALIFICATIONS OF INVESTIGATOR
+9. EXPERIMENTAL PLAN *.
+(A) DESIGN
+(B) METHODS
+(C) ANALYSIS OF DATA
+(D) INTERPRETATION OF RESULTS
+(E) TIMETABLE FOR THE INVESTIGATION
+(F) LITERATURE CITED
+10. AVAILABLE FACILITIES AND RESOURCES.
+11. OTHER SUPPORT
+* APPEND AS MUCH MATERIAL AS REQUIRED. TYPE, SINGLE SPACE, USE 8-1/2" X 11" WHITE PAPER AND LABEL EACH SHEET WITH NAME OF THE PRINCIPAL INVESTIGATOR IN THE UPPER RIGHT HAND CORNER AND PAGE NUMBER AT THE BOTTOM. CONSECUTIVELY NUMBER EACH ADDENDUM BEGINNING WITH PAGE 5. DO NOT INSERT PAGES BETWEEN PAGES 1 AND 6, E.G., 2A, 2B, 3A, ETC. INCLUDE NINE COPIES AND AN ORIGINAL. IF SENDING PHOTOGRAPHS, INCLUDE 2 ORIGINAL SETS. NOTE: EACH OF THE NINE COPIES MUST BE PLACED IN A BINDER PER MAILING INSTRUCTIONS.
+87594142
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "(A), NAME": "Steven R. Kleeberger, Ph. D.",
+    "(a), TITLE": "Associate Professor",
+    "(c), TELEPHONE": "(410) 955-3515/955-0299",
+    "(D), DEPARTMENT": "Environmental Health Sciences",
+    "(E), INSTITUTION": "Johns Hopkins University, School of Hyg. & Pub. Hlth.",
+    "(F), MAILING ADDRESS": "615 North Wolfe Street, Baltimore, Maryland",
+    "(G), STATE/ZIP": "21205",
+    "2. PROJECT TITLE": "Mechanisms of Chronic Ozone Exposure: Role of Inflammation",
+    "3. KEY WORDS PLEASE PROVIDE THREE (3) KEY WORDS WHICH WILL BE USED AS REFERENCE HEADINGS Ozone,": "Inflammation, Mast Cell",
+    "(A), INSTITUTION": "Johns Hopkins University",
+    "(a), STREET, ADDRESS": "615 North Wolfe Street",
+    "(C), City": "Baltimore",
+    "(D), STATE/ZIP": "Maryland 21205",
+    "5. LOCATION LIST LOCATION WHERE RESEARCH WILL BE CONDUCTED IF OTHER THAN INSTITUTION IDENTIFIED IN #4 ABOVE.": "(A), (B)",
+    "(A) 1ST 12 MONTH PERIOD": "01/01/94",
+    "(B) 2ND 12 MONTH PERIOD IF REQUIRED": "01/01/95",
+    "(C) 3RD 12 MONTH PERIOD IF REQUIRED": "01/01/96",
+    "THRU": "12/31/94",
+    "THRU_2": "12/31/95",
+    "THRU_3": "12/31/96",
+    "$": "210, 910",
+    "$_2": "212, 481",
+    "$_3": "220, 416",
+    "INCLUSIVE DATE": [
+        "01/01/94",
+        "01/01/95",
+        "01/01/96"
+    ],
+    "TOTAL COST": [
+        "210, 910",
+        "212, 481",
+        "220, 416"
+    ],
+    "(A), NAME_2": "Alan M. Goldberg, Ph. D.",
+    "(B), TITLE": "Assoc. Dean for Research",
+    "(E), DATE": "5/26/93",
+    "4. INSTITUTION NAME AND ADDRESS OF INSTITUTION RESPONSIBLE AND ACCOUNTABLE FOR DISPOSITION OF FUNDS AWARDED ON THE BASIS, OF THIS APPLICATION.": "",
+    "6. INCLUSIVE DATES AND TOTAL COSTS OF THIS SPECIFIC PROJECT RELATED TO EACH 12 MONTH PERIOD IF MORE THAN ONE YEAR IS, REQUIRED TO COMPLETE PROJECT. SUMMARIZE FROM BUDGET PAGE ITEM 12(s). IT MUST BE UNDERSTOOD THAT AWARDS FOR 2ND AND 3RD, PERIODS ARE DEPENDENT ON CENTER APPROVAL OF CONTINUATION APPLICATION.": "",
+    "7. INSTITUTIONAL OFFICER. NAME, TITLE AND TELEPHONE NUMBER OF INDIVIDUAL AUTHORIZED TO SIGN FOR THE INSTITUTION IDENTIFIED, IN #4 ABOVE. IT IS UNDERSTOOD THAT THE OFFICER, IN APPLYING FOR A CONTACT. HAS READ AND FOUND ACCEPTABLE THE CENTER'S, MANAGEMENT OF RESEARCH CONTRACTS AND CONTRACT ADMINISTRATION POLICY.": "",
+    "(D), SIGNATURE OF INSTITUTIONAL OFFICER": "",
+    "1. PRINCIPAL INVESTIGATOR NAME, TITLE, TELEPHONE # AND MAILING ADDRESS.": "",
+    "(C)": "",
+    "TELEPHONE #/FAX#": "",
+    "8. PRELIMINARY STUDIES*": "",
+    "(B) QUALIFICATIONS OF INVESTIGATOR": "",
+    "9. EXPERIMENTAL PLAN*": "",
+    "(A) DESIGN": "",
+    "(B) METHODS": "",
+    "(C) ANALYSIS OF DATA": "",
+    "(D) INTERPRETATION RESULTS": "",
+    "(D) TIMETABLE FOR THE INVESTIGATION": "",
+    "(F) LITERATURE CITED": "",
+    "10. AVAILABLE FACILITIES AND RESOURCES": "",
+    "11. OTHER SUPPORT": "",
+    "(A) FEASIBILITY OF PROPOSED RESEARCH": "",
+    "[HEADER]": "APPLICATION FOR, RESEARCH CONTRACT",
+    "[OTHER]": [
+        "* APPEND AS MUCH MATERIAL AS REQUIRED TYPE, SINGLE SPACE USE 8-1/2 x 11\" WHITE PAPER AND LABEL EACH SHEET WITH NAME THE, PRINCIPAL NVESTIGATOR IN THE UPPER RIGHT HAND CORNER AND PAGE NUMBER AT THE BOTTOM. CONSECUTIVELY NUMBER EACH ADDENDUM, BEGINNING WITH PAGES 5. DO NOT INSERT PACES BETWEEN PAGES 1 AND 6 E.G. 2A 2B 3A ETC. INCLUDE NINE COPIES AND AN ORIGINAL If, SENDING PHOTOGRAPHS, INCLUDE 2 ORIGINAL SETS. NOTE: EACH OF THE NINE COPIES MUST BE PLACED IN  BINDER PER MAILING, INSTRUCTIONS.",
+        "87594142",
+        "CENTER FOR INDOOR AIR RESEARCH",
+        "1099 WINTERSON ROAD SUITE 280 LINTHICUM, MD. 21090",
+        "(410) 684-3777 FAX (410) 684-3729"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 6
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+Today's Date 3/20/78
+TO:
+Mr. Plinn
+Mr. Gantman
+Mr. Goldbrenner
+Mr. Donahue
+(Loews )
+Mr. Dufry
+(Loews) 2
+(Loews )
+Mr. Miele
+Mr. Hudson (Greensboro )
+Dr. fichultz (Greensboro)
+Mr. Tucker (Greensboro ) Dr. Jones
+(Greensboro )
+PRODUCT
+EF1
+MRD #
+5546/478
+PROJECT ORIGINATED BY
+William Doyle
+1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:
+Alabama :selected:
+Alaska
+Arizona :selected:
+Arkansas :selected:
+California :selected:
+Colorado :selected:
+Connecticut :selected:
+Delaware :selected:
+D. C. :selected:
+Florida
+Georgia :selected:
+Hawaii
+Idaho
+Illinois
+X :selected:
+Indiana
+Iowa
+Kansas :selected:
+Kentucky
+x :selected:
+Louisiana :selected:
+Maine :selected:
+Maryland :selected:
+.
+Massachusetts
+Michigan :selected:
+Minnesota
+X :selected:
+Mississippi
+X :selected:
+Missouri
+X :selected:
+Montana
+X :selected:
+Nebraska
+X :selected:
+Nevada
+New Hampshire :selected:
+New Jersey :selected:
+New Mexico :selected:
+New York :selected:
+Wyoming
+X :selected:
+North Carolina :selected:
+North Dakota :selected:
+Ohio :selected:
+Oklahoma
+Oregon :selected:
+Pennsylvania :selected:
+Rhode Island :selected:
+South Carolina :selected:
+South Dakota
+Tennessee :selected:
+Texas
+Utah :selected:
+Vermont :selected:
+Virginia
+x :selected:
+Washington
+West Virginia :selected:
+Wisconsin :selected:
+*Chicago, Ill.
+x :selected:
+*NYC, N. Y.
+X :selected:
+2. ESTIMATED TEST PRODUCT QUANTITIES (PER MARKET)
+PRODUCT
+QUANTITY
+Code #
+Code #
+741
+519
+Varies by market,
+753
+934
+see attached list.
+827
+639
+Approx. 20% of the
+462
+total # by state
+will receive product.
+ESTIMATED TOTALS BY PRODUCT
+(ALL MARKETS COMBI NED )
+(4's, 5's, 20's etc. )
+All are 20's
+2a.
+PRODUCT
+QUANTITY
+(4's, 5's, 20's etc. )
+Code #741
+1920 Packs
+Code #753
+1920 Packs
+All are 20's
+Code_#827
+960 Packs
+Code #462
+960 Packs
+Code #519
+1920 Packs
+Code #934
+1920 Packs
+Code #639
+1920 Packs
+Special Comments:
+91161344 :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :selected: :unselected:
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "TO:": [
+        "Mr. Flinn",
+        "Mr. Goldbrenner",
+        "Mr. Gaalman",
+        "Mr. Donahue (Loews)",
+        "Mr. Duffy (Loews)",
+        "Mr. Miele (Loews)",
+        "Mr. Hudson (Greensboro)",
+        "Dr. Schultz (Greensboro",
+        "Mr. Tucker (Greensboro)",
+        "Dr. Jones (Greensboro)"
+    ],
+    "PRODUCT": "EF1",
+    "MRD #": "5546/478",
+    "Alabama X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Arizona X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Arkansas X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "California X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Colorada X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Connecticut X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Delaware X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    " Tennessee X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Utah X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Vermont X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Virginia X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Wisconsin X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Wyoming X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Louisiana": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Maine X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Maryland X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Minnesota X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Mississippi X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Missouri X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Montana X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Nebraska X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Ohio X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Illinois X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Kansas X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "QUANTITY": [
+        "Varies by market,",
+        "see attached list.",
+        "Approx. 20% of the",
+        "total # by state",
+        "will receive product"
+    ],
+    "PRODUCT, Code #": [
+        "741",
+        "753",
+        "827",
+        "462"
+    ],
+    "Code #": [
+        "519",
+        "934",
+        "639"
+    ],
+    "QUANTITY_2": [
+        "1920 Packs",
+        "1920 Packs",
+        "960 Packs",
+        "960 Packs",
+        "1920 Packs",
+        "1920 Packs",
+        "1920 Packs"
+    ],
+    "Today's Date": "3/20/78",
+    "PROJECT ORIGINATED BY": "William Doyle",
+    "D. C. X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "New Hampshire X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "New Jersey X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "New Mexico X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "New York X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "North Carolina X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "North Dakota X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    " Pennsylvania X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "Rhode Island X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "South Carolina X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "South Dakota": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "West Virginia X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "*Chicago, Ill. X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "*NYC, N. Y. X": "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:",
+    "(4's, 5's, 20's etc.)": "All are 20's",
+    "(4's, 5's, 20's etc.)_2": "All are 20's",
+    "Code # 741": "PRODUCT",
+    "Code # 753": "PRODUCT",
+    "Code # 327": "PRODUCT",
+    "Code # 462": "PRODUCT",
+    "Code # #519": "PRODUCT",
+    "Code # 934": "PRODUCT",
+    "Cade # 639": "PRODUCT",
+    "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:": [
+        "Arkansas X",
+        "California X",
+        "Georgia",
+        "Alabama X",
+        "Arizona X",
+        "Colorada X",
+        "Connecticut X",
+        "Delaware X",
+        "D. C. X",
+        "Illinois X",
+        "Kansas X",
+        "Kentucky X",
+        "Louisiana",
+        "Maine X",
+        "Maryland X",
+        "Michigan X",
+        "Minnesota X",
+        "Mississippi X",
+        "Missouri X",
+        "Nebraska X",
+        "Montana X",
+        "New Jersey X",
+        "New Hampshire X",
+        "New Mexico X",
+        "New York X",
+        "North Carolina X",
+        "North Dakota X",
+        "Ohio X",
+        "Oregon X",
+        "*NYC, N. Y. X",
+        "*Chicago, Ill. X",
+        "Wyoming X",
+        "Wisconsin X",
+        "West Virginia X",
+        "Virginia X",
+        "Vermont X",
+        "Utah X",
+        " Tennessee X",
+        "South Carolina X",
+        "Rhode Island X",
+        " Pennsylvania X"
+    ],
+    "1. STATES AND CITIES* SELECTED TO RECEIVE PRODUCT:_2": "",
+    "[OTHER]": "91161344",
+    "[HEADER]": [
+        "2. ESTIMATED TEST PRODUCT QUANTITIES (PER MARKET)",
+        "2a. ESTIMATED TOTALS BY PRODUCT ALL MARKETS COMBINED"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 7
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+P. S.
+73-91
+Week of:
+Date Received
+1/25/91
+LASER PERFORATED TIPPING APPEARANCE CHECK HOLE DEPTH, SCORCHING, CRATERING
+Module:
+412
+Brand:
+CARLTON Filter 100's - 4 Mg Laser
+Shift & Date:
+Pulse:
+Mfg. for Taiwan Power:
+FRONT CIGARETTES
+Hole Depth:
+<1 mm 13.0 mm from end
+Scorching :
+Insignificant.
+Cratering :
+None to insignificant.
+Comments :
+Excellent appearance (18 holes) .
+BACK CIGARETTES
+Hole Depth:
+<1 mm 13.0 mm from end
+Scorching :
+Insignificant.
+Cratering :
+None to insignificant.
+Comments :
+Excellent appearance (18 holes) .
+Module:
+Brand:
+Shift & Date:
+Pulse:
+Power :
+FRONT CIGARETTES
+Hole Depth:
+Scorching :
+Cratering :
+Comments :
+BACK CIGARETTES
+Hole Depth:
+Scorching :
+Cratering :
+Comments :
+ATX02 0062194
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "Brand:": "CARLTON Filter 100's - 4 Mg Laser, Mfg. for Taiwan",
+    "Modules:": "412",
+    "Scorching:": "Insignificant.",
+    "Cratering:": "None to insignificant.",
+    "Comments:": "Excellent appearance (18 holes).",
+    "Scorching:_2": "Insignificant.",
+    "Cratering": "None to insignificant.",
+    "Comments:_2": "Excellent appearance (18 holes).",
+    "P. S.": "73 -91",
+    "Date Received": "1 /25 /91",
+    "Hole Depth:": "<1 mm 13 .0 mm from end",
+    "Hole Depth:_2": "<1 mm 13 .0 mm from end",
+    "Power:": "",
+    "Pulse:": "",
+    "Module:": "",
+    "Brand:_2": "",
+    "Pulse:_2": "",
+    "Scorching:_3": "",
+    "Cratering:_2": "",
+    "Comments:_3": "",
+    "Scorching:_4": "",
+    "Cratering:_3": "",
+    "Comments:_4": "",
+    "Power:_2": "",
+    "Week of:": "",
+    "Shift & Date:": "",
+    "Shift & Date:_2": "",
+    "Hole Depth:_3": "",
+    "Hole Depth:_4": "",
+    "[HEADER]": [
+        "LASER PERFORATED TIPPING APPEARANCE CHECK",
+        "HOLE DEPTH, SCORCHING, CRATERING",
+        "FRONT CIGARETTES",
+        "BACK CIGARETTES",
+        "FRONT CIGARETTES",
+        "BACK CIGARETTES"
+    ],
+    "[OTHER]": "ATXO2 0062194"
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 8
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+BT SYSTEM The Corporation Trust Company C T Corporation System and Associaigd Companies
+TO:
+William R. Degenhardt, Tax Director
+The American Tobacco Company
+245 Park Avenue
+New York, New York 10017
+[Authorlind Recipienti
+TO: The Corporation Trust Company
+(C 1 Office)
+New York, New York
+(City]
+(Stole]
+FROM:
+C T Corporation System
+[Originating Åpent]
+Per
+Phyllis G. Jennings
+Jacksonville, Florida
+[Slote)
+[Cny]
+VIA:
+Certified Mail
+DATE:
+1-27-69 :selected:
+Certified Air Moll
+VIA: (X) Certified Mail ( ) Messenger :selected:
+(
+1
+Certified Air Mail
+RE: PROCESS SERVED IN
+FLORIDA
+RECEIVED
+JAN 3 01969
+FOR THE AMERICAN TOBACCO COMPANY INome ol Compony]
+Jurisdiction) YAX DEPT
+N. J.
+[Nome Stasa)
+Enclosed are coples of legal process served upon the statutory agent of the above company as follows:
+1. Title of Action: Reuben Sunstein, Plaintiff, v. The American Tobacco Company, a New Jersey corporation, Defendant.
+2. Document(s) Served: Summons and Complaint
+3. Courl: Circuit Court, Dade County, Florida. No. 69-1351
+4. Nature of Action: For personal injuries resulting after smoking "Pall Mall" and "Lucky Strike" cigarettes manufactured by defendant, wherein plaintiff alleges breach of war- anties, seeks damages in excess of $5, 000 and demands trial by jury.
+5. On Whom Process was Served: Phyllis G. Jonnings, Asst. Socy. , The Corporation Company, Jacksonville, Florida
+6. Dute and Hour of Servicet January 27, 1969 9:00 a. m.
+7. Appearonce or Answer Duet
+8. Plaintiff's Attorney(o):
+Max A. Goldfarb
+414 Biscayne Building
+Miami, Florida
+9. Remarks:
+R.L.P. F.G.A. J.M.C. H.E.F. J.J.G.
+M.A.
+I.F.
+M.G.
+KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM.
+RECEIVED AND FORWARDED ON,
+1/29/69 Detel
+BY: THE CORPORATION TRUST COMPANY
+A. Colvece/78
+Per. V. Colvell, Asst. Secy. 277 Park Avenue
+(Address)
+New York, New York 10017
+NJ 291 6-dd fou stts
+Within 20 days after service, oxclusive of day of service. :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected:
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "TO:": "The Corporation Trust Company",
+    "FROM:": "C T Corporation System",
+    "Per": [
+        "Phyllis G. Jennings",
+        "Jacksonville, Florida"
+    ],
+    "DATE:": "1- -27 -69",
+    "RE:": "PROCESS SERVED",
+    "FOR": "THE AMERICAN TOBACCO COMPANY",
+    "IN": "FLORIDA",
+    "Served:": "Summons and Complaint",
+    "Court:": "Circuit Court, Dade County, Florida. No. 69 -1351",
+    "BY:": "THE CORPORATION TRUST COMPANY",
+    "Per_2": "V. Colvellm Asst. Secy., 277 Park Avenue, New York, New York 10017",
+    "On Whom Process was Served:": "Phyllis G. Jonnings, Asst. Socy,. The Corporation Company,, Jacksonville, Florida",
+    "Date and Hour of Service": "January 27, 1969 9: 00 a. m.",
+    "Appearance or Answer Dues": "Within 20 days after service, exclusive of day of service.",
+    "RECEIVED AND FORWARDED ON": "1 29/29/ 69 (Date)",
+    "VIA:": "(X) Certified Air Mail",
+    "VIA:_2": "(X) Certified Mail",
+    "Title of Action:": "Reuben Sunstein, Plaintiff, v. The American Tobacco Company, a New, Jorsey corporation, Defendant.",
+    "Nature of Action:": "For personal injuries resulting after smoking \"Pall Mall\" and \"Lucky, Strike\" cigarettes manufactured by defendant, wherein plaintiff alleges breach of was-, anties, seeks damages in excess of $5, 000 and demands trial by jury.",
+    "Plaintiff's Attorney(s):": "Max A. Goldfarb, 414 Biscayne Building, Miami, Florida",
+    "Document(s)": "",
+    "Remarks": "",
+    "[OTHER]": [
+        "(city)",
+        "(State)",
+        "(City)",
+        "(Originating",
+        "Agent)",
+        "(State)",
+        "(C",
+        "T.",
+        "Office)",
+        "(Name",
+        "State)",
+        "(Address)",
+        "9.",
+        "8.",
+        "7.",
+        "6.",
+        "5.",
+        "4.",
+        "3.",
+        "2.",
+        "1.",
+        "New York, New York",
+        "N. J.",
+        "Name of Company",
+        "KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO",
+        "US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM,",
+        " Recipienti"
+    ],
+    "[HEADER]": [
+        "C T SYSTEM",
+        "The Corporation Trust Company",
+        "C T Corporation System",
+        "and Associated Companies",
+        "Enclosed are copies of legal proces served upon the statutory agent of the above company as follows:"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 9
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+MA 3317
+TOP-LINES HON-MENTHOL PRODUCT TEST :selected: PROJECT # 19,4-26A
+SUBJECT:
+25% Replacement of Propylene Glycol With SORBITOL
+SAMPLE: 250 VICEROY/125 Marlboro/125 Winston
+CIGARETTES : #627/#647 - Current VICEROY 84
+#647/#627 - Current VICBROY 84 except with 25% of the propylene glycol replaced with SORBITOL.
+"REFERENCE:
+VICEROY
+Competitive
+1 627/647 3 Current VICEROY 84.
+47%
+54 %
+(547/627) 25% PG with SORBITOL
+5.3%
+46 %
+ATTRIBUTESI
+VICEROY
+Competitive
+Current VICEROY 84
+25% PG W SORBITOL
+Current VICEROY 84
+25% PG W/SORBITOL
+(#627/647 )
+(# 647/627)
+(# 627/647)
+(#647/627 )
+STRENGTH
++ 1
+-15*
+-13
+- 4
+HARSHNESS
+++ 5
+- 5
+7
++ 7*
+AFTERTASTE
++22
++21
++14
++26*
+*Statistically Significant
+NOTICE IF THE FILM IMAGE IS LESS CLEAR THAN THIS NOTICE. IT IS DUE TO THE QUALITY OF THE DOCUMENT BEING FILMED.
+77905 6 4 3 3
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "SUBJECT:": "25% Replacement of Propylene Glycol With SORBITOL",
+    "SAMPLE:": "250 VICEROY/ 125 Marlboro/ 125 Winston",
+    "PROJECT": "# 19 4- 26A",
+    "REFERENCE": [
+        "(#627/ 647, Current VICEROY 84",
+        "(#647/ 627), 25% PG with SORBITOL"
+    ],
+    "VICEROY": [
+        "47%",
+        "53%"
+    ],
+    "Competitive": [
+        "46%46%",
+        "54%"
+    ],
+    "STRENGTH": [
+        "-15*",
+        "+1",
+        "-13",
+        "-4"
+    ],
+    "HARSHNESS": [
+        "+5",
+        "-5",
+        "-7",
+        "+7*"
+    ],
+    "#627/ 647 -": "Current VICEROY B4",
+    "#647/ #627 -": "Current VICEROY 84 except with, 25% of the propylene glycol, replaced with SORBITOL.",
+    "Current, VICEROY 84, (#647/ 647": [
+        "-13",
+        "-7",
+        "+14"
+    ],
+    "25% PG, w/ SORBITOL, (#647/ 627)": [
+        "-4",
+        "+7*",
+        "+26*"
+    ],
+    "AFTERTASTE": [
+        "+22",
+        "+21",
+        "+14",
+        "+26*"
+    ],
+    "ATTRIBUTES": [
+        "VICEROY",
+        "Competitive"
+    ],
+    "Current, VICEROY 84, (#627/ 647)": [
+        "+1",
+        "+5",
+        "+22"
+    ],
+    "25% PG, w/ SORBITOL, #647/ 627": [
+        "-15*",
+        "-5",
+        "+21"
+    ],
+    "[HEADER]": [
+        "CIGARETTES",
+        "TOP- LINES",
+        "NON- MENTHOL PRODUCT TEST"
+    ],
+    "[OTHER]": [
+        "NOTICE IF THE FILM IMAGE IS LESS CLEAR",
+        "THAN THIS NOTICE. IT IS DUE TO THE",
+        "QUALITY OF THE DOCUMENT BEING FILMED",
+        "77905 6433",
+        "*Statistically Significant"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 10
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+TO:
+K. A. Sparrow
+FROM:
+R. E. Lane
+SUBMISSION DATE
+JUNE 30 :selected: X
+SEP 22 :unselected:
+AUG 11 :unselected:
+NOV 10 :unselected:
+SUBJECT: STYLE LOW PRICE - PROGRESS REPORT
+EFFECTIVENESS OF: Transition Plan
+(Report on June 30 only) PRE-SELL Overall pre-sell efforts were successful. Retall accounts that previously stocked Style Full Price accepted the introduction of the low price.
+BIGIF / 2 FOR 1: Proved to be an excellent tool for pulling the balance of Style Full Price packs through the system. This aided the field greatly during the transition.
+$7.00 CARTON COUPON/BUYDOWN: Effective in those retail calls that we could not exchange product out of. Those situations were limited.
+DISTRIBUTION
+DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO LOW PRICE STYLE
+NAME OF ACCOUNT
+IND/LOR VOLUME
+NO. OF STORES
+NAME OF ACCOUNT
+IND/LOR VOLUME
+NO. OF STORES
+M. Maskos & Sons
+Pollock Candy and Cigar
+Mckeesport Candy Co.
+Sico Serve
+104/22
+18
+Sheetz
+521/42
+150
+Thrift/Eckerd
+137/20
+183
+DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION (15 + STORES) STOCKING NO LOW PRICE STYLE
+NAME OF ACCOUNT
+IND/LOR VOLUME
+NO. OF STORES
+NAME OF ACCOUNT
+IND/LOR VOLUME
+NO. OF STORES
+Kroger
+21
+Rich Oil
+82
+Super America
+106
+CVS
+87
+WH Smith
+5
+7-11 318 Zon
+23
+Dairy Marts
+35
+Widman Drugs
+43
+82253245
+STYLE.XLS
+Page1 of 3 Pages
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "TO:": "K. A. Sparrow",
+    "FROM:": "R. E. Lane",
+    "NAME OF ACCOUNT": [
+        "Sheetz",
+        "M. Maskos & Sons",
+        "Pollock Candy and Cigar",
+        "McKeesport Candy Co.",
+        "Sicc Serva",
+        "Thrift/ Eckerd"
+    ],
+    "NO. OF, STORES": [
+        "18",
+        "150",
+        "183"
+    ],
+    "BIGIF 2 FOR 1:": "Proved to be an excellent tool for pulling the balance of Style Full Price packs through, the system. This aided the field greatly during the transition",
+    "SUBMISSION DATE": "JUNE 30, X",
+    "SUBJECT:": "STYLE LOW PRICE PROGRESS REPORT",
+    "PRE-, SELL": "Overall pre- sell efforts were successful Retail accounts that previously stocked, Style Full Price accepted the introduction of the low price",
+    "$ 7.00 CARTON COUPON/ BUYDOWN:": "Effective in those retail calls that we could not exchange product out of., Those situations were limited.",
+    "IND/ LOR, VOLUME": [
+        "104/ 22",
+        "521/ 42",
+        "137/ 20"
+    ],
+    "NAME OF ACCOUNT_2": [
+        "Kroger",
+        "Rich Oil",
+        "Super America",
+        "cvs",
+        "W H Smith",
+        "7- 11 318 Zon",
+        "Dairy Marts",
+        "Widman Drugs"
+    ],
+    "NO OF, STORES": [
+        "21",
+        "82",
+        "106",
+        "87",
+        "5",
+        "23",
+        "35",
+        "43"
+    ],
+    "IND/ LOR, VOLUME_2": "",
+    "NO. OF, STORES_2": "",
+    "IND/ LOR, VOLUME_3": "",
+    "IND/ LOR, VOLUME_4": "",
+    "NO OF, STORES_2": "",
+    "NAME OF ACCOUNT_3": "",
+    "NAME OF ACCOUNT_4": "",
+    "[OTHER]": [
+        "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION, (15+ STORES) STOCKING NO LOW PRICE STYLE",
+        "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION, (15+ STORES) STOCKING NO LOW PRICE STYLE",
+        "82253245",
+        "(Report on June 30 only)",
+        "STYLE XLS",
+        "Page 1 of 3 Pages"
+    ],
+    "[HEADER]": [
+        "DISTRIBUTION",
+        "EFFECTIVENESS OF: Transition Plan"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 11
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+DEPARTMENT EXPENSE BUDGET SUMMARY
+Form P.O. 1049-A LT-1-71
+288
+LORILLARD, DIVISION OF LOEW'S CORP. Division Sales
+Department Domestic Tax Free
+Dept. Code No.
+PROJECTED CURRENT YEAR EXPENSES 19
+ACCOUNT NO.
+ITEM
+BUDGET YEAR 19
+BUDGET VS. CURRENT YEAR (INCR.) DECR.
+ACTUAL 8 MONTHS
+PROJECTED 4 MONTHS
+TOTAL YEAR
+17,000
+8,500
+25,500
+6450
+Consumer Sampling 4's
+30,000
+( 4,500)
+8,000
+10,000
+18,000
+6460
+Consumer Sampling 20's
+28,000
+(10,000)
+16,000
+4,000
+20,000
+6470
+Consumer Offer Items
+20,000
+19,000
+10,000
+29,000
+6560
+Special Promotion Cost
+42,000
+(13,000)
+91104867
+60,000
+32,500
+92,500
+TOTAL
+120,000
+27,500
+DATE SUBMITTED AND DEPT. MANAGER
+APPROVAL
+Warum 10/10/15
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "Division": "Sales",
+    "Department": "Domestic Tax Free",
+    "ACTUAL, 8 MONTHS": [
+        "17,000",
+        "8.000",
+        "16.000",
+        "19.000",
+        "60,000"
+    ],
+    "PROJECTED, 4 MONTHS": [
+        "8,500",
+        "10,000",
+        "4,000",
+        "10.000",
+        "32,500"
+    ],
+    "TOTAL, YEAR": [
+        "25,500",
+        "18,000",
+        "20,000",
+        "29,000",
+        "92,500"
+    ],
+    "ACCOUNT, NO.": [
+        "6450",
+        "6460",
+        "6470",
+        "6560"
+    ],
+    "ITEM": [
+        "Consumer Sampling 4's",
+        "Consumer Sampling 20's",
+        "Consumer Offer Items",
+        "Special Promotion Cost",
+        "TOTAL"
+    ],
+    "BUDGET, YEAR, 19": [
+        "30,000",
+        "28,000",
+        "20,000",
+        "42,000",
+        "120,000"
+    ],
+    ", VS., CURRENT, YEAR, (INCR.), DECR.": [
+        "4,500)",
+        "(10,000)",
+        "(13,000)",
+        "27,500"
+    ],
+    "Dept., Code No.": "",
+    "APPROVAL": "",
+    "APPROVAL_2": "",
+    "DATE SUBMITTED AND DEPT. MANAGER": "",
+    "[OTHER]": [
+        "LORILLARD, DIVISION DE LOEW'S CORP.",
+        "LT-1.71",
+        "91104867",
+        "Form P.O. 1049-A 788"
+    ],
+    "[HEADER]": [
+        "PROJECTED CURRENT YEAR, EXPENSES 19",
+        "DEPARTMENT EXPENSE BUDGET SUMMARY"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 12
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+THE AMERICAN TOBACCO COMPANY
+SIX STAMFORD FORUM P.O. BOX 10380 STAMFORD CONNECTICUT 06904-2380
+AT 80-M-1 (1-89)
+ADVERTISING AND SELLING AUTHORIZATION
+DO NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR ACCOUNT OF THIS COMPANY UNTIL, EXECUTIVE APPROVAL HAS BEEN OBTAINED HEREON. (BE GUIDED BY PPM 60.020 IN COMPLETING THIS FORM.}
+ORIGINATOR SALES
+BRAND
+MEDIUM
+BULL DURHAM
+Filter Box
+BULL DURHAM
+Lights Box
+JOB NO.
+DATE
+02/04/91
+DESCRIPTION
+COLLATERAL MERCHANDISIN MATERIALS
+PERIOD - FROM 01/91
+THRU 03/91
+REMARKS
+To cover the cost of collateral merchandising materials to be used in 1991 in connection with the merchandising and promotion of BULL DURHAM.
+These costs will include but are not exclusive to the the following materials:
+CARTON END PANELS
+LIGHT THIEF
+SCORED CARTONS
+DECALS
+MOBILES
+SHELF DANGLERS
+LABELS
+POSTERS ( LARGE WINDOW) PACKAGE I.D. STRIPS
+SIDING INDOOR TALKERS
+JUMBO PACKS
+TOTAL $ 35,000.00
+APPROVALS
+Agency
+Forecasting
+Marketing
+Sales
+V.P. - Marketing
+Sales
+President
+Chairman/CEO
+ACCOUNTING DISTRIBUTION
+JAN $
+10,000.
+FEB $
+10,000.
+MAR $
+15,000.
+Account Code
+10-
+$20
+Budget Code
+Auth. No.
+$060
+Yr.
+91 :selected:
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "DESCRIPTION": "COLLATERAL MERCHANDISING, MATERIALS",
+    "BRAND": [
+        "BULL DURHAM Filter Box",
+        "BULL DURHAM Lights BOX"
+    ],
+    "JAN": "$ 10.000.",
+    "FEB": "$ 10.000.",
+    "MAR": "$ 15,000.",
+    "Auth No.": "5060",
+    "Account Code": "10- 320",
+    "DATE": "",
+    "MEDIUM": "",
+    "SALES": "",
+    "ORIGINATOR": "",
+    "Agency": "",
+    "Forecasting": "",
+    "Marketing": "",
+    "Sales": "",
+    "Sales_2": "",
+    "President": "",
+    "JOB NO": "",
+    "TOTALS $": "",
+    "V. P. - Marketing": "",
+    "Chairman/ CEO": "",
+    "Budget Code": "",
+    "[HEADER]": [
+        "THE, AMERICAN, TOBACCO, COMPANY",
+        "REMARKS",
+        "APPROVALS",
+        "ACCOUNTING DISTRIBUTION"
+    ],
+    "[OTHER]": [
+        "SIX STAMFORD FORUM, P. O. BOX 10380, STAMFORD CONNECTICUT 06904- 2380",
+        "ADVERTISING AND, SELLING AUTHORIZATION",
+        "DO NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR ACCOUNT OF THIS COMPANY UNTIL EXECUTIVE APPROVAL HAS BEEN OBTAINED HEREON, (BE GUIDED BY PPM 60,020 IN COMPLETING THIS FORM)",
+        "To cover the cost of collateral merchandising materials to be used in 1991, in connection with the merchandising and promotion of BULL DURHAM., These costs will include but are not exclusive to the the following, materials:",
+        "02/04/91",
+        "THRU",
+        "LABELS",
+        "DECALS",
+        "MOBILES",
+        "35,000.00",
+        "Yr.",
+        "91",
+        "AT    [1- 89)",
+        "PERIOD - FROM",
+        "01/ 91",
+        "03/ 91",
+        "CARTON END PANELS",
+        "SCORED CARTONS",
+        "SHELF DANGLERS",
+        "SIDING INDOOR TALKERS",
+        "PACKAGE I. D. STRIPS",
+        "POSTERS (LARGE WINDOW)",
+        "LIGHT THIEF",
+        "JUMBO PACKS"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 13
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+14/12/08 18: 32 FAL 212 450 4800
+Ø UUZ/OUS
+DAVIS POLK & WARDWELL
+Fax Transmittal 450 Lexington Avenue New York, NY 10017 212-450-4000
+Sender
+Charles Duggan
+Date November 12, 1999
+Number of Pages (this page included) 6
+Sender Voice Number 212-450-4785
+If problems receiving this fax, call 212-450-4785
+Sender Fax Number 212-450-3785
+Reference 17555-002
+To Thomas M. Sobol
+Fax Number 617-439-3278
+Company Brown Rudnick Freed & Gesmer
+Recipient Phone Number 617-330-9000
+Joseph F. Rice
+843-720-9290
+Ness, Motley, Loadholt, Richardson & Poole
+843-720-9000
+Robert V. Costello Jeffrey D. Woolf
+617-722-0286
+Schneider, Reilly, Zabin & Costello
+617-227-7500
+Richard M. Heimann
+415-956-1008
+Lieff, Cabraser & Heimann
+415-956-1000
+Michael P. Thornton
+617-720-2445
+Thomton, Early & Naumes
+617-720-1333
+Message:
+83553333
+Confidentiality Note: This faceinniews intended only for the person or entity to whichitis addressed and may contain information thatis privileged, confidential or otherwise protected from disclosure, Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended muipius, w uu employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received thi facsimile in error, please notify us immediately by telephone and return the facsimile by mail.
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "Sender": "Charles Duggan",
+    "To": [
+        "Thomas M. Sobol",
+        "Joseph F. Rice",
+        "Robert V. Costello, Jeffrey D. Woolf",
+        "Richard M. Heimann",
+        "Michael P. Thornton"
+    ],
+    "Reference": "17555 002",
+    "Number of Pages (this page included)": "6",
+    "Fax Transmittal": "450 Lexington Avenue, New York, NY 10017, 212- 450- 4000",
+    "Sender Voice Number": "212- 450- 4785",
+    "If problems receiving this fax, call": "212- 450- 4785",
+    "Sender Fax Number": "212- 450- 3785",
+    "Fax Number": [
+        "617- 439- 3278",
+        "843- 720- 9290",
+        "617- 722- 0286",
+        "415- 956- 1008",
+        "617- 720- 2445"
+    ],
+    "Company": [
+        "Brown Rudnick Freed, & Gesmer",
+        "Ness, Motley,, Loadholt,, Richardson &, Poole",
+        "Schneider, Reilly,, Zabin & Costello",
+        "Lieff, Cabraser &, Heimann",
+        "Thomton, Early &, Naumes"
+    ],
+    "Recipient Phone Number": [
+        "617- 330- 9000",
+        "843- 720 9000",
+        "617- 227- 7500",
+        "415- 956- 1000",
+        "617- 720- 1333"
+    ],
+    "Confidentiality Note": "This    only for the person or entity       may   besi  pavilegedal , of otherwis protected from disclosos. Disscnlation, distribution  popying of the facile  the information herein by anyone other than the , poupil,   waployee   responsible for delivering the message  the    prohibited.  You   thisfacsimile in error, please notify as immediately by telephone and return the facsimile by mail.",
+    "Date": "November, 12,, 1999",
+    "Message:": "",
+    "[OTHER]": [
+        "8355333",
+        "11/ 12/ 99 19: 32 FAA 212 450 4800",
+        "DPW 1048",
+        " UUZ/ DUS"
+    ],
+    "[HEADER]": "DAVIS POLK & WARDWELL"
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 14
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+FA 956(5-85) gl 0081. (d)
+BROWN & WILLIAMSON TOBACCO CORPORATION CAPITAL BUDGET PROJECT
+0465E
+R&D
+Capital Budget
+($000)
+Date Submitted
+Title
+CIGARETTE TEST STATION (CTS400)
+Purpose
+1 :selected: X_ Maintenance of Existing Business
+2 Expansion of Existing Business 6
+3 New Products
+4 Cost Reduction
+7 5 Compliance with Outside Requirements Company Improvements & Administrative Requirements Quality Improvement
+Status This Project is X :selected: Proposed
+Estimate Cost
+EXPENSE
+TOTAL
+CAPITAL
+Approved; Proposal No.
+80
+80
+Q
+Project Dates Submission
+88
+Start
+7
+88
+Completion
+11
+88
+Yr.
+Mo.
+Yr.
+Mo.
+Yr.
+PROJECT DESCRIPTION
+The Cigarette Test Station (CTS400) combines many of the stand-alone instruments that R&D currently uses to measure cigarette weight, pressure drop, ventilation, and hardness into one compact module. The CTS400 has the additional measurement of cigarette hardness in comparison with the CTS300. With this added measurement R&D will be able to replace the Firmness Integrator that measures cigarette firmness in addition to other measurements that are mentioned above. The Firmness Integrator is no longer manufactured and parts are becoming difficult to obtain. Lastly, purchase of this instrument would provide similar capability as the Macon Plant and help facilitate comparisions between laboratories.
+ESTIMATED SPENDING SCHEDULE
+Spent Prior to 1989
+Balance to Spend CAPITAL
+CAPITAL
+80
+EXPENSE
+0
+EXPENSE
+1989 SPENDING BY QUARTER
+YEAR
+CAPITAL
+EXPENSE
+JAN .- MAR.
+APR .- JUN.
+JUL .- SEP.
+OCT .- DEC.
+TOTAL
+1990
+CAPITAL
+1991
+EXPENSE
+1992
+1993
+Beyond
+1993
+Submitted by W. 0. Crain
+Approved by
+621099940J :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected: :unselected:
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "Title": "CICARETTE TEST STATION (CT5400)",
+    "Proposed": "x",
+    "TOTAL": "80",
+    "CAPITAL": "80",
+    "EXPENSE": "0",
+    "Completion": [
+        "11",
+        "88"
+    ],
+    "Mo.": "11",
+    "Yr.": "88",
+    "Submission": "88",
+    "Start": [
+        "7",
+        "88"
+    ],
+    "Mo._2": "7",
+    "Yr._2": "88",
+    "CAPITAL_2": "80",
+    "EXPENSE_2": "0",
+    "Spent Prior to": "1989",
+    "YEAR": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "Beyond, 1993"
+    ],
+    "Submitted by": "W. O. Crain",
+    "PROJECT DESCRIPTION": "The Cigarette Test Station (CTS400) combines many of the stand- alone instruments that, R&D currently uses to measure cigarette weight,  pressure drop, ventilation, and, hardness into one compact module. The CTS400 has the additional measurement of, cigarette hardness in comparison with the CTS300. With this added, measurement R&D will, be able to replace the Firmness Integrator that measures cigarette firmness in, to other addition, measurements that are mentioned above. The Firmness Integrator is no longer, manufactured and parts are becoming difficult to obtain. Lastly,  of this, provide similar capability as the Macon Plant and help facilitate, comparisions between laboratories.",
+    "Purpose": "1, X Maintenance of Existing Business",
+    "Approved;": "",
+    "Yr._3": "",
+    "CAPITAL_3": "",
+    "EXPENSE_3": "",
+    "JAN.": "",
+    "-MAR.": "",
+    "APR.": "",
+    "-JUN.": "",
+    "JUL.": "",
+    "-DEC": "",
+    "TOTAL_2": "",
+    "EXPENSE_4": "",
+    "CAPITAL_4": "",
+    "-SEP": "",
+    "OCT.": "",
+    "EXPENSE_5": "",
+    "CAPITAL_5": "",
+    "Date Submitted": "",
+    "Capital Budget": "",
+    "This Project is": "",
+    "Proposal No.": "",
+    "Approved by": "",
+    "[OTHER]": [
+        "0465E",
+        "($000)",
+        "621099940J",
+        "FA 956 (5- 85)",
+        "g1 0081. (d)",
+        "1989 SPENDING BY QUARTER"
+    ],
+    "[HEADER]": [
+        "Status",
+        "BROWN & WILLIAMSON TOBACCO CORPORATION",
+        "CAPITAL BUDGET PROJECT",
+        "R&D",
+        "Estimate Cost",
+        "Project Dates",
+        "ESTIMATED SPENDING SCHEDULE",
+        "Balance to Spend"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
+
+====================================================================================================
+EXAMPLE 15
+====================================================================================================
+
+INPUT:
+--------------------------------------------------
+SECRET
+CHAMP S/L TRIAL SPECIFICATION
+CIGARETTE MAKING
+Physical Characteristics
+BWIT Suggestion
+HK Trial
+Overall Cigarette Length
+99 mot
+99 mm ⑇ :selected:
+Tobacco Rod Length
+72 mm
+72 mm 1 :selected:
+Filter Plug Length
+27 mm
+27 mm Y :selected:
+Filter Plug Pressure Drop (unencap. )
+mm
+62 mm
+Filter Plug Pressure Drop (encap.)
+58.5 mm
+58.5 mm :selected:
+Cigarette Circumference
+24.8 mm
+24.8 mm 1 :selected:
+Total Pressure Drop (unencap. )
+mm
+mm
+Total Pressure Drop (encap. )
+:
+Tipping Length
+32 mm
+32 mm
+Print Position ( from filter end)
+35 mm
+35 mm
+Moisture Content (Packing)
+13 %
+13 %
+Filter Ventilation Rate
+Weights
+Total Cigarette Weight
+mg
+mg
+Net Net Tobacco
+858 ME
+858 mg
+Tobacco Rod Density
+243.6 mg/cc
+243.6mg/cc
+Tipping and Tipping Application
+Tipping Paper:
+Supplier(s)
+ECUSTA/B&W
+ECUSTA/B & W
+Supplier Code No(s).
+Color
+-
+Perforation Type & No. of lines
+N/A
+N/A
+Porosity
+Non Porous
+Non Porous
+Print Description
+N/A
+N. A
+Bobbin Width
+64 mm
+64 mm
+Bobbin Length
+2500 M
+2500 M
+Substance
+36 cm/M2
+36 OGL/M2
+620753790
+--------------------------------------------------
+
+OUTPUT:
+--------------------------------------------------
+{
+    "Supplier(s)": [
+        "ECUSTA/ B&W",
+        "ECUSTA/ B & W"
+    ],
+    "Porosity": [
+        "Non Porous",
+        "Non Porous"
+    ],
+    "Substance": [
+        "36 nm/ M2",
+        "36 nm /47M2"
+    ],
+    "Filter Plug Pressure Drop (unencap.)": [
+        "mm",
+        "62 mm"
+    ],
+    "BWIT, Suggestion": [
+        "mm",
+        "mg",
+        "99 mm",
+        "72 mm",
+        "27 mm",
+        "58.5 mm",
+        "24.8, mm",
+        "32 mm",
+        "858 mg",
+        "243.6 mg/ ",
+        "35 mm",
+        "13 %"
+    ],
+    "Moisture content (Packing)": [
+        "13%",
+        "13 %"
+    ],
+    "HK Trial": [
+        "13%",
+        "mg",
+        "99 mm",
+        "72 mm",
+        "27 mm",
+        "62 mm",
+        "58.5 mm",
+        "24.8, mm",
+        "32 mm",
+        "35 mm",
+        "858 mg",
+        "243.6 mg/ cc",
+        "mm"
+    ],
+    "Total Cigarette Weight": [
+        "mg",
+        "mg"
+    ],
+    "Perforation Type & No. of lines": [
+        "N/A",
+        "N/A"
+    ],
+    "Print Description": [
+        "N/A",
+        "N/A"
+    ],
+    "Overall Cigarette Length": [
+        "99 mm",
+        "99 mm"
+    ],
+    "Tobacco Rod Length": [
+        "72 mm",
+        "72 mm"
+    ],
+    "Filter Plug Length": [
+        "27 mm",
+        "27 mm"
+    ],
+    "Filter Plug Pressure Drop (encap.)": [
+        "58.5 mm",
+        "58.5 mm"
+    ],
+    "Cigarette Circumference": [
+        "24.8, mm",
+        "24.8, mm"
+    ],
+    "Tipping Length": [
+        "32 mm",
+        "32 mm"
+    ],
+    "Print Position (from filter end)": [
+        "35 mm",
+        "35 mm"
+    ],
+    "Net Net Tobacco": [
+        "858 mg",
+        "858 mg"
+    ],
+    "Tobacco Rod Density": [
+        "243.6 mg/ ",
+        "243.6 mg/ cc"
+    ],
+    "Bobbin Width": [
+        "64 mm",
+        "64 mm"
+    ],
+    "Dobbin Length": [
+        "2500 M",
+        "2500 M"
+    ],
+    "Total Pressure Drop (unencap.)": [
+        "mm",
+        "mm"
+    ],
+    "Color": "",
+    "Total Pressure Drop (encap.)": "",
+    "Filter Ventilation Rate": "",
+    "Supplier Code No(s).": "",
+    "[OTHER]": [
+        "SECRET",
+        "620753790"
+    ],
+    "[HEADER]": [
+        "Weights",
+        "CHAMP S/ L",
+        "TRIAL SPECIFICATION",
+        "CIGARETTE MAKING",
+        "Physical Characteristics",
+        "Tipping and Tipping Application",
+        "Tipping Paper:"
+    ]
+}
+--------------------------------------------------
+
+====================================================================================================
+
